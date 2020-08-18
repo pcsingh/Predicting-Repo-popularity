@@ -1,2 +1,2 @@
 # Predicting-Repo-popularity
-This model will predict the popularity of GitHub repository using it's title as input.
+Machine model that can predict the popularity of GitHub repository using it's title and some other stuffs as input.
