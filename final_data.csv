@@ -1,4 +1,4 @@
-,repo_name,star,fork,watch,issue,tags,discription,contributers,license,repo_url,most_used_lang
+,repo_name,star,fork,watch,issue,tags,description,contributers,license,repo_url,most_used_lang
 0,keras,47.9k,18.1k,2.1k,"2,940","['deep-learning', 'tensorflow', 'neural-networks', 'machine-learning', 'data-science', 'python']",Deep Learning for humans,49,View license,https://github.com/keras-team/keras,Python
 1,scikit-learn,40.3k,19.6k,2.2k,"1,505","['machine-learning', 'python', 'statistics', 'data-science', 'data-analysis']",scikit-learn: machine learning in Python,108,View license,https://github.com/scikit-learn/scikit-learn,Python
 2,PythonDataScienceHandbook,23.1k,9.9k,1.5k,65,"['scikit-learn', 'numpy', 'python', 'jupyter-notebook', 'matplotlib', 'pandas']",Python Data Science Handbook: full text in Jupyter Notebooks,0,View license,https://github.com/jakevdp/PythonDataScienceHandbook,Jupyter Notebook
