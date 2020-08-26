@@ -1,6 +1,6 @@
 # Predicting-Repo-popularity
 
-Machine model that can predict the popularity of GitHub repository using it's title and some other stuffs as input. Here, popularity means the number of stars ✨ it can get. So, for data we use scripts to scrap data from github.
+Machine learning model that can predict the popularity of GitHub repository just by giving your repo URL in the input. Here, popularity means the number of stars ✨ it can get in the future. So, for data we use scripts to scrap data from github.
 
 Folder `datasets` contains data files and script to extract data. And then the `final_data.csv` contains all the combine data of repositories which has columns `repo_name`, `star`, `fork`, `watch`, `issue`, `tags`, `most_used_lang`, `discription`, `contributors`, `license`, and `repo_url`.
 
