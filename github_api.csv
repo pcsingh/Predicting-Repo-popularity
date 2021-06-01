@@ -1,1 +1,1270 @@
-,repo_name,star,fork,watch,issue,tags,description,contributers,license,repo_url,most_used_lang,Unnamed: 0
+,repo_name,star,fork,watch,issue,tags,description,contributers,license,repo_url,most_used_lang
+0,30daysoflaptops.github.io,7,2,7,0,[],,1,,https://github.com/mojombo/30daysoflaptops.github.io.git,CSS
+1,asteroids,93,13,93,3,[],"Destroy your Atom editor, Asteroids style!",2,other,https://github.com/mojombo/asteroids.git,JavaScript
+2,benbalter.github.com,5,6,5,0,[],The personal website of Ben Balter. Built using Jekyll and GitHub Pages. See humans.txt for more infos.,30,,https://github.com/mojombo/benbalter.github.com.git,CSS
+3,bert,199,67,199,11,[],BERT (Binary ERlang Term) serialization library for Ruby.,9,mit,https://github.com/mojombo/bert.git,Ruby
+4,bert.erl,94,51,94,6,[],Erlang BERT encoder/decoder,1,mit,https://github.com/mojombo/bert.erl.git,Erlang
+5,bertrpc,157,30,157,0,[],BERTRPC is a Ruby BERT-RPC client library.,6,mit,https://github.com/mojombo/bertrpc.git,Ruby
+6,bower,4,3,4,0,[],A package manager for the web,19,mit,https://github.com/mojombo/bower.git,JavaScript
+7,chronic,3101,458,3101,146,[],Chronic is a pure Ruby natural language date parser.,30,mit,https://github.com/mojombo/chronic.git,Ruby
+8,clippy,953,180,953,24,[],Clippy is a very simple Flash widget that makes it possible to place arbitrary text onto the client's clipboard.,1,mit,https://github.com/mojombo/clippy.git,
+9,conceptual_algorithms,4,2,4,0,[],,1,,https://github.com/mojombo/conceptual_algorithms.git,
+10,cubesixel,22,3,22,1,[],A pixel font (native size 7x7) I made in a different life,1,mit,https://github.com/mojombo/cubesixel.git,
+11,docz-website,1,0,1,0,[],,24,,https://github.com/mojombo/docz-website.git,TypeScript
+12,egitd,109,17,109,1,[],The Erlang git-daemon,1,mit,https://github.com/mojombo/egitd.git,Erlang
+13,endo,3,2,3,0,[],Test repo for talk.,2,,https://github.com/mojombo/endo.git,
+14,erlang_pipe,19,3,19,0,[],A pipe implementation in pure Erlang,1,,https://github.com/mojombo/erlang_pipe.git,Erlang
+15,erlectricity,339,47,339,4,[],Erlectricity exposes Ruby to Erlang and vice versa.,6,mit,https://github.com/mojombo/erlectricity.git,Ruby
+16,erlectricity-presentation,4,4,4,0,[],,1,,https://github.com/mojombo/erlectricity-presentation.git,
+17,erlenmeyer,7,0,7,0,[],A binding between erlang and mzscheme.,1,,https://github.com/mojombo/erlenmeyer.git,Scheme
+18,ernie,451,54,451,9,[],Ernie is an Erlang/Ruby BERT-RPC Server.,5,mit,https://github.com/mojombo/ernie.git,Erlang
+19,eventmachine,10,4,10,0,[],"EventMachine: fast, simple event-processing library for Ruby programs",12,,https://github.com/mojombo/eventmachine.git,Ruby
+20,fakegem,3,1,3,0,[],This is a fake gem so I can test GitHub's gem building when I need to,1,mit,https://github.com/mojombo/fakegem.git,Ruby
+21,fixture-scenarios,17,13,17,1,[],This plugin allows you to create 'scenarios' which are collections of fixtures and ruby files that represent a context against which you can run tests.,1,mit,https://github.com/mojombo/fixture-scenarios.git,Ruby
+22,git,10,5,10,0,[],"GitHub mirror of the publicly available git repo, updated hourly.  It's here so we can use the collaboration tools of GitHub. Updates ONLY from git public repo.  If you want changes pulled, contact the git team, not me.",30,other,https://github.com/mojombo/git.git,C
+23,git-bzr,7,1,7,0,[],A bidirectional Git - Bazaar gateway,1,,https://github.com/mojombo/git-bzr.git,
+24,github-flavored-markdown,183,90,183,36,[],GitHub's Flavor of Markdown,1,,https://github.com/mojombo/github-flavored-markdown.git,
+25,github-gem,5,0,5,0,[],The official `github` command line helper for simplifying your GitHub experience.,12,mit,https://github.com/mojombo/github-gem.git,Ruby
+26,glowstick,29,11,29,1,[],"A realtime, OpenGL graphing library for Ruby",1,,https://github.com/mojombo/glowstick.git,Ruby
+27,god,2170,493,2170,116,[],Ruby process monitor,30,mit,https://github.com/mojombo/god.git,Ruby
+28,gollum-demo,74,215,74,3,[],Gollum test repo,1,,https://github.com/mojombo/gollum-demo.git,Perl
+29,grit,1927,527,1927,26,[],**Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby.,30,mit,https://github.com/mojombo/grit.git,Ruby
+30,abbot-from-scratch,8,4,8,1,[],,3,,https://github.com/wycats/abbot-from-scratch.git,Ruby
+31,abbot-ng,2,2,2,0,[],a place to store my in-progress work on the redone SproutCore build tools,1,,https://github.com/wycats/abbot-ng.git,Ruby
+32,activerecord-import,2,1,2,0,[],Extraction of the ActiveRecord::Base#import functionality from ar-extensions for Rails 3 and beyon,8,,https://github.com/wycats/activerecord-import.git,Ruby
+33,active_params,7,1,7,0,[],,1,mit,https://github.com/wycats/active_params.git,
+34,agendas,0,1,0,0,[],TC39 meeting agendas,20,,https://github.com/wycats/agendas.git,
+35,alexandria,10,2,10,0,[],Ruby bindings to the Google Data API,1,,https://github.com/wycats/alexandria.git,Ruby
+36,allocation_counter,7,2,7,0,[],,1,mit,https://github.com/wycats/allocation_counter.git,Ruby
+37,argon,12,1,12,5,[],,1,,https://github.com/wycats/argon.git,Rust
+38,argon-example,1,0,1,0,[],,1,,https://github.com/wycats/argon-example.git,
+39,artifice,215,15,215,12,[],Replaces Net::HTTP with a subclass that routes all requests to a Rack application,6,mit,https://github.com/wycats/artifice.git,Ruby
+40,asdf,33,5,33,3,[],Make the current directory available on port 9292,1,,https://github.com/wycats/asdf.git,Ruby
+41,at-media,3,1,3,0,[],The code from my @media talk,1,,https://github.com/wycats/at-media.git,
+42,atom-pain-split,0,1,0,0,[],"Adds additional pane-splitting commands to your favorite editor, provided your favorite editor is Atom.",3,agpl-3.0,https://github.com/wycats/atom-pain-split.git,CoffeeScript
+43,bench-backburner,0,0,0,0,[],Benchmark backburner,2,,https://github.com/wycats/bench-backburner.git,TypeScript
+44,benchwarmer,31,5,31,0,[],Prettier Benchmarking for Ruby,2,mit,https://github.com/wycats/benchwarmer.git,Ruby
+45,blue-ridge,21,1,21,0,[],JavaScript BDD Rails Plugin (using Screw.Unit &amp; env.js),4,mit,https://github.com/wycats/blue-ridge.git,Ruby
+46,bootstrap-nitrous,2,1,2,0,[],,1,mit,https://github.com/wycats/bootstrap-nitrous.git,Ruby
+47,broccoli-concat,0,1,0,0,[],Concatenate broccoli trees,21,mit,https://github.com/wycats/broccoli-concat.git,JavaScript
+48,broccoli-typescript-compiler,0,0,0,0,[],,28,mit,https://github.com/wycats/broccoli-typescript-compiler.git,TypeScript
+49,bundler,412,31,412,81,[],,14,,https://github.com/wycats/bundler.git,Ruby
+50,cafe,3,1,3,0,[],Brewing up some JavaScript.,1,,https://github.com/wycats/cafe.git,JavaScript
+51,cargo,1,1,1,0,[],Cargo Experiments,11,other,https://github.com/wycats/cargo.git,Rust
+52,cargo-website,5,18,5,4,[],,11,,https://github.com/wycats/cargo-website.git,CSS
+53,chacha,1,0,1,0,[],,1,,https://github.com/wycats/chacha.git,Rust
+54,chainable_compare,11,2,11,0,[],,1,,https://github.com/wycats/chainable_compare.git,Ruby
+55,codespan,1,0,1,0,[],Utilities for dealing with source code locations and pretty diagnostic formatting,5,apache-2.0,https://github.com/wycats/codespan.git,Rust
+56,color-rs,0,1,0,0,[],A library that provides types and conversions for working with various color formats.,6,apache-2.0,https://github.com/wycats/color-rs.git,Rust
+57,Command-T,1,0,1,0,[],Mirror of the official Command-T repository at git.wincent.com,10,bsd-2-clause,https://github.com/wycats/Command-T.git,Ruby
+58,core-data,3,0,3,7,[],Very experimental data layer,2,mit,https://github.com/wycats/core-data.git,TypeScript
+59,core-storage,4,0,4,0,[],,1,,https://github.com/wycats/core-storage.git,TypeScript
+60,aports,0,0,0,0,[],Mirror of aports repository,30,,https://github.com/rubinius/aports.git,Shell
+61,atom-rubinius-terminal,4,0,4,13,[],A terminal for running Rubinius in Atom,1,mpl-2.0,https://github.com/rubinius/atom-rubinius-terminal.git,CoffeeScript
+62,atomy,0,0,0,0,[],"a modular, macro-ular, totally tubular language for the Rubinius VM. #atomo @ freenode",3,apache-2.0,https://github.com/rubinius/atomy.git,Ruby
+63,bundler-canary,0,0,0,0,[],A repository to assist troubleshooting Bundler + RubySL issues.,1,mit,https://github.com/rubinius/bundler-canary.git,Ruby
+64,chaos,2,0,2,0,[],"Chaos is a multi-threaded, multi-process, highly parallel application exhibiting heavy object allocation, IO, and CPU-bound workloads.",1,mpl-2.0,https://github.com/rubinius/chaos.git,
+65,chrb,0,0,0,1,[],A tool to activate a Ruby engine.,1,mpl-2.0,https://github.com/rubinius/chrb.git,Ruby
+66,chruby,1,0,1,0,[],Changes the current Ruby,30,mit,https://github.com/rubinius/chruby.git,Shell
+67,collateral,5,0,5,0,[],"Rubinius logos, graphics and design",1,,https://github.com/rubinius/collateral.git,
+68,daedalus-core,1,2,1,0,[],A build system.,3,bsd-3-clause,https://github.com/rubinius/daedalus-core.git,Ruby
+69,docker,3,1,3,4,[],Dockerfiles for Rubinius on various platforms.,1,mpl-2.0,https://github.com/rubinius/docker.git,JavaScript
+70,ffi2,1,0,1,0,[],Ruby Foreign Function Interface,2,bsd-3-clause,https://github.com/rubinius/ffi2.git,Ruby
+71,ffi2-generators,1,0,1,1,[],,2,bsd-3-clause,https://github.com/rubinius/ffi2-generators.git,Ruby
+72,heroku-rbx-puma-rails-app,12,2,12,0,[],How to get an app running on Heroku using Rubinius and Puma,1,,https://github.com/rubinius/heroku-rbx-puma-rails-app.git,Ruby
+73,homebrew-apps,3,7,3,4,[],Homebrew formula.,8,,https://github.com/rubinius/homebrew-apps.git,Ruby
+74,influxdb-grafana,11,5,11,0,[],Docker container for using InfluxDB + Grafana to consume Rubinius Metrics StatsD output,4,mpl-2.0,https://github.com/rubinius/influxdb-grafana.git,JavaScript
+75,license,0,0,0,0,[],Rubinius project licenses.,1,other,https://github.com/rubinius/license.git,
+76,literate-ruby,4,8,4,0,[],A literate specification for the Ruby programming language,1,,https://github.com/rubinius/literate-ruby.git,
+77,melbourne,8,2,8,1,[],Rubinius Melbourne parser,2,bsd-3-clause,https://github.com/rubinius/melbourne.git,C++
+78,mkrb,4,0,4,0,[],A tool to install or build a Ruby engine.,1,mpl-2.0,https://github.com/rubinius/mkrb.git,Shell
+79,mspec,0,0,0,0,[],RSpec-syntax compatible framework for RubySpecs,30,mit,https://github.com/rubinius/mspec.git,Ruby
+80,oniguruma,9,1,9,0,[],Import of Oniguruma 5.9.2 combined with MRI 1.9 and Rubinius modifications,2,other,https://github.com/rubinius/oniguruma.git,C
+81,openssl-canary,0,0,0,0,[],Test whether Rubinius binaries for Travis can load OpenSSL,1,,https://github.com/rubinius/openssl-canary.git,
+82,rapa,22,6,22,0,[],Ragel-based implementation of Ruby's Array#pack and String#unpack.,6,mit,https://github.com/rubinius/rapa.git,Ragel
+83,roda,0,0,0,0,[],Routing Tree Web Framework Toolkit,30,mit,https://github.com/rubinius/roda.git,Ruby
+84,rubinius,2969,591,2969,5,"['virtual-machine', 'rubinius', 'programming-languages']",The Rubinius Language Platform,30,other,https://github.com/rubinius/rubinius.git,C
+85,rubinius-actor,25,4,25,0,[],An Actor library that uses the Rubinius core API,7,other,https://github.com/rubinius/rubinius-actor.git,Ruby
+86,rubinius-benchmark,0,2,0,1,[],Benchmarking Ruby and Rubinius,6,bsd-3-clause,https://github.com/rubinius/rubinius-benchmark.git,Ruby
+87,rubinius-book,14,6,14,2,[],The Rubinius Book,2,other,https://github.com/rubinius/rubinius-book.git,
+88,rubinius-bridge,1,1,1,0,[],Classes and methods to run Rubinius tools under MRI,3,bsd-3-clause,https://github.com/rubinius/rubinius-bridge.git,Ruby
+89,rubinius-build,0,0,0,0,[],Temporary repository to build Ubuntu 12.04 binaries,1,mpl-2.0,https://github.com/rubinius/rubinius-build.git,
+90,amqp,4,0,4,0,[],AMQP client implementation in Ruby/EventMachine,1,,https://github.com/vanpelt/amqp.git,Ruby
+91,analytics-ruby,1,1,1,0,[],The hassle-free way to integrate analytics into any Ruby application.,10,,https://github.com/vanpelt/analytics-ruby.git,Ruby
+92,api-blueprint,0,1,0,0,[],API Blueprint,10,mit,https://github.com/vanpelt/api-blueprint.git,
+93,apollo-client,0,0,0,0,[],":rocket: A fully-featured, production ready caching GraphQL client for every server or UI framework",30,mit,https://github.com/vanpelt/apollo-client.git,TypeScript
+94,async-observer,3,1,3,0,[],Rails plugin that provides deep integration with Beanstalk.,0,gpl-3.0,https://github.com/vanpelt/async-observer.git,Ruby
+95,blueprint,0,0,0,0,[],A React UI toolkit for the web,20,other,https://github.com/vanpelt/blueprint.git,TypeScript
+96,CardMaven,7,4,7,0,[],"An iOS card game app that allows for multiple variants of games, multi-player over bluetooth, and much more... ",1,,https://github.com/vanpelt/CardMaven.git,Objective-C
+97,chris-snez,1,1,1,0,[],My better half and I now have our own website...,1,,https://github.com/vanpelt/chris-snez.git,
+98,ConcatenateBlobs,0,0,0,0,[],Simply pass array of blobs. This javascript library will concatenate all blobs in single Blob object.,1,,https://github.com/vanpelt/ConcatenateBlobs.git,HTML
+99,contacts,2,0,2,0,[],"A universal interface to grab contact list information from various providers including Yahoo, Gmail, Hotmail, and Plaxo.",0,bsd-3-clause,https://github.com/vanpelt/contacts.git,Ruby
+100,create-react-app,0,0,0,0,[],Create React apps with no build configuration.,30,mit,https://github.com/vanpelt/create-react-app.git,JavaScript
+101,cube,1,1,1,0,[],Cube: A system for time series visualization.,3,other,https://github.com/vanpelt/cube.git,JavaScript
+102,deepo,0,0,0,0,[],"A Docker image containing almost all popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.",1,mit,https://github.com/vanpelt/deepo.git,
+103,delayed_job,7,5,7,0,[],Database backed asynchronous priority queue -- Extracted from Shopify ,13,mit,https://github.com/vanpelt/delayed_job.git,Ruby
+104,dm-imap-adapter,14,3,14,2,[],"An IMAP adapter for DataMapper.  Supports reading, writing, updating... the whole works.",0,mit,https://github.com/vanpelt/dm-imap-adapter.git,Ruby
+105,emotion-detector,2,1,2,9,[],Emotion detector with tfjs,1,,https://github.com/vanpelt/emotion-detector.git,JavaScript
+106,evercookie,1,1,1,0,[],"evercookie is a javascript API available that produces extremely persistent cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (Local Shared Objects or LSOs), and others. ",5,,https://github.com/vanpelt/evercookie.git,JavaScript
+107,fancy-zoom,7,2,7,0,[],Zoomy JavaScript based loosely on Fancy Zoom by Cabel Sasser.,3,,https://github.com/vanpelt/fancy-zoom.git,JavaScript
+108,Faster-RCNN_CloudML,3,0,3,0,[],Faster-RCNN for Cloud ML,7,,https://github.com/vanpelt/Faster-RCNN_CloudML.git,Python
+109,font-facer,1,0,1,12,[],A UI for interpolating fonts,2,,https://github.com/vanpelt/font-facer.git,JavaScript
+110,fsdl-text-recognizer,0,0,0,0,[],Repo that generates https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project,6,,https://github.com/vanpelt/fsdl-text-recognizer.git,Jupyter Notebook
+111,guestlist,0,1,0,0,[],Engineering guest list for the Nightmix party,14,,https://github.com/vanpelt/guestlist.git,
+112,instimage,2,1,2,0,[],A lightweight javascript interface for choosing images from arbitrary urls,0,,https://github.com/vanpelt/instimage.git,JavaScript
+113,jekyll,2,0,2,0,[],"Jekyll is a blog-aware, static site generator in Ruby",3,,https://github.com/vanpelt/jekyll.git,Ruby
+114,js-data-cloud-datastore,0,0,0,0,[],"Google Cloud Datastore adapter for js-data. Main Site: http://js-data.io, API Reference Docs: http://googlecloudplatform.github.io/js-data-cloud-datastore/",1,apache-2.0,https://github.com/vanpelt/js-data-cloud-datastore.git,JavaScript
+115,js-segment-annotator,0,1,0,0,[],Javascript image annotation tool based on image segmentation.,4,bsd-3-clause,https://github.com/vanpelt/js-segment-annotator.git,JavaScript
+116,jsawesome,51,4,51,1,[],Awesome JSON,1,mit,https://github.com/vanpelt/jsawesome.git,JavaScript
+117,KittiSeg,0,0,0,0,[],A Kitti Road Segmentation model implemented in tensorflow.,4,mit,https://github.com/vanpelt/KittiSeg.git,Python
+118,lyndon,1,1,1,0,[],Lyndon wraps JavaScript in a loving MacRuby embrace.,1,mit,https://github.com/vanpelt/lyndon.git,Ruby
+119,mali,0,0,0,0,[],A minimalistic gRPC microservice framework for Node.js,1,apache-2.0,https://github.com/vanpelt/mali.git,JavaScript
+120,ace,16,6,16,0,[],Ajax.org Cloud9 Editor,30,other,https://github.com/defunkt/ace.git,JavaScript
+121,acts_as_textiled,114,33,114,4,[],Makes your models act as textiled.,1,mit,https://github.com/defunkt/acts_as_textiled.git,Ruby
+122,ambition,155,19,155,1,[],include Enumerable — Unmaintained,3,mit,https://github.com/defunkt/ambition.git,Ruby
+123,ambitious_activeldap,7,4,7,0,[],Ambition adapter for ActiveLdap,2,mit,https://github.com/defunkt/ambitious_activeldap.git,Ruby
+124,ambitious_activerecord,13,3,13,1,[],"Unmaintained Ambitious ActiveRecord adapter, for Ambition.",1,mit,https://github.com/defunkt/ambitious_activerecord.git,Ruby
+125,barefootexamples,6,4,6,0,[],,1,,https://github.com/defunkt/barefootexamples.git,Ruby
+126,body_matcher,9,2,9,0,[],Simplify your view testing. Forget assert_select.,1,mit,https://github.com/defunkt/body_matcher.git,Ruby
+127,burn,6,3,6,0,[],Sinatra => Campfire,1,,https://github.com/defunkt/burn.git,
+128,cache_fu,252,73,252,6,[],Ghost from Christmas past. Unmaintained.,4,mit,https://github.com/defunkt/cache_fu.git,Ruby
+129,cheat,240,41,240,3,[],Cheating is fun!,12,mit,https://github.com/defunkt/cheat.git,Ruby
+130,cheat.el,14,4,14,0,[],Cheat Emacs mode,2,,https://github.com/defunkt/cheat.el.git,Emacs Lisp
+131,choice,174,21,174,1,[],Choice is a gem for defining and parsing command line options with a friendly DSL.,5,mit,https://github.com/defunkt/choice.git,Ruby
+132,cijoe,1051,133,1051,19,[],CI Joe is a fun Continuous Integration server. Unmaintained.,27,mit,https://github.com/defunkt/cijoe.git,Ruby
+133,coffee-mode,574,158,574,15,[],Emacs Major Mode for CoffeeScript,30,,https://github.com/defunkt/coffee-mode.git,Emacs Lisp
+134,colored,264,43,264,7,[],Colors in your terminal. Unmaintained.,2,mit,https://github.com/defunkt/colored.git,Ruby
+135,currency_converter,8,4,8,0,[],,1,,https://github.com/defunkt/currency_converter.git,Objective-C
+136,d3,4,1,4,0,[],A JavaScript visualization library for HTML and SVG.,30,other,https://github.com/defunkt/d3.git,JavaScript
+137,defunkt.github.com,74,55,74,4,[],My GitHub Page,2,,https://github.com/defunkt/defunkt.github.com.git,
+138,djangode,9,3,9,0,[],Utilities functions for node.js that borrow some useful concepts from Django,4,bsd-2-clause,https://github.com/defunkt/djangode.git,JavaScript
+139,dodgeball.github.com,10,6,10,0,[],yes,1,,https://github.com/defunkt/dodgeball.github.com.git,Ruby
+140,dotenv,10,3,10,0,[],Loads environment variables from `.env`. ,1,mit,https://github.com/defunkt/dotenv.git,Ruby
+141,dotjs,3179,371,3179,25,[],~/.js,27,mit,https://github.com/defunkt/dotjs.git,Ruby
+142,electron-wordwrap,5,4,5,0,[],,1,,https://github.com/defunkt/electron-wordwrap.git,
+143,emacs,186,45,186,0,[],My Emacs config,4,,https://github.com/defunkt/emacs.git,Emacs Lisp
+144,email_reply_parser,7,5,7,0,[],,2,mit,https://github.com/defunkt/email_reply_parser.git,Ruby
+145,evilbot,48,15,48,0,[],an evil bot that's definitely not for convore,3,mit,https://github.com/defunkt/evilbot.git,CoffeeScript
+146,exception_logger,234,88,234,2,[],Unmaintained. Sorry.,3,,https://github.com/defunkt/exception_logger.git,Ruby
+147,facebox,1956,416,1956,28,[],"Facebook-style lightbox, built in jQuery",17,mit,https://github.com/defunkt/facebox.git,JavaScript
+148,faceup,10,6,10,1,[],More than just mustaches.,3,mit,https://github.com/defunkt/faceup.git,JavaScript
+149,fixture_scenarios_builder,14,5,14,0,[],Build your fixtures in Ruby.,4,mit,https://github.com/defunkt/fixture_scenarios_builder.git,Ruby
+150,-Covid-Vaccine-Scheduling-Tips,0,0,0,0,[],Some tips on finding a Covid Vaccine Appointment,0,,https://github.com/technoweenie/-Covid-Vaccine-Scheduling-Tips.git,
+151,15,3,2,3,0,[],,1,,https://github.com/technoweenie/15.git,
+152,activesupport_notifications_backport,10,2,10,0,[],,1,mit,https://github.com/technoweenie/activesupport_notifications_backport.git,Ruby
+153,active_record_context,4,4,4,0,[],simple identity map for active record.  eager loading associations FTL,0,,https://github.com/technoweenie/active_record_context.git,Ruby
+154,acts_as_versioned,410,162,410,17,[],ActiveRecord plugin for versioning your models.,12,mit,https://github.com/technoweenie/acts_as_versioned.git,Ruby
+155,app_bootstrap,29,5,29,0,[],app:bootstrap rake task providing a command line menu to setup a rails app.  ,2,,https://github.com/technoweenie/app_bootstrap.git,Ruby
+156,apub,2,0,2,0,[],experimental golang package for parsing ActivityPub objects ,1,,https://github.com/technoweenie/apub.git,Go
+157,assert,2,1,2,0,[],Asserts to Go testing,6,,https://github.com/technoweenie/assert.git,Go
+158,astrotrain,28,9,28,0,[],email => http_post,5,mit,https://github.com/technoweenie/astrotrain.git,Ruby
+159,attachment_fu,1021,312,1021,36,[],"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",22,mit,https://github.com/technoweenie/attachment_fu.git,Ruby
+160,beautiful-docs,7,2,7,0,[],"Pointers to useful, well-written, and otherwise beautiful documentation.",5,,https://github.com/technoweenie/beautiful-docs.git,
+161,blog,1,1,1,0,[],Some notes on things I find interesting and important.,1,,https://github.com/technoweenie/blog.git,HTML
+162,brew,1,0,1,0,[],:beer: The missing package manager for OS X,30,other,https://github.com/technoweenie/brew.git,Ruby
+163,call-for-proposals,3,3,3,0,[],Want to make a talk proposal for EuRuKo 2012? This is the place to be!,2,,https://github.com/technoweenie/call-for-proposals.git,
+164,camo.go,4,1,4,0,[],,1,,https://github.com/technoweenie/camo.go.git,Go
+165,can_search,95,7,95,1,[],"Build common named scopes automatically, and provide a simple way to merge them with a single #search call.",3,mit,https://github.com/technoweenie/can_search.git,Ruby
+166,celluloid,2,1,2,0,[],Concurrent objects for Ruby,4,mit,https://github.com/technoweenie/celluloid.git,Ruby
+167,chat_gram,19,10,19,1,[],Barebones Instagram realtime endpoint for posting images to a chat service (Campfire).,3,mit,https://github.com/technoweenie/chat_gram.git,Ruby
+168,coffee-resque,546,46,546,5,[],,7,mit,https://github.com/technoweenie/coffee-resque.git,CoffeeScript
+169,coffee-sprites,6,3,6,0,[],simple html 5 animation/sprites system heavily inspired by http://gamesinhtml5.blogspot.com/2010/07/game-in-progress-sprites-and-animation.html,1,,https://github.com/technoweenie/coffee-sprites.git,JavaScript
+170,context_on_crack,11,4,11,0,[],experimental macros for testing rails controllers.  port of rspec_on_rails_on_crack,3,,https://github.com/technoweenie/context_on_crack.git,
+171,cronwtf,93,14,93,1,[],silly cron => english translator,3,mit,https://github.com/technoweenie/cronwtf.git,JavaScript
+172,dangerroom,7,1,7,0,[],,1,,https://github.com/technoweenie/dangerroom.git,Go
+173,dealer.js,21,7,21,0,[],,1,mit,https://github.com/technoweenie/dealer.js.git,JavaScript
+174,dummy-repo,1,1,1,5,[],,1,,https://github.com/technoweenie/dummy-repo.git,
+175,duplikate,24,3,24,0,[],Syncs one directory to another (example: a git project to an svn repo),2,,https://github.com/technoweenie/duplikate.git,Ruby
+176,elixir-lang.github.com,2,2,2,0,[],Website for Elixir,2,,https://github.com/technoweenie/elixir-lang.github.com.git,JavaScript
+177,elixir-rubyports,4,2,4,0,[],,1,,https://github.com/technoweenie/elixir-rubyports.git,Elixir
+178,emoji-css-builder,29,4,29,0,[],Quick Ruby rake task for generating CSS and tiled image for displaying emoji in browsers.,1,mit,https://github.com/technoweenie/emoji-css-builder.git,Ruby
+179,etcd,1,0,1,0,[],A highly-available key value store for shared configuration and service discovery,30,apache-2.0,https://github.com/technoweenie/etcd.git,Go
+180,airstream,2,0,2,5,"['color', 'color-picker', 'figma', 'figma-plugins']",Color tools plugin for Figma,2,,https://github.com/caged/airstream.git,JavaScript
+181,aixmlserialize,11,3,11,0,[],Aims to convert to and from NSXMLDocuments and NSDictionarys on the iPhone (using KissXML) and OS X.,0,,https://github.com/caged/aixmlserialize.git,Objective-C
+182,asset,3,1,3,0,[],little asset manager for lazy people. written with node ,5,,https://github.com/caged/asset.git,JavaScript
+183,attractor,1,0,1,0,[],,1,,https://github.com/caged/attractor.git,JavaScript
+184,bash-test,1,0,1,0,[],,1,,https://github.com/caged/bash-test.git,Shell
+185,basketball-stats,1,0,1,0,[],,1,,https://github.com/caged/basketball-stats.git,Jupyter Notebook
+186,bbref-graphs,2,2,2,1,[],Chrome extension to convert tables of statistics to charts on http://basketball-reference.com,0,other,https://github.com/caged/bbref-graphs.git,JavaScript
+187,budget,1,0,1,0,[],"A look at Portland, Oregon's city budget over the years",1,,https://github.com/caged/budget.git,JavaScript
+188,canvas-examples,1,0,1,0,[],just a scratchpad for canvas experiments,1,,https://github.com/caged/canvas-examples.git,JavaScript
+189,canvas-sketch,0,0,0,0,[],[beta] A framework for making generative artwork in JavaScript and the browser.,2,mit,https://github.com/caged/canvas-sketch.git,JavaScript
+190,cartile,1,0,1,0,[],,1,,https://github.com/caged/cartile.git,JavaScript
+191,census-tools,1,1,1,0,[],Tools for working with NHGIS (https://www.nhgis.org) census data.,0,,https://github.com/caged/census-tools.git,Shell
+192,cfb-recruiting,1,0,1,0,[],,1,mit,https://github.com/caged/cfb-recruiting.git,Ruby
+193,choochoo,0,0,0,0,[],,1,,https://github.com/caged/choochoo.git,HTML
+194,choropleth,1,0,1,0,[],Quickly create choropleth map images from topojson data,0,,https://github.com/caged/choropleth.git,JavaScript
+195,city-gen,0,0,0,0,[],,1,,https://github.com/caged/city-gen.git,Shell
+196,citylist,1,0,1,0,[],,1,,https://github.com/caged/citylist.git,Python
+197,civil-rights,1,0,1,0,[],A look into education-based civil rights data for public schools released by the US Department of Education U.S. Department of Education.,1,,https://github.com/caged/civil-rights.git,Makefile
+198,cocos2d-game,16,2,16,0,[],Xcode Template for cocos2d-based iPhone games.  Includes cocos2d 0.6.3 & the Chipmunk physics engine.,0,,https://github.com/caged/cocos2d-game.git,Objective-C
+199,color-wander,1,0,1,0,[],:art: Generative artwork in node/browser based on a seeded random,3,mit,https://github.com/caged/color-wander.git,JavaScript
+200,compass,2,0,2,0,[],Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.,30,other,https://github.com/caged/compass.git,Ruby
+201,concurrent-nsoperation,7,1,7,0,[],Concurrent NSOperation Sample,2,,https://github.com/caged/concurrent-nsoperation.git,Objective-C
+202,construction,1,0,1,0,[],,1,,https://github.com/caged/construction.git,Makefile
+203,council-report,4,4,4,0,[],Fetch and parse Portland City Council data,3,,https://github.com/caged/council-report.git,Ruby
+204,county-stat,3,0,3,0,[],Experiment for exploring aggregate census data.  Counties-only for now.,0,,https://github.com/caged/county-stat.git,JavaScript
+205,csv2psql,1,2,1,0,[],Converts a CSV file into a PostgreSQL table,0,,https://github.com/caged/csv2psql.git,Python
+206,cubism,3,0,3,0,[],Cubism.js: A JavaScript library for time series visualization.,1,other,https://github.com/caged/cubism.git,JavaScript
+207,d3,3,0,3,0,[],A JavaScript visualization library for HTML and SVG.,30,other,https://github.com/caged/d3.git,JavaScript
+208,d3-grid,1,0,1,0,[],D3 grid layout,1,bsd-3-clause,https://github.com/caged/d3-grid.git,
+209,d3-plugins,3,1,3,0,[],A repository for sharing D3.js plugins.,10,other,https://github.com/caged/d3-plugins.git,JavaScript
+210,ansible,1,0,1,0,[],"Michael's copy of Ansible.  Model-driven configuration management, multi-node deployment, and remote task execution system.   Fork github.com/ansible/ansible instead!",30,gpl-3.0,https://github.com/anotherjesse/ansible.git,Python
+211,ansible-playbook-gitlab,1,1,1,0,[],Playbook for installing GitLab 5.1 on Debian unstable,1,,https://github.com/anotherjesse/ansible-playbook-gitlab.git,
+212,ansible.github.com,0,1,0,0,[],ansible.github.com web site,21,,https://github.com/anotherjesse/ansible.github.com.git,JavaScript
+213,barb,1,0,1,0,[],,0,,https://github.com/anotherjesse/barb.git,JavaScript
+214,bb-site,5,4,5,0,[],Book Burro website (couchdb+sinatra),1,,https://github.com/anotherjesse/bb-site.git,Ruby
+215,beboist,2,2,2,0,[],A Rails plugin to work with the Bebo API,1,,https://github.com/anotherjesse/beboist.git,Ruby
+216,big-brother,2,1,2,0,[],use the iSight camera to remind you that you are being watched,1,,https://github.com/anotherjesse/big-brother.git,Python
+217,bookburro,16,8,16,0,[],Book Burro for Firefox,4,gpl-3.0,https://github.com/anotherjesse/bookburro.git,JavaScript
+218,caltrain,2,2,2,0,[],source of caltrainapp.com,1,,https://github.com/anotherjesse/caltrain.git,JavaScript
+219,chrome-s3,5,14,5,0,[],chrome extension to browse Amazon S3,1,gpl-3.0,https://github.com/anotherjesse/chrome-s3.git,JavaScript
+220,chromr,6,4,6,0,[],flickr new tab ui,1,gpl-3.0,https://github.com/anotherjesse/chromr.git,
+221,cloudenvy,1,1,1,0,[],,6,,https://github.com/anotherjesse/cloudenvy.git,Python
+222,Cointoss-Ruby,1,1,1,0,[],Port of cointoss.wakingideas.com to ruby,2,,https://github.com/anotherjesse/Cointoss-Ruby.git,Ruby
+223,contacts,4,2,4,0,[],rails 2.1 + sproutcore,1,,https://github.com/anotherjesse/contacts.git,Ruby
+224,cuisine,1,1,1,0,[],Chef-like functionality for Fabric,7,other,https://github.com/anotherjesse/cuisine.git,Python
+225,dotfiles,3,1,3,0,[],,1,,https://github.com/anotherjesse/dotfiles.git,Emacs Lisp
+226,droplet,3,1,3,0,[],rain drops of music from the cloud,1,,https://github.com/anotherjesse/droplet.git,
+227,elasticfox,9,3,9,1,[],ec2 extension for firefox,1,apache-2.0,https://github.com/anotherjesse/elasticfox.git,JavaScript
+228,electron_phoenix_boilerplate,0,0,0,0,[],Is embedding an elixir application inside of an Electron desktop app a terrible idea?,3,,https://github.com/anotherjesse/electron_phoenix_boilerplate.git,Elixir
+229,erlanguniversity,3,1,3,0,[],hacking during kevin smith's web+erlang course,1,,https://github.com/anotherjesse/erlanguniversity.git,Erlang
+230,erlws,5,1,5,0,[],b,1,,https://github.com/anotherjesse/erlws.git,Erlang
+231,etherpad,3,2,3,0,[],Madriska's fork of Etherpad with PostgreSQL support.,2,apache-2.0,https://github.com/anotherjesse/etherpad.git,Java
+232,euler,3,1,3,0,[],my project euler solutions,1,,https://github.com/anotherjesse/euler.git,Ruby
+233,exception_logger,5,3,5,0,[],our hacks to exception_logger,2,,https://github.com/anotherjesse/exception_logger.git,Ruby
+234,finally,6,2,6,0,[],,1,,https://github.com/anotherjesse/finally.git,JavaScript
+235,firenomics,11,6,11,0,[],Firenomics is a place to find and share awesome extensions. ,3,,https://github.com/anotherjesse/firenomics.git,Python
+236,flashlitebox,8,2,8,0,[],"Full screen ""lightbox"" in flash in under 1KB",1,,https://github.com/anotherjesse/flashlitebox.git,ActionScript
+237,fluidium,2,1,2,0,[],"A Native Mac OS X Browser Platform based on WebKit with a Cocoa plug-in architecture, tab thumbnails, web splitviews, userscripting, userstyles, URL shortcuts, Twitter timelines, Sparkle Update, Growl, JS Dock Badge API, more.",2,apache-2.0,https://github.com/anotherjesse/fluidium.git,Objective-C
+238,fobliki,12,5,12,0,[],"Forum, Blog, Wiki for AppEngine",1,,https://github.com/anotherjesse/fobliki.git,Python
+239,fotomatic,13,5,13,0,[],Flash photo widget prototype - hacked at last SHDH of 2007,1,,https://github.com/anotherjesse/fotomatic.git,ActionScript
+240,bingo,1,0,1,0,[],Bingo: An easy to learn programming language for first timers,2,,https://github.com/macournoyer/bingo.git,JavaScript
+241,cache_digests,1,1,1,0,[],,6,mit,https://github.com/macournoyer/cache_digests.git,Ruby
+242,confoo,6,0,6,0,[],My Confoo.ca presentation: How to kick assess with asynchronous processing,1,,https://github.com/macournoyer/confoo.git,Ruby
+243,em-spec,3,1,3,0,[],Simple BDD API for testing asynchronous Ruby/EventMachine code,3,,https://github.com/macournoyer/em-spec.git,Ruby
+244,eventmachine,1,1,1,0,[],"EventMachine: fast, simple event-processing library for Ruby programs",30,other,https://github.com/macournoyer/eventmachine.git,Ruby
+245,fast_output_buffer,22,2,22,0,[],A faster output buffer for ActionView.,1,mit,https://github.com/macournoyer/fast_output_buffer.git,C
+246,faye,2,0,2,0,[],Simple pub/sub messaging for the web,10,,https://github.com/macournoyer/faye.git,JavaScript
+247,gh-contest,2,0,2,0,[],,1,,https://github.com/macournoyer/gh-contest.git,Ruby
+248,html_ruby,1,1,1,0,[],simple html language template,2,mit,https://github.com/macournoyer/html_ruby.git,Ruby
+249,hyper-proxy,0,0,0,0,[],A proxy connector for Hyper-based crates,3,mit,https://github.com/macournoyer/hyper-proxy.git,Rust
+250,invisible,50,9,50,1,[],The invisible framework,2,,https://github.com/macournoyer/invisible.git,CSS
+251,iolounge,2,1,2,0,[],My personal casual comforting place to play w/ Io,1,,https://github.com/macournoyer/iolounge.git,
+252,is_taggable,3,1,3,0,[],Tagging that doesn't want to be on steroids. It's skinny and happy to stay that way,6,mit,https://github.com/macournoyer/is_taggable.git,Ruby
+253,language-liquid,0,0,0,0,[],Liquid language support for Atom.,12,mit,https://github.com/macournoyer/language-liquid.git,
+254,libuv,2,0,2,0,[],platform layer for node.js,30,other,https://github.com/macournoyer/libuv.git,C
+255,linguist,0,0,0,0,[],"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",30,mit,https://github.com/macournoyer/linguist.git,
+256,llvmruby,8,11,8,0,[],LLVM bindings for Ruby,4,mit,https://github.com/macournoyer/llvmruby.git,Ruby
+257,macournoyer.github.com,3,0,3,0,[],ze github pages of mine,1,,https://github.com/macournoyer/macournoyer.github.com.git,
+258,meshu,3,0,3,0,[],MeshU presentation,1,,https://github.com/macournoyer/meshu.git,Ruby
+259,min,100,12,100,0,[],The Min language,2,mit,https://github.com/macournoyer/min.git,Java
+260,mor7,3,0,3,0,[],My Montreal on Rails 7 presentation of Thin,1,,https://github.com/macournoyer/mor7.git,Ruby
+261,mtlrb-jan12,4,1,4,0,[],Montreal.rb January 2012 presentation on creating an homoiconic programming language in < 150 LOC.,1,,https://github.com/macournoyer/mtlrb-jan12.git,Ruby
+262,mysql_s3_backup,22,6,22,0,[],A simple backup script for Mysql and S3 with incremental backups.,1,,https://github.com/macournoyer/mysql_s3_backup.git,Ruby
+263,nanodb,16,4,16,0,[],an ultra tiny db,1,,https://github.com/macournoyer/nanodb.git,
+264,neuralconvo,773,357,773,26,"['machine-learning', 'deep-learning', 'torch', 'seq2seq', 'neural-conversation-models']",Neural conversational model in Torch,7,,https://github.com/macournoyer/neuralconvo.git,Lua
+265,nn.rb,22,3,22,1,"['machine-learning', 'tutorial', 'neural-network']",A toy Neural Network in Ruby,1,,https://github.com/macournoyer/nn.rb.git,Ruby
+266,node-cusec,4,0,4,0,[],node.js CUSEC 2010 presentation stuff,1,,https://github.com/macournoyer/node-cusec.git,JavaScript
+267,node-syscalls,5,0,5,0,[],Node wrapper to some UNIX syscalls. Used during http://truthabouteventloops.com/.,1,,https://github.com/macournoyer/node-syscalls.git,C++
+268,orange,57,2,57,0,[],Yummy & juicy compiler,1,,https://github.com/macournoyer/orange.git,Ruby
+269,peg,5,1,5,1,[],fork of peg/leg,1,,https://github.com/macournoyer/peg.git,C
+270,action_mailer_verp,7,3,7,0,[],Send VERP emails with actionmailer. http://en.wikipedia.org/wiki/Variable_envelope_return_path,2,mit,https://github.com/jamesgolick/action_mailer_verp.git,Ruby
+271,action_messager,44,2,44,0,[],Dead simple IM notifications for your app,1,other,https://github.com/jamesgolick/action_messager.git,Ruby
+272,activerecordless_migrations,2,2,2,0,[],,1,,https://github.com/jamesgolick/activerecordless_migrations.git,Ruby
+273,active_presenter,299,43,299,5,[],The presenter library you already know.,5,mit,https://github.com/jamesgolick/active_presenter.git,Ruby
+274,always_verify_ssl_certificates,98,16,98,4,[],Ruby's net/http is setup to never verify SSL certificates by default. Most ruby libraries do the same. That means that you're not verifying the identity of the server you're communicating with and are therefore exposed to man in the middle attacks. This gem monkey-patches net/http to force certificate verification and make turning it off impossible. ,3,mit,https://github.com/jamesgolick/always_verify_ssl_certificates.git,Ruby
+275,apns4erl,0,1,0,0,[],Apple Push Notification Server for Erlang,3,mit,https://github.com/jamesgolick/apns4erl.git,Erlang
+276,attribute_fu,99,20,99,3,[],a better version of this functionality is in rails 2.3. use that!,4,mit,https://github.com/jamesgolick/attribute_fu.git,Ruby
+277,blank,61,8,61,0,[],Blank is GiraffeSoft’s blank rails starter app.,4,mit,https://github.com/jamesgolick/blank.git,Ruby
+278,browsermob-proxy,2,1,2,0,[],A free utility to help web developers watch and manipulate network traffic from their web applications.,4,apache-2.0,https://github.com/jamesgolick/browsermob-proxy.git,Java
+279,cassandra,1,2,1,0,[],A Ruby client for the Cassandra distributed database.,5,apache-2.0,https://github.com/jamesgolick/cassandra.git,Ruby
+280,cassandra-munin-plugins,43,20,43,3,[],Munin plugins for apache cassandra.,1,,https://github.com/jamesgolick/cassandra-munin-plugins.git,
+281,cassandra_object,2,1,2,0,[],A library for persisting your objects into cassandra.,3,isc,https://github.com/jamesgolick/cassandra_object.git,Ruby
+282,cassie,3,2,3,0,[],Another Cassandra client for Scala. This one does what I want.,2,mit,https://github.com/jamesgolick/cassie.git,Scala
+283,chef,2,2,2,0,[],"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",24,apache-2.0,https://github.com/jamesgolick/chef.git,Ruby
+284,classy_resources,41,7,41,0,[],"Think resource_controller, except for sinatra.",1,mit,https://github.com/jamesgolick/classy_resources.git,Ruby
+285,client_proxy,1,2,1,0,[],Basic ruby proxy class to use around service clients that handles retrying requests and failover.,1,mit,https://github.com/jamesgolick/client_proxy.git,Ruby
+286,conductor,48,2,48,0,[],Build clusters in the cloud with conductor.,1,mit,https://github.com/jamesgolick/conductor.git,Ruby
+287,conductor-rails,12,3,12,0,[],A rails stack for conductor.,1,other,https://github.com/jamesgolick/conductor-rails.git,Ruby
+288,context,3,1,3,0,[],A super tight library to add contexts to tests.,4,mit,https://github.com/jamesgolick/context.git,Ruby
+289,dash-ruby,1,2,1,0,[],FiveRuns Dash core library for Ruby,6,,https://github.com/jamesgolick/dash-ruby.git,Ruby
+290,degrade,316,10,316,2,[],Keep track of service error rates using redis. Degrade functionality if they're too high.,2,mit,https://github.com/jamesgolick/degrade.git,Ruby
+291,delayed_job,2,3,2,0,[],Database based asynchronously priority queue system -- Extracted from Shopify ,4,mit,https://github.com/jamesgolick/delayed_job.git,Ruby
+292,dirty_callbacks,6,2,6,0,[],,1,mit,https://github.com/jamesgolick/dirty_callbacks.git,Ruby
+293,dm-yaml-adapter,1,2,1,0,[],a YAML adapter for DataMapper. this (slow) adapter allows you to use DataMapper with YAML files as a backing store.,0,,https://github.com/jamesgolick/dm-yaml-adapter.git,Ruby
+294,dotfiles,17,3,17,0,[],,1,,https://github.com/jamesgolick/dotfiles.git,VimL
+295,enum_field,53,17,53,2,[],,3,mit,https://github.com/jamesgolick/enum_field.git,Ruby
+296,erl-dns,1,1,1,0,[],"DNS server, in erlang.",4,,https://github.com/jamesgolick/erl-dns.git,JavaScript
+297,erlang-mysql-driver,5,2,5,1,[],Erlang MySQL Driver (from code.google.com),7,other,https://github.com/jamesgolick/erlang-mysql-driver.git,Erlang
+298,erlang-thrift,1,2,1,0,[],,1,apache-2.0,https://github.com/jamesgolick/erlang-thrift.git,Erlang
+299,erlcloud,1,2,1,0,[],"Cloud Computing library for erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB)",11,other,https://github.com/jamesgolick/erlcloud.git,Erlang
+300,arc,7,2,7,0,[],Paul Graham's Brand New Lisp,17,other,https://github.com/KirinDave/arc.git,Arc
+301,atm6-sky,0,0,0,0,[],,4,,https://github.com/KirinDave/atm6-sky.git,JavaScript
+302,aws,0,1,0,0,[],Amazon Web Services for Haskell,8,other,https://github.com/KirinDave/aws.git,Haskell
+303,bilecast,3,1,3,0,[],A Podcast hosted by me and featuring Coda Hale and Cliff Moon (and guests),1,,https://github.com/KirinDave/bilecast.git,
+304,bus-scheme,3,1,3,0,[],"a Scheme written in Ruby, but implemented on the bus!",2,bsd-3-clause,https://github.com/KirinDave/bus-scheme.git,Ruby
+305,classifier,5,2,5,0,[],A general classifier module to allow Bayesian and other types of classifications.,1,other,https://github.com/KirinDave/classifier.git,Ruby
+306,Clipping,1,1,1,0,[],"A simple, persistent variable library",2,apache-2.0,https://github.com/KirinDave/Clipping.git,Scala
+307,clj-interface,2,2,2,0,[],Clojure wrapper for Erlang's JInterface.,0,agpl-3.0,https://github.com/KirinDave/clj-interface.git,
+308,clj-mixpanel,1,1,1,0,[],Clojure interface for sending events to Mixpanel,1,,https://github.com/KirinDave/clj-mixpanel.git,Clojure
+309,clj-msgpack,2,1,2,0,[],Binary serialization of Clojure objects using MessagePack.,2,mit,https://github.com/KirinDave/clj-msgpack.git,Clojure
+310,clj-time,48,193,48,3,[],"A date and time library for Clojure, wrapping the Joda Time library.",3,other,https://github.com/KirinDave/clj-time.git,Clojure
+311,Clothesline,12,3,12,0,[],Prototype port of webmachine to clojure/java for API developers,3,bsd-3-clause,https://github.com/KirinDave/Clothesline.git,Clojure
+312,dcpu16-hs,2,1,2,0,[],"Haskell implementation of Notch's dcpu-16 specification (assembler, emulator)",1,other,https://github.com/KirinDave/dcpu16-hs.git,Haskell
+313,discourse,1,0,1,0,[],"A platform for community discussion. Free, open, simple.",30,other,https://github.com/KirinDave/discourse.git,JavaScript
+314,dot-emacs,2,1,2,0,[],"My dotemacs stuff. It's not beautiful, but it's functional.",1,,https://github.com/KirinDave/dot-emacs.git,Emacs Lisp
+315,dynomite,3,1,3,0,[],Open source dynamo clone written in Erlang.,1,bsd-3-clause,https://github.com/KirinDave/dynomite.git,Erlang
+316,Emacs-Of-The-Future,5,3,5,3,[],Updating my emacs dotfiles distribution. These are much more up to date.,1,,https://github.com/KirinDave/Emacs-Of-The-Future.git,Emacs Lisp
+317,Enigmatica2Expert,0,0,0,0,[],The official repository and issue-tracker for Enigmatica 2: Expert,1,,https://github.com/KirinDave/Enigmatica2Expert.git,
+318,ensime,2,1,2,0,[],Enhanced Scala Interaction Mode for Emacs,9,gpl-3.0,https://github.com/KirinDave/ensime.git,Emacs Lisp
+319,Equivalent-Exchange-3,1,2,1,1,[],,30,lgpl-3.0,https://github.com/KirinDave/Equivalent-Exchange-3.git,Java
+320,erlectricity,6,1,6,0,[],Erlectricity exposes Ruby to Erlang and vice versa.,2,,https://github.com/KirinDave/erlectricity.git,Ruby
+321,erlenmeyer,6,4,6,0,[],A binding between erlang and mzscheme.,2,,https://github.com/KirinDave/erlenmeyer.git,Scheme
+322,eventsource-broker,1,1,1,0,[],EventSource Broker - bridges between EventSource and RabbitMQ,1,,https://github.com/KirinDave/eventsource-broker.git,Haskell
+323,example-chat,12,1,12,0,[],A simple example of a chat server in Clojure that I intend to blog about.,1,,https://github.com/KirinDave/example-chat.git,Clojure
+324,fake-tpw,3,1,3,0,[],,2,,https://github.com/KirinDave/fake-tpw.git,
+325,Fanboy,3,1,3,0,[],"An irc bot in haskell, experimental in nature, using WAY OVERSPEC'D tools.",1,other,https://github.com/KirinDave/Fanboy.git,Haskell
+326,fish-nuggets,2,1,2,0,[],"Completions, code snippets helping you to get even more out of the amazing Fish shell",5,,https://github.com/KirinDave/fish-nuggets.git,
+327,fuzed,274,22,274,3,[],"A new revision of Fuzed, the Erlang-based frontend for web apps. Check out the mailing list at http://groups.google.com/group/fuzed",6,other,https://github.com/KirinDave/fuzed.git,Erlang
+328,fuzed-old,15,1,15,1,[],An integrated replacement for Mongrel+Revproxy systems in erlang,2,bsd-3-clause,https://github.com/KirinDave/fuzed-old.git,Ruby
+329,gantry,1,1,1,0,[],Operations support in clojure,2,epl-1.0,https://github.com/KirinDave/gantry.git,Clojure
+330,amazon-ec2,1,2,1,0,[],A Ruby Gem that gives you full access to the Amazon EC2 API from your Ruby/Ruby on Rails apps,9,other,https://github.com/bmizerany/amazon-ec2.git,Ruby
+331,amqp,4,1,4,0,[],AMQP client implementation in Ruby/EventMachine,1,,https://github.com/bmizerany/amqp.git,Ruby
+332,assert,141,40,141,6,[],Asserts to Go testing,4,,https://github.com/bmizerany/assert.git,Go
+333,attrubates,3,1,3,0,[],Arrtubates sets meta on meta for objects and adds additional rendering helpers for ActionController::Base in Rails.,1,mit,https://github.com/bmizerany/attrubates.git,Ruby
+334,aws,25,9,25,2,[],An old simple AWS client in Go (use bmizerany/aws4 for more up to date aws usage).,3,,https://github.com/bmizerany/aws.git,Go
+335,aws.go,2,2,2,0,[],,3,,https://github.com/bmizerany/aws.go.git,Go
+336,aws4,72,24,72,6,[],A Go package for AWS Signature version 4 ,2,,https://github.com/bmizerany/aws4.git,Go
+337,bacon,2,1,2,0,[],a small RSpec clone,7,other,https://github.com/bmizerany/bacon.git,Ruby
+338,bang,1,1,1,0,[],banger,1,,https://github.com/bmizerany/bang.git,Ruby
+339,beldam,14,1,14,0,[],"clean, easy, ec2 wrapper",1,,https://github.com/bmizerany/beldam.git,Ruby
+340,capistrano-bells,4,1,4,0,[],A bunch of recipes to help you deploy a Rails app.,1,mit,https://github.com/bmizerany/capistrano-bells.git,Ruby
+341,cheat,2,1,2,0,[],Cheating is fun!,3,mit,https://github.com/bmizerany/cheat.git,Ruby
+342,chef,3,1,3,0,[],"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",23,apache-2.0,https://github.com/bmizerany/chef.git,Ruby
+343,cloudquery,2,1,2,0,[],Ruby client for the Xoopit search API,2,mit,https://github.com/bmizerany/cloudquery.git,Ruby
+344,contest,1,1,1,0,[],Write more readable tests in Test::Unit with this tiny script.,2,mit,https://github.com/bmizerany/contest.git,Ruby
+345,coral,2,1,2,0,[],Git-powered alternative to RubyGems,1,,https://github.com/bmizerany/coral.git,Ruby
+346,coreup,0,1,0,0,[],,1,,https://github.com/bmizerany/coreup.git,Go
+347,couchdb-simple-demo,1,1,1,0,[],Simple CouchDB demo,2,,https://github.com/bmizerany/couchdb-simple-demo.git,Ruby
+348,delayed_job,2,0,2,0,[],Database backed asynchronous priority queue -- Extracted from Shopify ,10,mit,https://github.com/bmizerany/delayed_job.git,Ruby
+349,describe-tag,0,1,0,0,[],,1,,https://github.com/bmizerany/describe-tag.git,Go
+350,domainy,4,5,4,0,[],for getting the base of a domain,0,,https://github.com/bmizerany/domainy.git,Ruby
+351,doozer-bench,1,1,1,0,[],bechmark the doozerz,1,,https://github.com/bmizerany/doozer-bench.git,Go
+352,doozerd,5,1,5,0,[],A consistent distributed data store.,3,mit,https://github.com/bmizerany/doozerd.git,Go
+353,dotfiles,6,60,6,0,[],~rtomayko,3,,https://github.com/bmizerany/dotfiles.git,Perl
+354,Elephant,2,1,2,0,[],An Adium Plugin for keeping realtime backup/full-text search of all chats,1,,https://github.com/bmizerany/Elephant.git,Objective-C
+355,em-swirl,12,1,12,0,[],An evented Ruby EC2 driver for EventMachine,1,mit,https://github.com/bmizerany/em-swirl.git,Ruby
+356,em-syslog,2,1,2,0,[],Basic support for remote syslog in EM.,1,,https://github.com/bmizerany/em-syslog.git,Ruby
+357,emacs,2,1,2,0,[],My Emacs config,2,,https://github.com/bmizerany/emacs.git,Emacs Lisp
+358,env,0,0,0,0,[],,2,,https://github.com/bmizerany/env.git,Go
+359,erlectricity,2,0,2,0,[],Erlectricity exposes Ruby to Erlang and vice versa.,1,,https://github.com/bmizerany/erlectricity.git,Ruby
+360,.github,10,1,10,0,[],/rem checkboxes,1,,https://github.com/jnewland/.github.git,
+361,action-kots-release,0,0,0,0,[],,5,,https://github.com/jnewland/action-kots-release.git,Dockerfile
+362,actions-playground,1,0,1,2,[],,1,,https://github.com/jnewland/actions-playground.git,
+363,actions-runner-controller,0,0,0,0,[],Kubernetes controller for GitHub Actions self-hosted runnners,20,apache-2.0,https://github.com/jnewland/actions-runner-controller.git,
+364,agile_zen,5,0,5,0,[],,1,mit,https://github.com/jnewland/agile_zen.git,Ruby
+365,airfoil-api,21,11,21,6,['home-automation'],Wrap AirFoil's Applescript interface with a JSON API.,1,mit,https://github.com/jnewland/airfoil-api.git,JavaScript
+366,airfoil-api-smartthings,3,4,3,2,[],[unmaintained] A SmartThings App & Device Handler to pair with airfoil-api,0,mit,https://github.com/jnewland/airfoil-api-smartthings.git,Groovy
+367,alfred-open-windows,55,3,55,1,['alfred'],Alfred extension to switch between open windows of the currently focused application,2,,https://github.com/jnewland/alfred-open-windows.git,Shell
+368,appdaemon,1,0,1,0,[],Python Apps for Home Assistant,2,mit,https://github.com/jnewland/appdaemon.git,Python
+369,bcc,1,0,1,0,[],"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",30,other,https://github.com/jnewland/bcc.git,C++
+370,beaker,1,1,1,1,[],Puppet Acceptance Testing Harness,30,other,https://github.com/jnewland/beaker.git,Ruby
+371,bigdecimal-segfault-fix,2,1,2,0,[],Provides a quick workaround for the segfault bug in Ruby (CVE-2009-1904),2,isc,https://github.com/jnewland/bigdecimal-segfault-fix.git,Ruby
+372,boolean_web_service,4,0,4,0,[],"BooleanWebService(:isitchristmas) => false. Well, unless it's christmas. Then it'd be true.",1,,https://github.com/jnewland/boolean_web_service.git,Ruby
+373,brew2deb,3,0,3,0,[],homebrew + fpm = debian packages,2,,https://github.com/jnewland/brew2deb.git,Ruby
+374,bt.sh,1,0,1,0,[],bt.sh: timechart-like tracing with bash,1,mit,https://github.com/jnewland/bt.sh.git,Shell
+375,bull,0,0,0,0,[],Premium Queue package for handling distributed jobs and messages in NodeJS.,30,other,https://github.com/jnewland/bull.git,
+376,capistrano,2,1,2,0,[],Remote multi-server automation tool,30,,https://github.com/jnewland/capistrano.git,Ruby
+377,capistrano-log_with_awesome,18,5,18,2,[],logging callbacks for capistrano,2,mit,https://github.com/jnewland/capistrano-log_with_awesome.git,Ruby
+378,capsize,41,12,41,2,[],A Capistrano extension for managing and running your app on Amazon EC2.,4,other,https://github.com/jnewland/capsize.git,Ruby
+379,cassandra_object,2,1,2,0,[],A library for persisting your objects into cassandra.,7,isc,https://github.com/jnewland/cassandra_object.git,Ruby
+380,cookbooks,3,0,3,0,[],Opscode Cookbooks for Chef,28,apache-2.0,https://github.com/jnewland/cookbooks.git,Ruby
+381,cucumber-json,9,10,9,1,[],A cucumber output formatter that outputs JSON,1,other,https://github.com/jnewland/cucumber-json.git,Ruby
+382,cucumber-nagios,2,1,2,0,[],systems testing plugin for Nagios with Cucumber + Webrat + Mechanize + Net::SSH,4,mit,https://github.com/jnewland/cucumber-nagios.git,Ruby
+383,cucumber-newrelic,12,1,12,0,[],Cucumber steps for verifing metrics from NewRelic's API,1,mit,https://github.com/jnewland/cucumber-newrelic.git,Ruby
+384,cucumber-scout,8,0,8,0,[],Cucumber steps for verifying Scout metrics,1,mit,https://github.com/jnewland/cucumber-scout.git,Ruby
+385,cucumber-standalone,6,3,6,0,[],generator for standalone cuke projects,1,,https://github.com/jnewland/cucumber-standalone.git,Ruby
+386,dd-agent,1,0,1,0,[],Datadog Agent,30,other,https://github.com/jnewland/dd-agent.git,Python
+387,deploy,0,0,0,0,[],A Probot app to trigger deployments on GitHub,2,isc,https://github.com/jnewland/deploy.git,JavaScript
+388,dotfiles,0,0,0,0,[],,1,,https://github.com/jnewland/dotfiles.git,
+389,erlang.tmbundle,2,1,2,0,[],TextMate support for Erlang,4,,https://github.com/jnewland/erlang.tmbundle.git,Erlang
+390,ruby-git,1561,480,1561,33,[],"Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.",30,mit,https://github.com/ruby-git/ruby-git.git,Ruby
+391,acl_system2,57,15,57,1,[],An access control plugin for Rails,1,mit,https://github.com/ezmobius/acl_system2.git,Ruby
+392,bmhsearch,9,4,9,2,[],"Fast string searcher, useful for multi-part post parsing",0,other,https://github.com/ezmobius/bmhsearch.git,C
+393,chef-101,61,8,61,0,[],A sample chef recipe repo for learning chef-solo,0,,https://github.com/ezmobius/chef-101.git,Ruby
+394,chef-deploy,297,31,297,6,[],Chef Resources and Providers for deploying ruby web apps without capistrano,4,apache-2.0,https://github.com/ezmobius/chef-deploy.git,Ruby
+395,ey-lessql,39,10,39,0,[],"a collection of chef recipes to install, configure and run a variety of NoSQL db's on the engine yard cloud.",0,,https://github.com/ezmobius/ey-lessql.git,Ruby
+396,ez-scheme,27,4,27,0,[],scheme on the rbx vm,1,,https://github.com/ezmobius/ez-scheme.git,Ruby
+397,ez-where,34,4,34,0,[],query/conditions builder for ActiveRecord and other ORMS,1,,https://github.com/ezmobius/ez-where.git,Ruby
+398,heist,1,1,1,0,[],"Scheme in as little Ruby and as much Scheme as possible. Supports macros, continuations, tail recursion and lazy evaluation.",1,,https://github.com/ezmobius/heist.git,Ruby
+399,LocheGSplicer,5,3,5,0,[],Splices multiple 3D Printer gcode files into a single gcode file for multiple extruder printing.,0,lgpl-3.0,https://github.com/ezmobius/LocheGSplicer.git,C++
+400,lua-nginx-module,2,1,2,0,[],Embed the Power of Lua into NginX,5,,https://github.com/ezmobius/lua-nginx-module.git,Perl
+401,merbivore,4,4,4,0,[],merb website,0,,https://github.com/ezmobius/merbivore.git,Ruby
+402,nanite,738,67,738,13,[],self assembling fabric of ruby daemons,24,apache-2.0,https://github.com/ezmobius/nanite.git,Ruby
+403,nats,1,1,1,0,[],A simple and performant EventMachine based Publish-Subscribe system. ,1,mit,https://github.com/ezmobius/nats.git,Ruby
+404,nginx-ey-balancer,35,19,35,1,[],nginx max connections queue,1,,https://github.com/ezmobius/nginx-ey-balancer.git,C
+405,ohai,5,0,5,0,[],Ohai profiles your system and emits JSON,2,apache-2.0,https://github.com/ezmobius/ohai.git,
+406,redactor,66,1,66,0,[],"An Actor library based around Redis. Useful for coordination, command and control of distributed ruby processes",0,mit,https://github.com/ezmobius/redactor.git,Ruby
+407,redis,8,1,8,1,[],Redis key-value store,1,bsd-3-clause,https://github.com/ezmobius/redis.git,C
+408,redis-rb,27,8,27,1,[],A Ruby client library for Redis,30,mit,https://github.com/ezmobius/redis-rb.git,Ruby
+409,super-nginx,147,11,147,1,[],killer build of nginx *and* luajit-beta6 plus 21 other modules,0,,https://github.com/ezmobius/super-nginx.git,C
+410,tlabs-mendelmax,8,3,8,0,[],Documentation and other tidbits for the TrinityLabs MendelMax 1.5+,0,,https://github.com/ezmobius/tlabs-mendelmax.git,
+411,vcap-tests,1,1,1,0,[],Cloud Foundry - the open platform as a service project,1,apache-2.0,https://github.com/ezmobius/vcap-tests.git,Ruby
+412,vmc,3,2,3,0,[],The command line client for Cloud Foundry - the open platform as a service project,5,other,https://github.com/ezmobius/vmc.git,Ruby
+413,accomplish,0,0,0,0,[], Minimal task list,0,,https://github.com/uggedal/accomplish.git,Ruby
+414,ansible,0,0,0,0,[],"Ansible configures operating systems, deploys applications, runs parallel commands, and orchestrates IT processes like zero-downtime rolling updates.  It uses SSH by default, so no special software has to be installed to start managing remote machines.  Modules can be written in any language.",30,gpl-3.0,https://github.com/uggedal/ansible.git,Python
+415,apkaux,1,0,1,0,[],Various Alpine Package Keeper scripts,1,,https://github.com/uggedal/apkaux.git,Shell
+416,aports-vercmp,0,0,0,0,[],Compare aport versions against upstream,2,mit,https://github.com/uggedal/aports-vercmp.git,Lua
+417,bare,22,3,22,0,[],Barely a Linux,1,isc,https://github.com/uggedal/bare.git,C
+418,bash-it,0,0,0,0,[],A community Bash framework.,30,,https://github.com/uggedal/bash-it.git,Shell
+419,cdist,0,0,0,0,[],cdist configuration management,13,,https://github.com/uggedal/cdist.git,Shell
+420,cfg,4,1,4,0,[],,1,,https://github.com/uggedal/cfg.git,Shell
+421,conf.sh,0,0,0,0,[],Zero dependency configuration management,1,isc,https://github.com/uggedal/conf.sh.git,Shell
+422,core-plans,0,0,0,0,[],Core Habitat Plan definitions,30,,https://github.com/uggedal/core-plans.git,Shell
+423,django-flatblocks,1,1,1,0,[],"django-chunks + headerfield + variable chunknames + ""inclusion tag"" == django-flatblocks",7,bsd-3-clause,https://github.com/uggedal/django-flatblocks.git,Python
+424,django-notices,1,0,1,0,[],Efficient and lightweight Django notices,0,mit,https://github.com/uggedal/django-notices.git,Python
+425,django-positions,1,0,1,0,[],A Django field for custom model ordering. (setuptools compatible patch ),1,other,https://github.com/uggedal/django-positions.git,Python
+426,docker,0,0,0,0,[],Docker - the open-source application container engine,30,apache-2.0,https://github.com/uggedal/docker.git,Go
+427,docker-overlay,0,0,0,0,[],Gentoo overlay for Docker,1,,https://github.com/uggedal/docker-overlay.git,Shell
+428,dotfiles,1,0,1,0,[],User config,1,,https://github.com/uggedal/dotfiles.git,Shell
+429,emacs.d,0,0,0,0,[],My evil Emacs configuration,6,,https://github.com/uggedal/emacs.d.git,
+430,feedhq,0,0,0,0,[],FeedHQ is a web-based feed reader,2,bsd-3-clause,https://github.com/uggedal/feedhq.git,Python
+431,fish-shell,0,0,0,0,[],The user-friendly command line shell.,30,,https://github.com/uggedal/fish-shell.git,C++
+432,gitoff,0,0,0,0,[],Git WWW interface,1,isc,https://github.com/uggedal/gitoff.git,C
+433,going,1,0,1,0,[],Simple process supervisor,1,isc,https://github.com/uggedal/going.git,C
+434,gruvbox.nvim,0,0,0,0,[],Lua port of the most famous vim colorscheme,7,mit,https://github.com/uggedal/gruvbox.nvim.git,
+435,halcyon,2,0,2,0,[],JSON Web App Framework,1,other,https://github.com/uggedal/halcyon.git,Java
+436,jellyfin-media-player,0,0,0,0,[],Jellyfin Desktop Client based on Plex Media Player,30,gpl-2.0,https://github.com/uggedal/jellyfin-media-player.git,C++
+437,jftui,0,0,0,0,[],Jellyfin Terminal User Interface,2,unlicense,https://github.com/uggedal/jftui.git,
+438,jsoup,1,1,1,0,[],Java HTML Parser,2,mit,https://github.com/uggedal/jsoup.git,Java
+439,kokki,1,1,1,0,[],System configuration management framework influenced by Chef,3,other,https://github.com/uggedal/kokki.git,Python
+440,libcloud,1,1,1,0,[],Linode fixes,6,apache-2.0,https://github.com/uggedal/libcloud.git,Python
+441,liblogging,0,0,0,0,[],an easy to use and lightweight signal-safe logging library,3,other,https://github.com/uggedal/liblogging.git,
+442,littlechef,0,0,0,0,[],Cook with Chef without a Chef Server,8,apache-2.0,https://github.com/uggedal/littlechef.git,Python
+443,acronymium,1,0,1,0,[],Generates acronyms according to rules,0,epl-1.0,https://github.com/mmower/acronymium.git,Clojure
+444,aido,10,1,10,1,"['clojure', 'behaviour-tree']",Clojure behaviour tree library,0,epl-1.0,https://github.com/mmower/aido.git,Clojure
+445,alonetone,4,1,4,0,[],The kick ass (non-commercial) home for musicians and their music,5,,https://github.com/mmower/alonetone.git,JavaScript
+446,bishop,24,7,24,2,[],A bayesian classifier library for Ruby,1,,https://github.com/mmower/bishop.git,Ruby
+447,blueprint-css,2,0,2,0,[],A CSS framework that aims to cut down on your CSS development time,9,other,https://github.com/mmower/blueprint-css.git,Ruby
+448,bones,1,0,1,0,[],A kind of cranky app for tracking weight & eating.,1,,https://github.com/mmower/bones.git,JavaScript
+449,caisson,0,0,0,0,[],Automatically exported from code.google.com/p/caisson,0,,https://github.com/mmower/caisson.git,
+450,cell-culture-1,0,0,0,0,[],A first go at Langston's cellular automata in the browser,1,,https://github.com/mmower/cell-culture-1.git,JavaScript
+451,cell-culture-3,0,0,0,0,[],"Extended the cellculture library to do Conway's ""Game of Life""",1,other,https://github.com/mmower/cell-culture-3.git,JavaScript
+452,clojure-lanterna,0,0,0,0,[],A Clojurey wrapper around the Lanterna terminal output library.,3,,https://github.com/mmower/clojure-lanterna.git,Clojure
+453,CocoaAsyncSocket,1,0,1,0,[],Asynchronous socket networking library for Mac and iOS,8,,https://github.com/mmower/CocoaAsyncSocket.git,Objective-C
+454,codox,0,0,0,0,[],Clojure documentation tool,6,,https://github.com/mmower/codox.git,Clojure
+455,collider,0,0,0,0,[],An Overtone based particle collider instrument,1,epl-1.0,https://github.com/mmower/collider.git,Clojure
+456,coreplus,3,0,3,0,[],Some extensions to Ruby Core & Stdlib that I use,1,,https://github.com/mmower/coreplus.git,Ruby
+457,crashcity,2,0,2,0,[],Open crash logging application,1,,https://github.com/mmower/crashcity.git,
+458,cwmapper,0,0,0,0,[],Central Working Mapper,1,,https://github.com/mmower/cwmapper.git,Clojure
+459,dependency,0,0,0,0,[],A data structure for representing dependency graphs in Clojure,2,,https://github.com/mmower/dependency.git,HTML
+460,dg834statsd,2,0,2,0,[],An ADSL line stats collecting daemon for DG834v1 routers,1,,https://github.com/mmower/dg834statsd.git,Ruby
+461,diffly,9,2,9,0,[],"Diffly is a tool for exploring Subversion working copies. It shows all files with changes and, clicking on a file, shows a highlighted view of the changes for that file. When you are ready to commit Diffly makes it easy to select the files you want to check-in and assemble a useful commit message.",1,mit,https://github.com/mmower/diffly.git,Objective-C
+462,elysium,41,5,41,3,[],A Generative MIDI Sequencer for Mac OS X,3,mit,https://github.com/mmower/elysium.git,Objective-C
+463,embeddable-macruby,2,0,2,0,[],Fixes MacRuby to build the framework inherently relocatable and to load fixed BridgeSupport metadata from the framework.,1,,https://github.com/mmower/embeddable-macruby.git,
+464,epic,1,0,1,0,[],Parser combinator library for Elixir projects,0,apache-2.0,https://github.com/mmower/epic.git,Elixir
+465,errata_plugin,1,0,1,0,[],Rails plugin for logging errata for the Errata client,1,mit,https://github.com/mmower/errata_plugin.git,Ruby
+466,expectations-test-case,0,0,0,1,[],,1,,https://github.com/mmower/expectations-test-case.git,Clojure
+467,Freeman,3,0,3,0,[],An attempt to automate some aspects of building in Native Instruments Reaktor 5,1,mit,https://github.com/mmower/Freeman.git,Objective-C
+468,Gen,12,3,12,1,[],Objective-C Code Generator,1,bsd-3-clause,https://github.com/mmower/Gen.git,Objective-C
+469,GMCodeEditor,0,1,0,0,[],An objective-C code editing component.,1,,https://github.com/mmower/GMCodeEditor.git,Objective-C
+470,godo,9,2,9,0,[],go (to project) do (stuffs),2,,https://github.com/mmower/godo.git,Ruby
+471,Grayson,1,0,1,0,[],The application I built to help myself track spending & budget for purchases,0,,https://github.com/mmower/Grayson.git,
+472,GRMustache.swift,0,0,0,0,[],Flexible Mustache templates for Swift,10,mit,https://github.com/mmower/GRMustache.swift.git,Swift
+473,abhay.github.io,0,0,0,0,[],,1,,https://github.com/abhay/abhay.github.io.git,
+474,addressable,1,0,1,0,[],Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to the relevant RFCs and adds support for IRIs and URI templates. ,1,other,https://github.com/abhay/addressable.git,Ruby
+475,bodega-bot-guesser,0,0,0,0,[],Guesses at @BodegaBot tweets,1,,https://github.com/abhay/bodega-bot-guesser.git,Ruby
+476,bundles,0,1,0,0,[],Index for TextMate bundles available via git,3,,https://github.com/abhay/bundles.git,
+477,calais,136,50,136,6,[],A Ruby interface to the Open Calais API (http://opencalais.com),12,mit,https://github.com/abhay/calais.git,Ruby
+478,chronic,3,0,3,0,[],Chronic is a pure Ruby natural language date parser.,2,,https://github.com/abhay/chronic.git,Ruby
+479,dm-core,1,0,1,0,[],DataMapper - Core,30,mit,https://github.com/abhay/dm-core.git,Ruby
+480,dm-more,1,0,1,0,[],"Extras for DataMapper, including bridges to DataObjects::Migrations and Merb::DataMapper",30,mit,https://github.com/abhay/dm-more.git,Ruby
+481,dynomite,1,0,1,0,[],Open source dynamo clone written in Erlang.,1,bsd-3-clause,https://github.com/abhay/dynomite.git,Erlang
+482,erlang,0,1,0,0,[],"Erlang with extra unofficial patches (see branches for patches in development, alterline for merged patches)",2,,https://github.com/abhay/erlang.git,Erlang
+483,erlang-bcrypt,14,109,14,0,[],Erlang wrapper for OpenBSD's Blowfish password hashing code,13,other,https://github.com/abhay/erlang-bcrypt.git,C
+484,erlang_nginx,1,4,1,1,[],A proof of concept to demonstrate how nginx and Erlang play nicely together.,2,,https://github.com/abhay/erlang_nginx.git,C
+485,erldis,0,1,0,0,[],redis erlang client library (imported from bitbucket),5,other,https://github.com/abhay/erldis.git,Erlang
+486,erlectricity,1,0,1,0,[],Erlectricity exposes Ruby to Erlang and vice versa.,4,,https://github.com/abhay/erlectricity.git,Ruby
+487,eunit,11,4,11,0,[],"Git tracking branch of EUnit, a unit testing framework for Erlang",1,lgpl-2.1,https://github.com/abhay/eunit.git,Erlang
+488,extlib,1,0,1,0,[],General Ruby extensions for DataMapper and DataObjects,18,other,https://github.com/abhay/extlib.git,Ruby
+489,fuzed,4,1,4,0,[],"A new revision of Fuzed, the Erlang-based frontend for web apps.",3,other,https://github.com/abhay/fuzed.git,Erlang
+490,gchart,36,14,36,0,[],"GChart exposes the Google Chart API (http://code.google.com/apis/chart) via a friendly Ruby interface. It can generate the URL for a given chart (for webpage use), or download the generated PNG (for offline use).",0,,https://github.com/abhay/gchart.git,Ruby
+491,gladman-aes,6,6,6,1,[],Git mirror of Brian Gladman's AES code,1,,https://github.com/abhay/gladman-aes.git,C
+492,heroku-buildpack-libsodium,0,0,0,0,[],libsodium/rbnacl buildpack for Heroku,7,mit,https://github.com/abhay/heroku-buildpack-libsodium.git,Shell
+493,HIP,0,0,0,0,[],Helium Improvement Proposals,10,apache-2.0,https://github.com/abhay/HIP.git,
+494,ibrowse,0,0,0,0,[],Erlang HTTP client,2,other,https://github.com/abhay/ibrowse.git,Erlang
+495,IR_Black-for-Intellij-Idea-X,0,0,0,0,[],IR_Black color scheme for Intellij Idea - The best color scheme around for coding.,3,,https://github.com/abhay/IR_Black-for-Intellij-Idea-X.git,Shell
+496,minesweeper,0,0,0,0,[],,1,,https://github.com/abhay/minesweeper.git,
+497,mochiweb.old,7,4,7,0,[],Erlang HTTP toolkit,1,other,https://github.com/abhay/mochiweb.old.git,Erlang
+498,mooish-template,0,1,0,0,[],A template for building and organizing your Javascript code like Mootools. Great starting-point for Mootools plugins or classes. ,1,,https://github.com/abhay/mooish-template.git,JavaScript
+499,neotoma,0,1,0,0,[],Erlang library and packrat parser-generator for parsing expression grammars.,6,mit,https://github.com/abhay/neotoma.git,Erlang
+500,Octosplit,0,0,0,0,[],Chrome extension that provides side by side diffs in GitHub (WIP),2,mit,https://github.com/abhay/Octosplit.git,JavaScript
+501,pyphysim,0,0,0,0,[],Simulation of Digital Communication (physical layer) in Python.,1,gpl-2.0,https://github.com/abhay/pyphysim.git,
+502,rails-uikit,0,0,0,0,[],UIKit3 for Ruby on Rails • https://getuikit.com,2,,https://github.com/abhay/rails-uikit.git,
+503,alacritty,0,0,0,0,[],"A cross-platform, GPU enhanced terminal emulator",17,apache-2.0,https://github.com/benburkert/alacritty.git,Rust
+504,ansible-coreos-bootstrap,0,0,0,0,[],bootstrap a coreos machine for control via ansible,3,mit,https://github.com/benburkert/ansible-coreos-bootstrap.git,Python
+505,bootstrap-razor,2,0,2,0,[],A simple script to get up and running with Razor.,1,,https://github.com/benburkert/bootstrap-razor.git,Shell
+506,brew2deb,3,2,3,1,[],homebrew + fpm = debian packages,2,,https://github.com/benburkert/brew2deb.git,Ruby
+507,cheeseman,1,0,1,0,[],,1,,https://github.com/benburkert/cheeseman.git,Go
+508,chef,1,0,1,0,[],"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",30,apache-2.0,https://github.com/benburkert/chef.git,Ruby
+509,chef_fail,1,0,1,0,[],,1,,https://github.com/benburkert/chef_fail.git,Ruby
+510,collectd-cloudwatch,0,0,0,0,[],A collectd plugin for sending data to Amazon CloudWatch,6,mit,https://github.com/benburkert/collectd-cloudwatch.git,Python
+511,community_shelf,14,1,14,0,[],"A simple app for managing a bookshelf, and a demo app for DataMapper, Merb, merb-cache",2,,https://github.com/benburkert/community_shelf.git,Ruby
+512,compleat,1,1,1,0,[],Generate command-line completions from simple usage descriptions.,2,,https://github.com/benburkert/compleat.git,Haskell
+513,cruisecontrolrb,85,10,85,0,[],"CruiseControl.rb is a continuous integration tool, written in Ruby. It is quick to install, simple to use and easy to hack.",3,apache-2.0,https://github.com/benburkert/cruisecontrolrb.git,Ruby
+514,crypto,0,0,0,0,[],[mirror] Go supplementary cryptography libraries,30,other,https://github.com/benburkert/crypto.git,Go
+515,database-recipes,4,0,4,0,[],A starter repo for custom chef recipes on EY's cloud platform,1,,https://github.com/benburkert/database-recipes.git,Ruby
+516,dm-is-permalink,2,0,2,0,[],permalinks for DM,1,mit,https://github.com/benburkert/dm-is-permalink.git,
+517,dns,36,7,36,2,"['go', 'dns']",DNS client & server package for Go,2,mit,https://github.com/benburkert/dns.git,Go
+518,docker,0,0,0,0,[],Docker - the open-source application container engine,30,apache-2.0,https://github.com/benburkert/docker.git,Go
+519,docker-fluentd-librato,0,1,0,0,[],,2,,https://github.com/benburkert/docker-fluentd-librato.git,Shell
+520,doozque,2,0,2,0,[],"Resque is a Redis-backed Ruby library for creating background jobs, placing those jobs on multiple queues, and processing them.",30,mit,https://github.com/benburkert/doozque.git,Ruby
+521,dot-compleat,4,1,4,0,[],my .compleat directory,1,,https://github.com/benburkert/dot-compleat.git,
+522,dotfiles,0,0,0,0,[],"These are my dotfiles. There are many like them, but these ones are mine.",1,,https://github.com/benburkert/dotfiles.git,Vim script
+523,dvorax0r,2,0,2,0,[],custom key bindings for KeyRemap4MacBook,1,other,https://github.com/benburkert/dvorax0r.git,C++
+524,emp,25,2,25,0,[],EMP = Event Machine + xMPp,1,,https://github.com/benburkert/emp.git,Ruby
+525,engineyard,1,1,1,0,[],Deploy to Engine Yard Cloud from the command line,7,mit,https://github.com/benburkert/engineyard.git,Ruby
+526,epticsmix,5,4,5,0,[],vanity me for skiing,1,,https://github.com/benburkert/epticsmix.git,Ruby
+527,eventmachine,0,0,0,0,[],"EventMachine: fast, simple event-processing library for Ruby programs",30,other,https://github.com/benburkert/eventmachine.git,Ruby
+528,excon,1,1,1,0,[],EXtended http(s) CONnections,3,,https://github.com/benburkert/excon.git,Ruby
+529,extlib,2,0,2,0,[],General Ruby extensions for DataMapper and DataObjects,13,mit,https://github.com/benburkert/extlib.git,Ruby
+530,ey-backup,7,1,7,0,[],backup gem for backing up databases and filesystems to s3 with rolling windows and a download reapply backup script,1,mit,https://github.com/benburkert/ey-backup.git,Ruby
+531,ey-check,1,0,1,0,[],,1,,https://github.com/benburkert/ey-check.git,
+532,faraday,0,0,0,0,[],"Simple, but flexible HTTP client library, with support for multiple backends.",30,mit,https://github.com/benburkert/faraday.git,Ruby
+533,acts,0,0,0,0,[],Another Calendar-based Tarsnap Script,5,,https://github.com/sr/acts.git,Shell
+534,agent-plugins,2,0,2,0,[],A collection of custom plugins for the Cloudkick agent,4,,https://github.com/sr/agent-plugins.git,Python
+535,ansible-go,0,0,0,0,[],"Ansible role that installs Go (http://golang.org/). The latest stable release that has been compiled for x86 64-bit Linux systems is installed by default, and different platforms and versions are supported by modifying the role variables.",7,,https://github.com/sr/ansible-go.git,Shell
+536,ansible-playbook-dev,1,0,1,0,[],ansible playbook I use for my remote development and auxiliary machine,1,mit,https://github.com/sr/ansible-playbook-dev.git,Shell
+537,ansible-role-buildkite-agent,0,0,0,0,[],Install the Buildkite.com agent on Ubuntu,1,mit,https://github.com/sr/ansible-role-buildkite-agent.git,Shell
+538,ansible-role-cbk,0,0,0,0,[],,1,mit,https://github.com/sr/ansible-role-cbk.git,Shell
+539,ape,8,1,8,1,[],The Atom Protocol Exerciser,2,mit,https://github.com/sr/ape.git,Ruby
+540,aperorb-paris,2,1,2,0,[],,2,,https://github.com/sr/aperorb-paris.git,Ruby
+541,atom,3,0,3,0,[],Ruby library for working with the Atom 1.0 syndication format,2,other,https://github.com/sr/atom.git,
+542,atom-test,4,0,4,0,[],Atom syndication format test suite for Ruby. ,1,,https://github.com/sr/atom-test.git,Ruby
+543,atom-tools,10,7,10,1,[],mirror of the darcs repository (ruby lib for atom/atompub),2,other,https://github.com/sr/atom-tools.git,Ruby
+544,beadmin,4,1,4,0,[],Python scripts hacked together to manage bearnaise.net,2,gpl-3.0,https://github.com/sr/beadmin.git,Python
+545,bob,3,1,3,0,[],Bob the Builder will build your codes,4,mit,https://github.com/sr/bob.git,Ruby
+546,bob-test,3,1,3,0,[],Test helpers for Bob's family,1,mit,https://github.com/sr/bob-test.git,Ruby
+547,bobette,2,1,2,0,[],Bob's sister,1,,https://github.com/sr/bobette.git,Ruby
+548,bundler,2,1,2,0,[],,3,mit,https://github.com/sr/bundler.git,Ruby
+549,cbk,4,0,4,0,[],Backup personnal data hosted on third party services,1,mit,https://github.com/sr/cbk.git,Shell
+550,cert-manager-webhook-dnsimple,1,0,1,1,"['cert-manager', 'cert-manager-webhook']",DNSimple provider for cert-manager,1,bsd-3-clause,https://github.com/sr/cert-manager-webhook-dnsimple.git,Go
+551,chef-deploy,2,1,2,0,[],Chef Resources and Providers for deploying ruby web apps without capistrano,3,apache-2.0,https://github.com/sr/chef-deploy.git,Ruby
+552,cijoe,2,1,2,0,[],CI Joe is a fun Continuous Integration server.,12,mit,https://github.com/sr/cijoe.git,Ruby
+553,Connect,2,1,2,0,[],Connect is a middleware layer for Node.js,2,,https://github.com/sr/Connect.git,JavaScript
+554,connect-basic-auth,6,3,6,2,[],basic auth middleware for Connect,1,mit,https://github.com/sr/connect-basic-auth.git,JavaScript
+555,couchdb-mail,5,0,5,0,[],Playing around with CouchDB and Email,1,,https://github.com/sr/couchdb-mail.git,
+556,couchy,6,0,6,0,[],"Simple, no-frills Ruby library around CouchDB's RESTful API",2,,https://github.com/sr/couchy.git,Ruby
+557,develop.github.com,2,1,2,0,[],API Documentation for GitHub,8,,https://github.com/sr/develop.github.com.git,JavaScript
+558,dm-more,1,1,1,0,[],"Extras for DataMapper, including bridges to DataObjects::Migrations and Merb::DataMapper",30,mit,https://github.com/sr/dm-more.git,Ruby
+559,dm-redis-adapter,3,1,3,0,[],A DataMapper adapter for redis,2,mit,https://github.com/sr/dm-redis-adapter.git,Ruby
+560,docs,0,0,0,0,[],The source files for the Buildkite documentation,6,mit,https://github.com/sr/docs.git,HTML
+561,dst,8,3,8,1,[],todo-list manager I wrote back in 2008 with the help of Gregory Brown in order to learn Ruby and TDD,1,mit,https://github.com/sr/dst.git,Ruby
+562,dumbapp,7,1,7,0,[],DumbApp is a simple AtomPub (RFC 5023) implementation based on Mongrel and ActiveRecord.,1,mit,https://github.com/sr/dumbapp.git,Ruby
+563,acts_as_network,1,1,1,0,[],Rails plugin for cleanly modeling social networks using ActiveRecord,3,mit,https://github.com/queso/acts_as_network.git,Ruby
+564,akismet,0,0,0,0,[],Meteor wrapper for NPM akismet-api,1,,https://github.com/queso/akismet.git,JavaScript
+565,ama,1,0,1,0,[],Ask me anything!,3,,https://github.com/queso/ama.git,
+566,anywherejs-template,0,0,0,1,[],,1,mit,https://github.com/queso/anywherejs-template.git,JavaScript
+567,autoserialize,0,0,0,0,[],,5,mit,https://github.com/queso/autoserialize.git,Ruby
+568,auto_follow,2,0,2,0,[],Twitter auto follow script,1,,https://github.com/queso/auto_follow.git,Ruby
+569,Beethub,0,0,0,0,[],Offers a simple management system for non-profits,1,mit,https://github.com/queso/Beethub.git,JavaScript
+570,boozio-web,0,0,0,0,[],,2,,https://github.com/queso/boozio-web.git,HTML
+571,chatApp,1,0,1,0,[],A simple app built during an AirPair session.,9,,https://github.com/queso/chatApp.git,JavaScript
+572,cijoe,1,0,1,0,[],CI Joe is a fun Continuous Integration server.,24,mit,https://github.com/queso/cijoe.git,Ruby
+573,cincyrb,0,0,0,0,[],Cincinnati.rb web app,4,,https://github.com/queso/cincyrb.git,Ruby
+574,crater-remote-conf,0,0,0,0,[],,1,,https://github.com/queso/crater-remote-conf.git,CSS
+575,daemon-kit,2,1,2,0,[],"Daemon Kit aims to simplify creating Ruby daemons by providing a sound application skeleton (through a generator), task specific generators (jabber bot, etc) and robust environment management code.",6,,https://github.com/queso/daemon-kit.git,Ruby
+576,dotfiles,2,0,2,0,[],My OSX dotfiles,1,,https://github.com/queso/dotfiles.git,Shell
+577,dryopteris,0,0,0,0,[],HTML sanitization using Nokogiri,6,,https://github.com/queso/dryopteris.git,Ruby
+578,electron-next,0,0,0,0,[],Build Electron apps using Next.js,3,mit,https://github.com/queso/electron-next.git,JavaScript
+579,envelopes,0,0,0,0,[],A quick budgeting app based on the envelope system,1,,https://github.com/queso/envelopes.git,Ruby
+580,follower-down,0,0,0,0,[],Shutdown page for follower.io,1,,https://github.com/queso/follower-down.git,
+581,gatsby-remark-reading-time,0,0,0,0,[],Gatsby remark plugin to add an estimated reading time field to all remark nodes,2,mit,https://github.com/queso/gatsby-remark-reading-time.git,JavaScript
+582,general-hawk,2,1,2,1,[],A Sinatra app to monitor multiple CIJoe Projects,1,,https://github.com/queso/general-hawk.git,Ruby
+583,github-services,2,0,2,0,[],Official GitHub Services Integration,15,mit,https://github.com/queso/github-services.git,Ruby
+584,GitHunt,0,0,0,0,[],An Apollo full-stack example app: vote for your favorite GitHub repos!,19,mit,https://github.com/queso/GitHunt.git,JavaScript
+585,give,1,0,1,0,[],A donation page for Meteor using Stripe,1,,https://github.com/queso/give.git,JavaScript
+586,guide,0,0,0,0,[],How do I use Meteor?,7,,https://github.com/queso/guide.git,JavaScript
+587,homebrew,0,1,0,0,[],The missing package manager for OS X,30,,https://github.com/queso/homebrew.git,Ruby
+588,homebridge-ecobee3-lite-sensors,0,0,0,1,[],Homebridge plugin that exposes Ecobee 3 Lite sensors as HomeKit accessories,0,,https://github.com/queso/homebridge-ecobee3-lite-sensors.git,
+589,hoptoad_notifier,2,2,2,1,[],Reports exceptions to Hoptoad,1,,https://github.com/queso/hoptoad_notifier.git,Ruby
+590,impressionist,0,0,0,0,[],A fork that supports redis,2,mit,https://github.com/queso/impressionist.git,Ruby
+591,integrity-campfire,2,11,2,0,[],Campfire notifier for the Integrity continuous integration server,2,,https://github.com/queso/integrity-campfire.git,Ruby
+592,joshowens.dev,0,0,0,0,[],My blog,1,mit,https://github.com/queso/joshowens.dev.git,JavaScript
+593,.dotfiles,11,1,11,0,[],,1,,https://github.com/drnic/.dotfiles.git,Shell
+594,4th_and_king,1,0,1,0,[],README only idea,1,,https://github.com/drnic/4th_and_king.git,
+595,8cpj,3,1,3,0,[],the octocat's pajamas: this is a fork of why's original project. I added unit tests and refactored the project. He didn't want them. Go back to the early commits to find where why left off. ,1,mit,https://github.com/drnic/8cpj.git,JavaScript
+596,agent,0,0,0,0,[],The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network,30,mit,https://github.com/drnic/agent.git,
+597,alexa-skill-dice-roll,0,0,0,0,[],,1,,https://github.com/drnic/alexa-skill-dice-roll.git,Go
+598,aliyun-cli,0,0,0,0,[],Alibaba Cloud CLI,17,apache-2.0,https://github.com/drnic/aliyun-cli.git,Go
+599,appscrolls,221,29,221,24,[],"The App Scrolls is a magical tool to generate new Rails apps and modify existing Rails applications (coming) to include your favourite, powerful magic. ",23,mit,https://github.com/drnic/appscrolls.git,Ruby
+600,apt-buildpack,0,0,0,0,[],,2,mit,https://github.com/drnic/apt-buildpack.git,Go
+601,ardupilot,1,0,1,0,[],"ArduPlane, ArduCopter, ArduRover source",30,gpl-3.0,https://github.com/drnic/ardupilot.git,C++
+602,ardupilot-ci,0,0,0,0,[],,1,,https://github.com/drnic/ardupilot-ci.git,Shell
+603,ardupilot_wiki,0,0,0,0,[],Repository for Ardupilot wiki issues and wiki-specific website infrastructure.,30,other,https://github.com/drnic/ardupilot_wiki.git,Python
+604,asciidoc-samples,0,0,0,0,[],A repository of AsciiDoc source files for testing AsciiDoc rendering on GitHub.,2,,https://github.com/drnic/asciidoc-samples.git,
+605,associated_with,2,1,2,0,[],Ruby on Rails check if object1 is associated object2,2,mit,https://github.com/drnic/associated_with.git,Ruby
+606,authrecipe,0,0,0,0,[],A recipe for using Buffalo & Password Authentication,4,,https://github.com/drnic/authrecipe.git,Go
+607,awesome-operators,0,0,0,0,[],A resource tracking a number of Operators out in the wild.,30,,https://github.com/drnic/awesome-operators.git,
+608,awesome-oss-mentors,0,0,0,0,[],List of OSS contributors willing to help others with their first pull requests!,27,mit,https://github.com/drnic/awesome-oss-mentors.git,
+609,aws_student_accounts,1,1,1,0,[],Manage student AWS accounts in bulk,1,mit,https://github.com/drnic/aws_student_accounts.git,Ruby
+610,babygopher-site,15,4,15,2,[],Landing page for getting yourself the Baby Gopher badge for your first Golang projects,1,,https://github.com/drnic/babygopher-site.git,
+611,Backbone.tmbundle,20,2,20,1,[],,1,,https://github.com/drnic/Backbone.tmbundle.git,
+612,baseimage-docker,0,0,0,0,[],A minimal Ubuntu base image modified for Docker-friendliness,3,mit,https://github.com/drnic/baseimage-docker.git,Python
+613,Bats.tmbundle,10,1,10,0,[],,2,,https://github.com/drnic/Bats.tmbundle.git,
+614,bcat,1,1,1,0,[],A pipe to browser utility,4,other,https://github.com/drnic/bcat.git,Ruby
+615,betaflight-configurator,0,0,0,0,[],Cross platform configuration tool for the cleanflight firmware,30,gpl-3.0,https://github.com/drnic/betaflight-configurator.git,JavaScript
+616,blinksale-greasemonkey,3,1,3,0,[],Greasemonkey/GreaseKit extensions for Blinksale,1,mit,https://github.com/drnic/blinksale-greasemonkey.git,Ruby
+617,blue-ridge,7,1,7,0,[],JavaScript BDD Rails Plugin (using Screw.Unit and env.js),7,mit,https://github.com/drnic/blue-ridge.git,JavaScript
+618,blue-ridge-tmbundle,3,1,3,0,[],"TextMate support for the Blue Ridge JavaScript Testing Rails Plugin (Screw.Unit, Smoke, etc.)",1,,https://github.com/drnic/blue-ridge-tmbundle.git,Ruby
+619,bolo-boshrelease,0,0,0,0,[],A BOSH release for deploying a Bolo Monitoring System,4,apache-2.0,https://github.com/drnic/bolo-boshrelease.git,Shell
+620,bom-charts,1,0,1,1,[],Mobile-friendly BOM charts,1,,https://github.com/drnic/bom-charts.git,HTML
+621,bom-charts-lsalt,0,0,0,0,[],,1,,https://github.com/drnic/bom-charts-lsalt.git,TypeScript
+622,bootstrap-cf-plugin,0,0,0,0,[],,4,,https://github.com/drnic/bootstrap-cf-plugin.git,Ruby
+623,aaws,2,0,2,0,[],API wrapper for Amazon Associates Web Service.,1,mit,https://github.com/danwrong/aaws.git,Ruby
+624,acts-as-money,7,2,7,0,[],Extensions to Active Record for dealing with storing currency.  Compatible with Active Merchant.,1,mit,https://github.com/danwrong/acts-as-money.git,Ruby
+625,ar-openid-store,5,5,5,1,[],JanRain's OpenID store for ActiveRecord jammed into a gem,1,mit,https://github.com/danwrong/ar-openid-store.git,Ruby
+626,code-highlighter,65,8,65,3,[],"A compact, extensible code highlighter written in JavaScript",1,,https://github.com/danwrong/code-highlighter.git,JavaScript
+627,couchrestler,11,0,11,0,[],A CouchDB interface for node.js written on top of Restler,1,mit,https://github.com/danwrong/couchrestler.git,JavaScript
+628,danwebb.net,0,0,0,0,[],Personal site,1,mit,https://github.com/danwrong/danwebb.net.git,JavaScript
+629,evil,4,0,4,0,[],A tool for creating websites from web service data.,1,mit,https://github.com/danwrong/evil.git,Ruby
+630,flight-sandbox,0,0,0,0,[],Playing around with ideas for Flight,1,,https://github.com/danwrong/flight-sandbox.git,JavaScript
+631,google-analytics,7,0,7,1,[],,1,other,https://github.com/danwrong/google-analytics.git,Ruby
+632,httparty,2,1,2,0,[],"Makes http fun! Also, makes consuming restful web services dead easy.",9,mit,https://github.com/danwrong/httparty.git,Ruby
+633,iso_codes,7,1,7,0,[],"ISO code lookups in Ruby for Currencies, Countries and Languages.",1,mit,https://github.com/danwrong/iso_codes.git,Ruby
+634,jasmine-flight,0,0,0,0,[],Extensions to the Jasmine test framework for use with Flight,7,mit,https://github.com/danwrong/jasmine-flight.git,JavaScript
+635,jplayer,5,1,5,0,[],A Flash-based mp3 player plugin for jQuery originally written by Happy Worm,1,,https://github.com/danwrong/jplayer.git,ActionScript
+636,jruby-rack,2,0,2,0,[],Rack for JRuby and Java appservers,23,other,https://github.com/danwrong/jruby-rack.git,Ruby
+637,liquid-inheritance,21,10,21,4,[],Django-style template inheritance for the Liquid templating language,1,mit,https://github.com/danwrong/liquid-inheritance.git,
+638,loadbuilder,24,8,24,9,[],Node package for building combine minified JavaScript files for use with Loadrunner,5,,https://github.com/danwrong/loadbuilder.git,JavaScript
+639,loadrunner,279,39,279,14,[],"Simple, flexible and sane JavaScript loader and build tool for browsers.",5,mit,https://github.com/danwrong/loadrunner.git,JavaScript
+640,low-pro,101,13,101,1,[],Extensions to Prototype to aid in writing unobstrusive JavaScript,4,,https://github.com/danwrong/low-pro.git,JavaScript
+641,low-pro-for-jquery,134,17,134,2,[],A jQuery plugin version of the Low Pro behavior framework.,3,mit,https://github.com/danwrong/low-pro-for-jquery.git,JavaScript
+642,merb_openid,10,0,10,0,[],An OpenID Consumer plugin for Merb,2,mit,https://github.com/danwrong/merb_openid.git,Ruby
+643,mocha-flight,0,0,0,0,[],Extensions to the Mocha test framework for use with Flight,3,mit,https://github.com/danwrong/mocha-flight.git,JavaScript
+644,morph,2,1,2,0,[],Morph makes it easy to emerge Ruby class definitions at runtime. Mix with Hpricot for screen scrapping fun.,2,other,https://github.com/danwrong/morph.git,Ruby
+645,musicblog,2,0,2,0,[],A thing what we are making for Music Hack Day,2,other,https://github.com/danwrong/musicblog.git,Ruby
+646,rails,2,1,2,0,[],Ruby on Rails,30,,https://github.com/danwrong/rails.git,Ruby
+647,react-static,0,0,0,0,[],⚛️ 🚀 A progressive static site generator for React.,30,mit,https://github.com/danwrong/react-static.git,JavaScript
+648,reaction,0,0,0,0,[],A React render server proof of concept,1,,https://github.com/danwrong/reaction.git,JavaScript
+649,restler,2011,400,2011,103,[],REST client library for node.js,30,mit,https://github.com/danwrong/restler.git,JavaScript
+650,rugalytics,4,0,4,0,[],Rugalytics is a Ruby Google Analytics API.,3,mit,https://github.com/danwrong/rugalytics.git,Ruby
+651,sumo,19,5,19,0,[],A microformat parser framework for JavaScript,2,,https://github.com/danwrong/sumo.git,
+652,twaudio-ruby,2,0,2,0,[],Ruby bindings for the twaud.io API,1,mit,https://github.com/danwrong/twaudio-ruby.git,Ruby
+653,afero,2,1,2,0,[],A FileSystem Abstraction System for Go,3,apache-2.0,https://github.com/wayneeseguin/afero.git,Go
+654,alogr,11,2,11,1,[],AlogR is a threadsafe non-blocking asynchronous configurable logger for Ruby.,1,other,https://github.com/wayneeseguin/alogr.git,Ruby
+655,appfirst-boshrelease,2,3,2,0,[],AppFirst BOSH Release (ABR),1,other,https://github.com/wayneeseguin/appfirst-boshrelease.git,Shell
+656,ar_migration_branches,7,3,7,0,[],Active Record Migration Branches,1,,https://github.com/wayneeseguin/ar_migration_branches.git,Ruby
+657,attachmerb_fu,4,1,4,0,[],A merb port of the attachment_fu Rails plugin,2,other,https://github.com/wayneeseguin/attachmerb_fu.git,Ruby
+658,authlogic,2,1,2,0,[],A simple model based ruby authentication solution.,24,mit,https://github.com/wayneeseguin/authlogic.git,Ruby
+659,autozest,6,2,6,1,[],AutoZest is an autotest addon that: * automated growl installation * generation of .autotest with growl & autozest config * generation of .autozest.yml config file * autozest.sqlite3 database file for pulling random messages based on severity,1,other,https://github.com/wayneeseguin/autozest.git,Ruby
+660,bboshinst,1,1,1,0,[],Binary bosh installer script for OpenStack,1,apache-2.0,https://github.com/wayneeseguin/bboshinst.git,Shell
+661,bosh,2,0,2,0,[],"Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.",30,apache-2.0,https://github.com/wayneeseguin/bosh.git,Ruby
+662,bosh-create,1,2,1,0,[],Exploration of ways to do bosh-release logic and structure.,3,mit,https://github.com/wayneeseguin/bosh-create.git,Shell
+663,bosh-workspace,1,2,1,0,[],Gem for managing your bosh workspace,3,mit,https://github.com/wayneeseguin/bosh-workspace.git,Ruby
+664,bundler,3,0,3,0,[],Manage your application's gem dependencies with less pain,30,other,https://github.com/wayneeseguin/bundler.git,Ruby
+665,cf-acceptance-tests,2,1,2,0,[],CF Acceptance tests,14,,https://github.com/wayneeseguin/cf-acceptance-tests.git,Go
+666,cf-app-logstail,1,1,1,0,[],Cloud Foundry Logs Tailer,1,other,https://github.com/wayneeseguin/cf-app-logstail.git,Go
+667,cf-appfirst-buildpack,1,2,1,0,[],Cloud Foundry AppFirst Collector Buildpack,1,,https://github.com/wayneeseguin/cf-appfirst-buildpack.git,Shell
+668,cli,1,5,1,1,[],A CLI for Cloud Foundry written in Go,30,apache-2.0,https://github.com/wayneeseguin/cli.git,Go
+669,concourse-project,1,1,1,0,[],,2,,https://github.com/wayneeseguin/concourse-project.git,
+670,datasciencecoursera,1,1,1,0,[],Data Science @ Coursera,1,gpl-3.0,https://github.com/wayneeseguin/datasciencecoursera.git,
+671,datasharing,1,0,1,0,[],The Leek group guide to data sharing ,8,,https://github.com/wayneeseguin/datasharing.git,
+672,data_retention,1,2,1,0,[],,1,,https://github.com/wayneeseguin/data_retention.git,
+673,db,2,0,2,0,[],dbm,0,,https://github.com/wayneeseguin/db.git,
+674,dbm,2,0,2,0,[],,0,,https://github.com/wayneeseguin/dbm.git,
+675,deliver,3,1,3,0,[],Heroku-style deployment through pure bash. Supports multiple strategies.,2,,https://github.com/wayneeseguin/deliver.git,Ruby
+676,docs-bosh,1,1,1,0,[],The docs repo for BOSH,5,apache-2.0,https://github.com/wayneeseguin/docs-bosh.git,
+677,dynamic_reports,223,23,223,0,[],Dynamic Reporting Engine for Ruby && Rails,1,,https://github.com/wayneeseguin/dynamic_reports.git,Ruby
+678,env,1,2,1,1,[],Environment mappings and variables for GAE,4,,https://github.com/wayneeseguin/env.git,Go
+679,env-1,1,1,1,0,[],The Best Damn Collection of .rc files this side of the Mississippi,1,,https://github.com/wayneeseguin/env-1.git,Shell
+680,exdata-project2,3,103,3,0,[],Exploratory Data Analysis Course Project 2,1,,https://github.com/wayneeseguin/exdata-project2.git,R
+681,ExData_Plotting1,1,1,1,0,[],Plotting Assignment 1 for Exploratory Data Analysis,2,,https://github.com/wayneeseguin/ExData_Plotting1.git,R
+682,fish-nuggets,2,1,2,0,[],"Completions, code snippets helping you to get even more out of the amazing Fish shell",5,,https://github.com/wayneeseguin/fish-nuggets.git,
+683,acts_as_taggable_on_steroids,154,21,154,0,[],(OBSOLETE) This plugin is based on acts_as_taggable by DHH but includes extras,2,mit,https://github.com/mattetti/acts_as_taggable_on_steroids.git,Ruby
+684,adCleanerChromeExt,0,0,0,0,[],Test Chrome extension,1,,https://github.com/mattetti/adCleanerChromeExt.git,JavaScript
+685,agouti,0,0,0,0,[],A WebDriver client and acceptance testing framework for Go,8,mit,https://github.com/mattetti/agouti.git,Go
+686,airbrake-go,1,0,1,0,[],Go library to report errors to airbrake and compatible servers,3,,https://github.com/mattetti/airbrake-go.git,Go
+687,Andromeda,1,0,1,0,[],"The goal is to provide a highly concurrent public facing API that dispatches requests to other APIs via different protocols (HTTP, Thrift..)",1,,https://github.com/mattetti/Andromeda.git,Scala
+688,angular,0,0,0,0,[],One framework. Mobile & desktop.,30,mit,https://github.com/mattetti/angular.git,
+689,api,0,1,0,0,[],Golang package to wrap web API endpoints,1,mit,https://github.com/mattetti/api.git,Go
+690,apple-remote-wrapper,8,1,8,0,[],fork of Martin Kahr work on an Apple Remote Wrapper,2,other,https://github.com/mattetti/apple-remote-wrapper.git,Objective-C
+691,approval_tests,2,1,2,0,[],Approval testing for specs and unit tests,2,,https://github.com/mattetti/approval_tests.git,Ruby
+692,ar-backup,13,2,13,0,[],Active Record backup is a Rails plugin which lets you backup your database schema and content in a schema.rb file and fixtures.,0,mit,https://github.com/mattetti/ar-backup.git,Ruby
+693,artist_portfolio,4,0,4,0,[],Shoes app displaying an artist portfolio using Flickr as a source for content,1,gpl-3.0,https://github.com/mattetti/artist_portfolio.git,Ruby
+694,attachment_fu,3,0,3,0,[],"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",7,,https://github.com/mattetti/attachment_fu.git,Ruby
+695,audio,64,10,64,2,"['audio', 'go']","This is a playground, production ready code is available at https://github.com/go-audio/",3,mit,https://github.com/mattetti/audio.git,Go
+696,AudioNotebooks,1,0,1,0,[],Collection of notebooks and scripts related to audio processing and machine learning.,1,other,https://github.com/mattetti/AudioNotebooks.git,Jupyter Notebook
+697,audioplayer,1,0,1,0,[],A flutter plugin to play audio files ( ObjC/Java ),8,other,https://github.com/mattetti/audioplayer.git,Dart
+698,benchmarks,7,1,7,0,[],,2,,https://github.com/mattetti/benchmarks.git,Ruby
+699,benchmark_suite,1,0,1,0,[],A set of enhancements to benchmark.rb,4,,https://github.com/mattetti/benchmark_suite.git,Ruby
+700,bert,1,1,1,0,[],BERT (Binary ERlang Term) serialization library for Ruby.,1,mit,https://github.com/mattetti/bert.git,Ruby
+701,billmonger,0,0,0,0,[],"Dead simple one-page PDF invoice generator. Write YAML, get simple, pretty invoices.",3,mit,https://github.com/mattetti/billmonger.git,Go
+702,book_mdar,3,0,3,0,[],"Life On The Edge With Merb, DataMapper & RSpec",20,,https://github.com/mattetti/book_mdar.git,Ruby
+703,bootstrap,0,0,0,0,[],Tools to bootstrap micro computers,1,apache-2.0,https://github.com/mattetti/bootstrap.git,Go
+704,bottetti,3,0,3,0,[],my irc bot,1,,https://github.com/mattetti/bottetti.git,CoffeeScript
+705,Box2d,5,1,5,0,[],My Box2d fork which has the iPhone TestBed compiling under Xcode4,1,,https://github.com/mattetti/Box2d.git,C++
+706,BubbleWrap,64,6,64,0,[],"Cocoa wrappers and helpers for RubyMotion (Ruby for iOS) - Making Cocoa APIs more Ruby like, one API at a time. Fork away and send your pull requests.",30,other,https://github.com/mattetti/BubbleWrap.git,Ruby
+707,bugsnag-go,1,2,1,0,[],bugsnag.com API client in Go,4,mit,https://github.com/mattetti/bugsnag-go.git,Go
+708,bugsnag-ios,0,1,0,1,[],,4,mit,https://github.com/mattetti/bugsnag-ios.git,Objective-C
+709,bundler,1,1,1,0,[],Manage your application's gem dependencies with less pain,30,other,https://github.com/mattetti/bundler.git,Ruby
+710,cbc,2,1,2,0,[],"CBC/radio-canada has great content and in some cases, one might be interested in keeping a backup",1,,https://github.com/mattetti/cbc.git,Go
+711,chidley-stein,0,0,0,0,[],A hacky fork of chidley you probably shouldn't be using,4,apache-2.0,https://github.com/mattetti/chidley-stein.git,Go
+712,circbuf,0,0,0,0,[],Golang circular (ring) buffer,3,mit,https://github.com/mattetti/circbuf.git,Go
+713,amazon-ec2,437,113,437,26,[],WARNING : You probably don't want this code. Its archived and ancient and probably doesn't work. Try the official AWS Ruby SDK instead.,27,other,https://github.com/grempe/amazon-ec2.git,Ruby
+714,deno-weather-cli,0,0,0,0,[],A CLI to get weather for a specific city using Deno and Open Weather Maps.,2,,https://github.com/grempe/deno-weather-cli.git,
+715,diceware,188,52,188,19,"['dice', 'security', 'cryptography', 'encryption', 'random', 'password', 'diceware', 'passphrase']","A tool for generating strong Diceware passwords, with entropy and crack time estimates.",10,mit,https://github.com/grempe/diceware.git,JavaScript
+716,diceware-generator,1,0,1,0,[],A diceware generator,4,mit,https://github.com/grempe/diceware-generator.git,JavaScript
+717,diceware-wordlist-en-eff,1,1,1,0,[],,1,,https://github.com/grempe/diceware-wordlist-en-eff.git,JavaScript
+718,dmr-watch,1,0,1,0,[],An Elixir & Phoenix project to watch DMR Amateur Radio Traffic in real time.,1,gpl-2.0,https://github.com/grempe/dmr-watch.git,JavaScript
+719,efps,5,2,5,0,[],Simple Erlang Flash Policy File Server,1,,https://github.com/grempe/efps.git,Erlang
+720,ex_rated,341,43,341,2,"['api', 'elixir', 'phoenix', 'otp', 'rate-limits', 'rate-limiting', 'bucket', 'rate', 'rate-limit']","ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.",17,other,https://github.com/grempe/ex_rated.git,Elixir
+721,fingerprint,0,0,0,0,[],Fingerprint is a simple tool that can be used to verify the contents of a directory.,2,,https://github.com/grempe/fingerprint.git,Ruby
+722,go-diceware,0,0,0,0,[],Golang library for generating passphrases via the diceware algorithm.,2,mit,https://github.com/grempe/go-diceware.git,
+723,grempe.github.io,1,1,1,1,[],Glenn Rempe's Public Website,1,,https://github.com/grempe/grempe.github.io.git,HTML
+724,ipfs-add,0,0,0,0,[],Tool to add a file or directory to IPFS,1,mit,https://github.com/grempe/ipfs-add.git,Go
+725,js-stellar-sdk,0,0,0,0,[],Main Stellar client library for the Javascript language,30,apache-2.0,https://github.com/grempe/js-stellar-sdk.git,
+726,nist-randomness-beacon,1,1,1,0,"['nist', 'cryptography', 'crypto', 'random', 'hash', 'randomness', 'timestamp', 'beacon']",A Javascript wrapper for the NIST Randomness Beacon API,4,,https://github.com/grempe/nist-randomness-beacon.git,
+727,opensecrets,16,4,16,0,[],OpenSecrets.org API Ruby Wrapper,1,mit,https://github.com/grempe/opensecrets.git,Ruby
+728,pem-jwk,0,0,0,0,[],,3,,https://github.com/grempe/pem-jwk.git,JavaScript
+729,qldb-simple-demo,0,0,0,0,[],,1,,https://github.com/grempe/qldb-simple-demo.git,
+730,rack-content_security_policy,1,0,1,3,"['ruby', 'rack', 'security', 'csp', 'rubygems', 'rack-middleware', 'csp-directives', 'signed-ruby-gems', 'content-security-policy']",Rack middleware for sending the HTTP ContentSecurityPolicy (W3C CSP Level 2/3) security headers in responses to prevent XSS and other browser based attacks.,1,mit,https://github.com/grempe/rack-content_security_policy.git,Ruby
+731,rack-json_web_token_auth,2,0,2,0,"['ruby', 'rack', 'middleware', 'rubygems', 'json', 'jwt', 'authentication', 'dsl', 'signature', 'auth', 'rack-middleware', 'jwt-claims', 'jwt-tokens']",Rack middleware for authentication using JSON Web Tokens,1,mit,https://github.com/grempe/rack-json_web_token_auth.git,Ruby
+732,react-material-ui-firebase,1,0,1,0,[],"React + Material-UI + Firebase; the three musketeers, all in one pack in the form of a boilerplate app",1,mit,https://github.com/grempe/react-material-ui-firebase.git,JavaScript
+733,secrets.js,180,50,180,11,[],Secret sharing for javascript,5,mit,https://github.com/grempe/secrets.js.git,JavaScript
+734,secretsharing,21,3,21,0,[],"NO LONGER MAINTAINED, please see important news in README.md. Shamir's Secret Sharing is an algorithm in cryptography. It is a form of secret sharing, where a secret is divided into parts, giving each participant its own unique part, where some of the parts or all of them are needed in order to reconstruct the secret. Holders of a share gain no knowledge of the larger secret.",2,apache-2.0,https://github.com/grempe/secretsharing.git,Ruby
+735,session-keys-js,6,1,6,12,"['cryptography', 'crypto', 'encryption', 'signing', 'signature', 'key', 'passphrase', 'signing-keys', 'encryption-key', 'cryptographic', 'keypair', 'ed25519', 'curve25519', 'nacl', 'digital-signature-keys', 'digital-signature', 'tweetnacl', 'strength']","A cryptographic tool for the deterministic generation of unique user IDs, and NaCl cryptographic keys",3,,https://github.com/grempe/session-keys-js.git,JavaScript
+736,session-keys-rb,1,0,1,2,"['cryptography', 'crypto', 'encryption', 'signing', 'signing-keys', 'encryption-key', 'cryptographic', 'keypair', 'ed25519', 'curve25519', 'digital-signature', 'tweetnacl', 'strength']","A tool for the deterministic generation of unique user IDs, and NaCl cryptographic keys from a single username and high entropy passphrase.",2,mit,https://github.com/grempe/session-keys-rb.git,Ruby
+737,shamirs-secret-sharing,0,0,0,0,[],A simple implementation of Shamir's Secret Sharing configured to use a finite field in GF(2^8) with 128 bit padding,1,mit,https://github.com/grempe/shamirs-secret-sharing.git,
+738,sirp,24,10,24,3,"['ruby', 'security', 'rubygems', 'cryptography', 'crypto', 'encryption', 'authentication', 'protocol', 'signature', 'remote', 'verification', 'password', 'auth', 'key', 'srp', 'srp-6a']",Secure (interoperable) Remote Password Auth (SRP-6a),3,other,https://github.com/grempe/sirp.git,Ruby
+739,sirp-demo,2,0,2,8,[],A live demo of grempe/sirp Secure Remote Password SRP-6a Authentication,2,,https://github.com/grempe/sirp-demo.git,JavaScript
+740,split-api-swagger,0,0,0,0,[],SwaggerHub Sync of API Definition (Only edit in SwaggerHub),1,,https://github.com/grempe/split-api-swagger.git,Shell
+741,strongpass,6,1,6,0,[],"An offline, deterministic, cryptographically strong, password generator.",1,mit,https://github.com/grempe/strongpass.git,HTML
+742,thesplit,1,1,1,0,[],"The open-source, end-to-end encrypted, zero-knowledge, auto-expiring, cryptographically secure, secret sharing service.",1,agpl-3.0,https://github.com/grempe/thesplit.git,CSS
+743,amabot,0,0,0,0,[],An IRC bot that answers questions by searching reddit.,1,mit,https://github.com/peterc/amabot.git,JavaScript
+744,aoc2019solutions,1,0,1,0,[],My Advent of Code 2019 Solutions,1,,https://github.com/peterc/aoc2019solutions.git,Ruby
+745,author,0,0,0,0,[],,1,mit,https://github.com/peterc/author.git,Ruby
+746,awesome-serverless,0,0,0,0,[],":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",30,,https://github.com/peterc/awesome-serverless.git,
+747,bitarray,77,13,77,2,[],Pure Ruby bit array/bitfield implementation,7,,https://github.com/peterc/bitarray.git,Ruby
+748,cardnut,1,0,1,0,[],Simple backend for pushing Twilio text messages over WebSocket to a client (not useful for many),1,,https://github.com/peterc/cardnut.git,JavaScript
+749,chrome2gif,63,4,63,0,[],Dynamically create an animated GIF of a page running in Chrome,1,,https://github.com/peterc/chrome2gif.git,JavaScript
+750,codebuildtest,0,1,0,0,[],testing codebuild to run random tasks,1,,https://github.com/peterc/codebuildtest.git,Ruby
+751,coffeebots,4,0,4,0,[],A programmable robot war game in CoffeeScript / JavaScript,1,mit,https://github.com/peterc/coffeebots.git,CoffeeScript
+752,discourse,0,0,0,0,[],"A platform for community discussion. Free, open, simple.",30,other,https://github.com/peterc/discourse.git,Ruby
+753,drender,0,0,0,0,[],drender,1,,https://github.com/peterc/drender.git,Ruby
+754,engblogs,36,1,36,4,[],Engineering Blogs,2,,https://github.com/peterc/engblogs.git,Ruby
+755,eu_countries,0,0,0,0,[],"List of EU Countries, built on top of the countries gem",2,,https://github.com/peterc/eu_countries.git,Ruby
+756,flitter,3,0,3,0,[],iLinkoln group project to build a Twitter / Flickr style mashup,3,,https://github.com/peterc/flitter.git,Ruby
+757,hackerslide,77,11,77,2,[],A sliding view of the Hacker News front page over time,2,,https://github.com/peterc/hackerslide.git,JavaScript
+758,herokuexperiment,1,0,1,0,[],Running two processes (web and worker) on a single Heroku dyno,1,,https://github.com/peterc/herokuexperiment.git,Ruby
+759,hntitles,1,0,1,0,[],Hacker News title edit tracker,1,,https://github.com/peterc/hntitles.git,Ruby
+760,hstore_accessor,0,0,0,0,[],Adds typed hstore-backed field support to ActiveRecord models.,12,mit,https://github.com/peterc/hstore_accessor.git,Ruby
+761,iA-Fonts,0,0,0,0,[],,4,,https://github.com/peterc/iA-Fonts.git,
+762,igsubscriber,4,1,4,0,[],Streams live market data from IG.com's Lightstreamer into a Redis data store,1,,https://github.com/peterc/igsubscriber.git,JavaScript
+763,illustrator-cc-scripting,1,1,1,0,"['javascript', 'applescript', 'illustrator', 'adobe-illustrator', 'extendscript']",Help and resources on scripting Illustrator CC on macOS,1,,https://github.com/peterc/illustrator-cc-scripting.git,JavaScript
+764,iohook,0,0,0,0,[],Node.js global keyboard and mouse listener.,14,mit,https://github.com/peterc/iohook.git,C
+765,john-carmack-plan-archive,0,0,0,0,[],Collection of John Carmack’s .plan files.,0,,https://github.com/peterc/john-carmack-plan-archive.git,
+766,kitabu,6,1,6,0,[],"A framework for creating e-books from Markdown/Textile text markup using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs.",5,,https://github.com/peterc/kitabu.git,Ruby
+767,massiveattract,2,0,2,0,[],A game developed in a few hours for Ludum Dare 23,1,,https://github.com/peterc/massiveattract.git,JavaScript
+768,monos,9,1,9,0,[],My Ludum Dare 22 entry,1,,https://github.com/peterc/monos.git,Ruby
+769,multirb,43,3,43,0,[],Run Ruby code over multiple implementations/versions using RVM from a IRB-esque prompt,3,mit,https://github.com/peterc/multirb.git,Ruby
+770,netlifytest,0,0,0,0,[],,1,,https://github.com/peterc/netlifytest.git,Ruby
+771,new-computer,0,1,0,0,[],"An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!",1,mit,https://github.com/peterc/new-computer.git,Shell
+772,penny,6,1,6,1,[],"Flexible, multi-format, multi-workflow e-book generation toolkit",1,,https://github.com/peterc/penny.git,Ruby
+773,arc,7,4,7,0,[],My arc repo,2,other,https://github.com/hornbeck/arc.git,Arc
+774,blerb-core,27,3,27,0,[],blerb running on merb-core,8,,https://github.com/hornbeck/blerb-core.git,Ruby
+775,fuzed,2,0,2,0,[],"A new revision of Fuzed, the Erlang-based frontend for web apps.",3,,https://github.com/hornbeck/fuzed.git,Erlang
+776,Little-Erlanger,8,2,8,0,[],,4,,https://github.com/hornbeck/Little-Erlanger.git,Erlang
+777,resumatoR,1,1,1,0,[],R package for the Resumator API,1,,https://github.com/hornbeck/resumatoR.git,R
+778,rubyzilla,1,1,1,0,[],A ruby API for interfacing with bugzilla.,2,,https://github.com/hornbeck/rubyzilla.git,Ruby
+779,test,0,0,0,0,[],,0,,https://github.com/hornbeck/test.git,
+780,zendeskR,0,1,0,0,[],R wrapper for Zendesk API,2,other,https://github.com/hornbeck/zendeskR.git,R
+781,altered_beast,2,0,2,0,[],"Ground-up rewrite of Beast, a Ruby on Rails forum.",6,,https://github.com/up_the_irons/altered_beast.git,Ruby
+782,arpnet-toolbox,1,1,1,2,[],,2,mit,https://github.com/up_the_irons/arpnet-toolbox.git,Ruby
+783,arpnetworks-packages,0,0,0,0,[],,1,,https://github.com/up_the_irons/arpnetworks-packages.git,
+784,billing-system-models,4,3,4,0,[],A collection of ActiveRecord models that can be included as part of a full-featured billing system,1,mit,https://github.com/up_the_irons/billing-system-models.git,Ruby
+785,browser-i18n,0,0,0,0,[],Simple tool for i18n in the browser,2,mit,https://github.com/up_the_irons/browser-i18n.git,JavaScript
+786,cacheable-flash,8,3,8,0,[],Rails flash working with page caching. Forked to work with JQuery instead of Prototype.,1,,https://github.com/up_the_irons/cacheable-flash.git,JavaScript
+787,communityengine,0,0,0,0,[],"Adds basic social networking capabilities to your existing application, including users, blogs, photos, clippings, favorites, and more.",30,other,https://github.com/up_the_irons/communityengine.git,Ruby
+788,credit_card_tools,12,6,12,0,[],Tools for processing credit cards on the command line,1,gpl-2.0,https://github.com/up_the_irons/credit_card_tools.git,Ruby
+789,curriculum,0,0,0,0,[],Ops School Curriculum,30,other,https://github.com/up_the_irons/curriculum.git,Python
+790,dotfiles,3,0,3,0,[],,1,,https://github.com/up_the_irons/dotfiles.git,Vim script
+791,ebay4r,31,8,31,0,[],eBay4R is a Ruby wrapper for eBay's Web Services SOAP API,2,gpl-2.0,https://github.com/up_the_irons/ebay4r.git,Ruby
+792,foundation-rails,0,0,0,0,[],Foundation for Rails,8,mit,https://github.com/up_the_irons/foundation-rails.git,Ruby
+793,git-winner,4,1,4,0,[],,1,,https://github.com/up_the_irons/git-winner.git,Shell
+794,gogo,0,0,0,1,[],,1,,https://github.com/up_the_irons/gogo.git,Ruby
+795,immutable,28,1,28,0,[],"Declare methods as immutable, somewhat like Java's ""final"" but still allowing child classes to override.",3,gpl-2.0,https://github.com/up_the_irons/immutable.git,Ruby
+796,ip_allocator,5,2,5,0,[],A class that helps ISP's subnet their IPv4 and IPv6 address space.,1,gpl-2.0,https://github.com/up_the_irons/ip_allocator.git,Ruby
+797,jenkins-hipchat-plugin,1,0,1,0,[],basically forked the campfire plugin and made things hipchatish,1,,https://github.com/up_the_irons/jenkins-hipchat-plugin.git,Java
+798,kubernetes,0,0,0,0,[],Production-Grade Container Scheduling and Management,30,apache-2.0,https://github.com/up_the_irons/kubernetes.git,Go
+799,maintenance,0,0,0,0,[],Maintenance Page Support For Capistrano,18,mit,https://github.com/up_the_irons/maintenance.git,Ruby
+800,mephisto,2,1,2,0,[],A mirror of the mephisto code-base,9,mit,https://github.com/up_the_irons/mephisto.git,Ruby
+801,mobile-experiments,0,0,0,0,[],,1,,https://github.com/up_the_irons/mobile-experiments.git,JavaScript
+802,node-autocomplete,1,0,1,0,[],Autocomplete module for node.js,3,,https://github.com/up_the_irons/node-autocomplete.git,JavaScript
+803,pony,2,0,2,0,[],The express way to send mail from Ruby.,5,,https://github.com/up_the_irons/pony.git,Ruby
+804,powerdns-models,5,0,5,0,[],A couple of ActiveRecord models that can be used to manipulate a PowerDNS database,1,mit,https://github.com/up_the_irons/powerdns-models.git,Ruby
+805,ram,7,1,7,0,[],Ruby Asset Manager,1,mit,https://github.com/up_the_irons/ram.git,Ruby
+806,Ruby-Radius,8,2,8,0,[],"RADIUS interface for Ruby, based on the work of Rafael R. Sevilla",1,lgpl-2.1,https://github.com/up_the_irons/Ruby-Radius.git,Ruby
+807,selfstarter,1,0,1,0,[],Roll your own crowdfunding,19,mit,https://github.com/up_the_irons/selfstarter.git,Ruby
+808,syncchat,0,0,0,0,[],SyncChat BBS Telecommunications Software,1,mit,https://github.com/up_the_irons/syncchat.git,C
+809,tendersync,1,0,1,0,[],"Utility for syncing documents from an ENTP Tender repository to a local filesystem, as well as creating index files",3,,https://github.com/up_the_irons/tendersync.git,Ruby
+810,tmux-battery,0,0,0,0,[],Plug and play battery percentage and icon indicator for Tmux.,22,mit,https://github.com/up_the_irons/tmux-battery.git,Shell
+811,aloha_2009,1,2,1,0,[],my talk on open source business models and independent record labels,1,,https://github.com/atmos/aloha_2009.git,
+812,appsly-android-rest,1,2,1,0,[],An Android client library for RESTful based web services.,6,,https://github.com/atmos/appsly-android-rest.git,Java
+813,as_time_goes_by,6,2,6,0,[],an example sinatra/rspec/datamapper/webrat app with selenium built in,1,,https://github.com/atmos/as_time_goes_by.git,Ruby
+814,atmos-dot-org-netlify,1,0,1,1,[],,7,,https://github.com/atmos/atmos-dot-org-netlify.git,CSS
+815,atmos-rails,4,4,4,0,[],A simple rails 4 template for resque and github oauth,2,mit,https://github.com/atmos/atmos-rails.git,Ruby
+816,atmos.github.io,32,56,32,1,[],,3,mit,https://github.com/atmos/atmos.github.io.git,HTML
+817,atmos.org,2,2,2,0,[],redirect shit from heroku to github pages,1,,https://github.com/atmos/atmos.org.git,JavaScript
+818,atmos.org-redirector,2,2,2,0,[],redirect atmos.org on ec2 to www.atmos.org on github,1,,https://github.com/atmos/atmos.org-redirector.git,Ruby
+819,braintree_transparent_redirect_slice,4,1,4,0,[],A slice for interfacing with braintree's transparent redirect stuff in a merb app,1,mit,https://github.com/atmos/braintree_transparent_redirect_slice.git,Ruby
+820,brute-force-your-router,5,3,5,0,[],,1,mit,https://github.com/atmos/brute-force-your-router.git,Lua
+821,bugzilla,1,1,1,0,[],Read-only mirror of Bugzilla source from git.mozilla.org/bugzilla/bugzilla.git,30,,https://github.com/atmos/bugzilla.git,Perl
+822,bundler,2,0,2,0,[],Manage your application's gem dependencies with less pain,30,mit,https://github.com/atmos/bundler.git,Ruby
+823,bundler-site,2,1,2,0,[],,5,,https://github.com/atmos/bundler-site.git,Ruby
+824,butt,5,2,5,0,[],Unofficial fork of http://danielnoethen.de/,1,gpl-2.0,https://github.com/atmos/butt.git,C++
+825,camo,1614,342,1614,25,[],:lock: an http proxy to route images through SSL,30,mit,https://github.com/atmos/camo.git,CoffeeScript
+826,campfiyah,2,2,2,0,[],Faraday API for Campfire,1,mit,https://github.com/atmos/campfiyah.git,Ruby
+827,capybara-standalone,8,2,8,0,[],"rspec2 and capybara testing, a simple example.",1,,https://github.com/atmos/capybara-standalone.git,Ruby
+828,charlock_holmes,2,1,2,0,[],"Character encoding detection, brought to you by ICU",6,mit,https://github.com/atmos/charlock_holmes.git,Ruby
+829,chef,3,1,3,0,[],"A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",30,apache-2.0,https://github.com/atmos/chef.git,Ruby
+830,ciderapp.org,10,2,10,0,[],the site that serves up your recipes,2,mit,https://github.com/atmos/ciderapp.org.git,Ruby
+831,cinderella,4,1,4,0,[],how your apple laptop should work,2,mit,https://github.com/atmos/cinderella.git,Ruby
+832,connect,2,1,2,0,[],Connect is a middleware layer for Node.js,5,,https://github.com/atmos/connect.git,JavaScript
+833,connect-auth,3,1,3,0,[],Authentication middleware for connect.,3,,https://github.com/atmos/connect-auth.git,JavaScript
+834,conveyor,1,1,1,0,[],A fast build system for Docker images.,4,bsd-2-clause,https://github.com/atmos/conveyor.git,Go
+835,developer.github.com,1,0,1,0,[],GitHub API documentation,30,,https://github.com/atmos/developer.github.com.git,Ruby
+836,django-headcrumbs,1,0,1,0,[],Smart and easy-to-use breadcrumbs for Django,1,other,https://github.com/atmos/django-headcrumbs.git,Python
+837,djcharts-menubar,3,1,3,0,[],djcharts.io menubar item,1,mit,https://github.com/atmos/djcharts-menubar.git,Objective-C
+838,docker-unifi-controller,0,2,0,0,[],,1,,https://github.com/atmos/docker-unifi-controller.git,
+839,dot_xen,12,3,12,0,[],parsing xen's .xen files for reading and writing,1,mit,https://github.com/atmos/dot_xen.git,Ruby
+840,elasticsearch-client,2,1,2,0,[],,3,mit,https://github.com/atmos/elasticsearch-client.git,Ruby
+841,airship-container-images,0,0,0,0,[],,1,,https://github.com/brosner/airship-container-images.git,Dockerfile
+842,apistar,0,0,0,0,[],"A smart Web API framework, designed for Python 3. ⚡️",28,bsd-3-clause,https://github.com/brosner/apistar.git,Python
+843,apk-rkt,0,0,0,0,[],,1,,https://github.com/brosner/apk-rkt.git,Shell
+844,aports,0,0,0,0,[],Readonly mirror of aports (http://git.alpinelinux.org/cgit/aports),30,,https://github.com/brosner/aports.git,Shell
+845,articles,14,0,14,0,[],Articles by Brian Rosner,1,,https://github.com/brosner/articles.git,
+846,aws-mfa,0,0,0,0,[],Manage AWS MFA Security Credentials,7,mit,https://github.com/brosner/aws-mfa.git,Python
+847,beanstalkd,2,0,2,0,[],"Beanstalkd is a fast, distributed, in-memory workqueue service. Its interface is generic, but was designed for use in reducing the latency of page views in high-volume web applications by running most time-consuming tasks asynchronously.",5,other,https://github.com/brosner/beanstalkd.git,C
+848,birdie,9,0,9,0,[],this is going to be awesome,1,,https://github.com/brosner/birdie.git,
+849,bosnobot,86,36,86,4,[],A purely Python implemented IRC bot framework.,2,,https://github.com/brosner/bosnobot.git,Python
+850,brosner.com,2,0,2,0,[],the code behind brosner.com,1,,https://github.com/brosner/brosner.com.git,JavaScript
+851,brosner.github.com,1,0,1,0,[],,1,,https://github.com/brosner/brosner.github.com.git,
+852,cherrypy-wsgi-process-pool,2,0,2,0,[],Process pool instead of thread pool in WSGI CherryPy,1,,https://github.com/brosner/cherrypy-wsgi-process-pool.git,Python
+853,cleese,5,0,5,0,[],an operating system in Python,2,,https://github.com/brosner/cleese.git,C
+854,college-monopoly,0,0,0,0,[],A monolopy simulation I wrote as a final project for CS101 (or something) back in 2003 (I am sure it is horrible),1,,https://github.com/brosner/college-monopoly.git,C++
+855,colour_qwiz,0,0,0,0,[],,1,,https://github.com/brosner/colour_qwiz.git,
+856,compute-image-packages,0,0,0,0,[],Scripts and tools for Google Compute Engine Linux images.,30,apache-2.0,https://github.com/brosner/compute-image-packages.git,Python
+857,Cony,1,1,1,0,[],Cony is a HTTP based service for providing insight into running RabbitMQ processes,0,other,https://github.com/brosner/Cony.git,Python
+858,dapi,3,0,3,0,[],Django RESTful API,2,,https://github.com/brosner/dapi.git,Python
+859,django-announcements,58,57,58,0,[],A site-wide announcement reusable app for Django.,3,mit,https://github.com/brosner/django-announcements.git,Python
+860,django-app-test-runner,26,8,26,1,[],Tools for running Django app tests standalone,2,,https://github.com/brosner/django-app-test-runner.git,Python
+861,django-atompub,0,1,0,0,[],implementation of Atom format and protocol for the Django web framework,2,,https://github.com/brosner/django-atompub.git,Python
+862,django-avatar,2,0,2,0,[],A reusable django application for handling Avatars.,12,bsd-3-clause,https://github.com/brosner/django-avatar.git,Python
+863,django-basic-cart,6,3,6,0,[],,1,,https://github.com/brosner/django-basic-cart.git,Python
+864,django-bookmarks,53,27,53,0,[],bookmark management for the Django web framework,4,mit,https://github.com/brosner/django-bookmarks.git,
+865,django-community,1,0,1,0,[],community site for djangoproject.com,3,,https://github.com/brosner/django-community.git,Python
+866,django-csrf,5,0,5,0,[],CSRF protection pre-1.2,1,,https://github.com/brosner/django-csrf.git,Python
+867,django-email-confirmation,9,5,9,1,[],simple email confirmation for the Django web framework,4,,https://github.com/brosner/django-email-confirmation.git,Python
+868,django-faq,5,1,5,0,[],a simple faq application for django apps,4,,https://github.com/brosner/django-faq.git,Python
+869,django-filter,6,2,6,0,[],A generic system for filtering Django QuerySets based on user selections,6,other,https://github.com/brosner/django-filter.git,Python
+870,django-friends,3,2,3,0,[],"friendship, contact and invitation management for the Django web framework",7,,https://github.com/brosner/django-friends.git,Python
+871,acts-as-list,1,1,1,0,[],Gem version of acts_as_list Rails plugin.,2,,https://github.com/jnicklas/acts-as-list.git,Ruby
+872,acts_as_xapian,2,0,2,0,[],Xapian full text search plugin for Ruby on Rails,2,other,https://github.com/jnicklas/acts_as_xapian.git,Ruby
+873,advanced_capybara,6,2,6,4,[],A repo containing the example app and slides of my advanced capybara talk,1,,https://github.com/jnicklas/advanced_capybara.git,Ruby
+874,akephalos,1,0,1,0,[],Headless HTMLUnit powered browser for Capybara,9,mit,https://github.com/jnicklas/akephalos.git,Ruby
+875,angular-cli-rails,1,0,1,0,[],Unify your EmberCLI and Rails Workflows,30,mit,https://github.com/jnicklas/angular-cli-rails.git,Ruby
+876,attveta,1,0,1,0,[],Foundation website,1,,https://github.com/jnicklas/attveta.git,HTML
+877,bigtest-examples,1,0,1,0,[],An example application demonstrating the use of the new bigtest,2,,https://github.com/jnicklas/bigtest-examples.git,
+878,bistro_car,101,11,101,1,[],This project is obsolete. Use the asset pipeline now built into Rails instead.,2,,https://github.com/jnicklas/bistro_car.git,Ruby
+879,bottled-water,1,0,1,0,[],Kafka Connect + Postgres + Debezium and KSQL on Heroku,3,mit,https://github.com/jnicklas/bottled-water.git,Shell
+880,broccoli,0,0,0,0,[],Browser compilation library – a framework for building applications that run in the browser,6,mit,https://github.com/jnicklas/broccoli.git,JavaScript
+881,broccoli-sass,0,0,0,0,[],,1,mit,https://github.com/jnicklas/broccoli-sass.git,JavaScript
+882,broccoli-traceur,0,0,0,0,[],Traceur is a JavaScript.next to JavaScript-of-today compiler,1,,https://github.com/jnicklas/broccoli-traceur.git,JavaScript
+883,buildkite-revparse-bug,0,0,0,0,[],"Test repo to check for a particular bug on buildkite, please ignore",1,,https://github.com/jnicklas/buildkite-revparse-bug.git,
+884,buildkite_test,0,0,0,0,[],Experimenting with buildkite,1,,https://github.com/jnicklas/buildkite_test.git,Ruby
+885,build_compile,3,0,3,1,[],Helper crate for build scripts which compile to Rust,1,mit,https://github.com/jnicklas/build_compile.git,Rust
+886,capistrano,3,0,3,0,[],Remote multi-server automation tool,9,,https://github.com/jnicklas/capistrano.git,Ruby
+887,capybara-envjs,2,1,2,0,[],Capybara driver for envjs gem,4,,https://github.com/jnicklas/capybara-envjs.git,Ruby
+888,capybara_heroku,3,0,3,0,[],A small skeleton to run the capybara test app on Heroku,1,,https://github.com/jnicklas/capybara_heroku.git,Ruby
+889,capybara_table,19,8,19,3,[],Capybara selectors and matchers for working with HTML tables,4,mit,https://github.com/jnicklas/capybara_table.git,Ruby
+890,carrierwave-example-app,29,13,29,1,[],An example app showcasing some features of the Ruby file upload library CarrierWave (http://github.com/jnicklas/carrierwave),1,,https://github.com/jnicklas/carrierwave-example-app.git,Ruby
+891,celluloid,0,0,0,0,[],Actor-based concurrent object framework for Ruby,30,mit,https://github.com/jnicklas/celluloid.git,Ruby
+892,celluloid-jeromq,0,0,0,0,[],Celluloid bindings to the jeromq library,10,mit,https://github.com/jnicklas/celluloid-jeromq.git,Ruby
+893,celluloid-stomp,3,0,3,0,[],Evented STOMP parser,0,mit,https://github.com/jnicklas/celluloid-stomp.git,Ruby
+894,celluloid-zmq,0,0,0,0,[],Celluloid actors that talk over the 0MQ protocol,9,mit,https://github.com/jnicklas/celluloid-zmq.git,Ruby
+895,chewy_example,0,0,0,0,[],Chewy example application,4,,https://github.com/jnicklas/chewy_example.git,Ruby
+896,chianna,3,0,3,0,[],Component based Web Development Framework,1,,https://github.com/jnicklas/chianna.git,Ruby
+897,classy_resources,2,0,2,0,[],"Think resource_controller, except for sinatra.",1,mit,https://github.com/jnicklas/classy_resources.git,Ruby
+898,coffee_compiler,3,0,3,0,[],Compile CoffeeScript from Ruby without shelling out,0,,https://github.com/jnicklas/coffee_compiler.git,Ruby
+899,confiture,2,0,2,0,[],Configuration Generator,1,mit,https://github.com/jnicklas/confiture.git,Ruby
+900,contextually,21,2,21,0,[],Nice user contexts in your RSpec-Rails controller specs,2,,https://github.com/jnicklas/contextually.git,Ruby
+901,.spacemacs.d,0,0,0,0,[],~/.spacemacs.d,1,,https://github.com/cristibalan/.spacemacs.d.git,Emacs Lisp
+902,.vim,3,2,3,0,[],~/.vim,1,,https://github.com/cristibalan/.vim.git,Vim script
+903,.vim-1,0,0,0,0,[],my .vim,1,,https://github.com/cristibalan/.vim-1.git,Vim script
+904,asset_auto_include,9,0,9,0,[],"Based on the javascript_auto_include_plugin but allows to include all sorts of things, not just js",3,,https://github.com/cristibalan/asset_auto_include.git,Ruby
+905,braid,442,38,442,15,[],Simple tool to help track vendor branches in a Git repository.,20,mit,https://github.com/cristibalan/braid.git,Ruby
+906,dotfiles,9,2,9,1,[],dotfiles,1,,https://github.com/cristibalan/dotfiles.git,Shell
+907,evil.che.lu,2,0,2,0,[],evil.che.lu - fluffy_barbarian source,1,,https://github.com/cristibalan/evil.che.lu.git,JavaScript
+908,feedzinho,2,0,2,0,[],A tiny feed reader for lolcats and githubz,1,,https://github.com/cristibalan/feedzinho.git,Ruby
+909,fizzy,4,0,4,0,[],Gangsta file matching.,1,,https://github.com/cristibalan/fizzy.git,Ruby
+910,fluffy_barbarian,3,0,3,0,[],Fluffy barbarian carefully handles your blog,1,,https://github.com/cristibalan/fluffy_barbarian.git,Ruby
+911,fuf-fizzy,2,0,2,0,[],Fizzy mode for fuzzyfinder.vim,1,,https://github.com/cristibalan/fuf-fizzy.git,VimL
+912,fuzzyfinder_textmate,2,0,2,0,[],UNMAINTAINED! A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T),5,,https://github.com/cristibalan/fuzzyfinder_textmate.git,VimL
+913,fuzzy_file_finder,2,0,2,0,[],"UNMAINTAINED! A (slightly enhanced) implementation of TextMate's cmd-T lookup functionality, in Ruby, for embedding in other projects",3,other,https://github.com/cristibalan/fuzzy_file_finder.git,Ruby
+914,gist_inliner,2,0,2,0,[],Inline gists into HTML,1,other,https://github.com/cristibalan/gist_inliner.git,JavaScript
+915,i18n-js,2,0,2,0,[],It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.,3,,https://github.com/cristibalan/i18n-js.git,JavaScript
+916,kbdhax,5,1,5,1,[],Changes right alt key with a control key on a macbook keyboard,1,,https://github.com/cristibalan/kbdhax.git,C
+917,macvim,2,1,2,0,[],Mirror of the MacVim repo.or.cz repo updated hourly. Backup of my custom changes in branch chelu. Will push -f to it.,18,,https://github.com/cristibalan/macvim.git,C
+918,mailinho,2,0,2,0,[],broken webmail thingy,1,,https://github.com/cristibalan/mailinho.git,Ruby
+919,rails,0,0,0,0,[],Ruby on Rails,30,,https://github.com/cristibalan/rails.git,Ruby
+920,re-frisk,0,0,0,0,[],"Visualize re-frame pattern data or reagent ratom data as a tree structure, watch re-frame events and export state in the debugger. ",4,mit,https://github.com/cristibalan/re-frisk.git,Clojure
+921,reportable,0,0,0,0,[],A plugin that makes basic reporting for rails models dead simple. Formally known as reports_as_sparkline.,10,mit,https://github.com/cristibalan/reportable.git,Ruby
+922,skittlish,3,1,3,0,[],"A candy coloured theme for mephisto. Comes in 7 flavours! (orange, blue, green, pink, cyan, red, violet)",2,,https://github.com/cristibalan/skittlish.git,JavaScript
+923,Sonny,2,0,2,0,[],Weather by mobster. Doesn't work yet,1,,https://github.com/cristibalan/Sonny.git,Ruby
+924,thorax,2,0,2,0,[],Strengthening your Backbone,2,mit,https://github.com/cristibalan/thorax.git,JavaScript
+925,apibutler,0,0,0,13,[],Messing around with proxies and things like that,1,,https://github.com/simonjefford/apibutler.git,Go
+926,atlas-terraform-github-tutorial,0,0,0,0,[],,1,,https://github.com/simonjefford/atlas-terraform-github-tutorial.git,HCL
+927,autotest_example,2,0,2,1,[],A toy project that demonstrates how to layout a ruby project that works with Autotest,1,,https://github.com/simonjefford/autotest_example.git,Ruby
+928,beats,0,0,0,0,[],:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,30,other,https://github.com/simonjefford/beats.git,Go
+929,beats-forwarder,0,0,0,0,[],"A simple forwarder to send beats everywhere through udp, tcp, syslog and third-party",0,,https://github.com/simonjefford/beats-forwarder.git,Go
+930,betabuilder,1,0,1,0,[],A collection of Rake tasks for managing and distributing iOS ad-hoc builds,1,mit,https://github.com/simonjefford/betabuilder.git,Ruby
+931,bucketwise,2,0,2,0,[],A web-based personal finance manager with a focus on non-OCD budgeting and avoiding credit card debt,7,other,https://github.com/simonjefford/bucketwise.git,Ruby
+932,bundler,1,0,1,0,[],Manage your application's gem dependencies with less pain,30,other,https://github.com/simonjefford/bundler.git,Ruby
+933,caddy,0,0,0,0,[],Fast general-purpose HTTP/2 web server for any platform.,14,apache-2.0,https://github.com/simonjefford/caddy.git,Go
+934,delicious_adder,3,0,3,0,[],Add items to Delicious Library from your mobile phone,1,mit,https://github.com/simonjefford/delicious_adder.git,Ruby
+935,docker,0,0,0,0,[],Docker - the open-source application container engine,30,apache-2.0,https://github.com/simonjefford/docker.git,Go
+936,docprinter,0,0,0,0,[],Github document printing service,1,,https://github.com/simonjefford/docprinter.git,Go
+937,doozerd,1,0,1,0,[],A consistent distributed data store.,5,mit,https://github.com/simonjefford/doozerd.git,Go
+938,dotnet-docker,0,0,0,0,[],This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.,29,mit,https://github.com/simonjefford/dotnet-docker.git,Dockerfile
+939,emacs.d,0,0,0,0,[],,1,other,https://github.com/simonjefford/emacs.d.git,Emacs Lisp
+940,emacsconfig,1,0,1,0,[],My Fork of Prelude,30,,https://github.com/simonjefford/emacsconfig.git,Emacs Lisp
+941,emacsconfig-old,2,0,2,0,[],,22,gpl-3.0,https://github.com/simonjefford/emacsconfig-old.git,Emacs Lisp
+942,ember-cli,0,0,0,0,[],,30,mit,https://github.com/simonjefford/ember-cli.git,JavaScript
+943,ember-cli-materialize,0,0,0,0,[],Material Design (via Materialize) for Ember.js Apps,25,mit,https://github.com/simonjefford/ember-cli-materialize.git,JavaScript
+944,ember-github-issues,0,0,0,0,[],,1,,https://github.com/simonjefford/ember-github-issues.git,JavaScript
+945,emberfire,0,0,0,0,[],The officially supported adapter for using Firebase with Ember,30,mit,https://github.com/simonjefford/emberfire.git,
+946,feedparser,4,1,4,0,[],A Cocoa RSS/Atom parser for Mac OS X and the iPhone,2,mit,https://github.com/simonjefford/feedparser.git,Objective-C
+947,fourthbot,0,0,0,2,[],,1,,https://github.com/simonjefford/fourthbot.git,Go
+948,gftest,0,0,0,0,[],,1,,https://github.com/simonjefford/gftest.git,
+949,GildedRose,0,0,0,0,[],Gilded Rose Kata - starting in Ruby,3,,https://github.com/simonjefford/GildedRose.git,Ruby
+950,git-talk,0,0,0,0,[],,1,,https://github.com/simonjefford/git-talk.git,
+951,go-exercism,0,0,0,0,[],A Go based command line tool for exercism.io.,14,mit,https://github.com/simonjefford/go-exercism.git,Go
+952,Go-Redis,3,2,3,0,[],Google Go Client and Connectors for Redis,5,apache-2.0,https://github.com/simonjefford/Go-Redis.git,Go
+953,gobyexample,0,0,0,0,[],Go by Example,3,,https://github.com/simonjefford/gobyexample.git,Go
+954,gooddata.github.com,0,0,0,0,[],Source of GoodData Developer Network website hosted at GitHub,8,,https://github.com/simonjefford/gooddata.github.com.git,JavaScript
+955,5x13,13,1,13,0,[],"a condensed pixel font built on 6x13 (""fixed"")",1,,https://github.com/leahneukirchen/5x13.git,Makefile
+956,absurd,0,0,0,0,['unmaintained'],,1,,https://github.com/leahneukirchen/absurd.git,Shell
+957,actions-archive-all,2,0,2,0,"['actions', 'tarballs']",generate tarballs including submodules from GitHub Actions,1,,https://github.com/leahneukirchen/actions-archive-all.git,Shell
+958,adventofcode2015,3,0,3,0,[],Advent of Code (adventofcode.com) in K,1,,https://github.com/leahneukirchen/adventofcode2015.git,Ruby
+959,adventofcode2016,2,0,2,0,[],Advent of Code 2016 (adventofcode.com) in K and J,1,,https://github.com/leahneukirchen/adventofcode2016.git,Ruby
+960,adventofcode2017,2,0,2,0,[],adventofcode.com 2017,1,,https://github.com/leahneukirchen/adventofcode2017.git,C++
+961,adventofcode2018,0,1,0,0,[],Advent of Code 2018 (adventofcode.com) in k and Rust,1,,https://github.com/leahneukirchen/adventofcode2018.git,Ruby
+962,adventofcode2019,5,0,5,0,[],Advent of Code (adventofcode.com) in k and Perl 5,1,,https://github.com/leahneukirchen/adventofcode2019.git,Perl
+963,adventofcode2020,2,0,2,0,[],Advent of Code 2020 (adventofcode.com) in J and Clojure,1,,https://github.com/leahneukirchen/adventofcode2020.git,Clojure
+964,amok,9,1,9,0,[],a compact mock library,1,other,https://github.com/leahneukirchen/amok.git,Ruby
+965,arr,5,0,5,0,[],(re)arrange and select fields on each line,1,,https://github.com/leahneukirchen/arr.git,Groff
+966,ast,0,1,0,0,[],"This is the AT&T Software Technology ast software download site from AT&T Research. The AT&T AST OpenSource Software Collection provides an overview and Practical Reusable UNIX Software provides a historical perspective. You can join the ast and uwin mailgroups, or monitor the mail archives. There is also an AT&T internal talk. The man page index contains most of the ast commands and library functions; command man pages are also available at runtime using the --man or --html option of any ast command.",5,,https://github.com/leahneukirchen/ast.git,C
+967,atreus-leah2,1,0,1,0,[],,1,,https://github.com/leahneukirchen/atreus-leah2.git,
+968,atxec,5,0,5,0,[], run command expanding arguments from file or environment,1,,https://github.com/leahneukirchen/atxec.git,Perl
+969,bacon,421,67,421,10,[],a small RSpec clone,13,other,https://github.com/leahneukirchen/bacon.git,Ruby
+970,bcachefs-tools,0,0,0,0,[],http://bcachefs.org,10,gpl-2.0,https://github.com/leahneukirchen/bcachefs-tools.git,C
+971,borschtsch,1,0,1,0,[],(experimental),1,,https://github.com/leahneukirchen/borschtsch.git,
+972,btac,4,0,4,0,[],print file in reverse order,1,,https://github.com/leahneukirchen/btac.git,C
+973,CampFahrplan,0,0,0,0,[],View the conference schedule of the Chaos Communcation Camp/Congress,4,,https://github.com/leahneukirchen/CampFahrplan.git,Java
+974,ceph-ansible,0,0,0,0,[],"Ansible playbooks to deploy Ceph, the distributed filesystem.",30,apache-2.0,https://github.com/leahneukirchen/ceph-ansible.git,Python
+975,challis,22,1,22,0,[],a soft lightweight cloth,1,,https://github.com/leahneukirchen/challis.git,Ruby
+976,clitter,7,0,7,0,[],a ncurses twitter client,1,,https://github.com/leahneukirchen/clitter.git,Ruby
+977,colfm,46,5,46,1,[],"A console, column-oriented file manager",3,,https://github.com/leahneukirchen/colfm.git,Ruby
+978,coma,13,3,13,0,['unmaintained'],a console mail user agent | obsolete: use mblaze,1,,https://github.com/leahneukirchen/coma.git,Ruby
+979,coset-mirror,10,1,10,0,[],(experimental) Mirror of the coset darcs repository,1,,https://github.com/leahneukirchen/coset-mirror.git,Ruby
+980,cwm,252,30,252,0,[],portable version of OpenBSD's cwm(1) window manager,5,,https://github.com/leahneukirchen/cwm.git,C
+981,daiquiri,11,0,11,0,[],a Rack-based resourceful web framework,1,,https://github.com/leahneukirchen/daiquiri.git,
+982,database_cleaner-active_record,0,0,0,0,[],Strategies for cleaning databases using ActiveRecord.  Can be used to ensure a clean state for testing.,30,mit,https://github.com/leahneukirchen/database_cleaner-active_record.git,
+983,docker-lab-bgp,1,1,1,0,[],A small BGP lab in Docker,1,,https://github.com/leahneukirchen/docker-lab-bgp.git,
+984,dwm-chris2,3,0,3,0,[],Personal dwm fork.,4,mit,https://github.com/leahneukirchen/dwm-chris2.git,C
+985,active_model_serializers,1,0,1,0,[],ActiveModel::Serializer implementation and Rails hooks,22,mit,https://github.com/engineyard/active_model_serializers.git,Ruby
+986,addressable,1,0,1,0,[],Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to the relevant RFCs and adds support for IRIs and URI templates. ,14,apache-2.0,https://github.com/engineyard/addressable.git,Ruby
+987,angular-wizard,0,0,0,0,[],Easy to use Wizard library for AngularJS,13,mit,https://github.com/engineyard/angular-wizard.git,JavaScript
+988,appcloud-for-chrome-webstore,2,0,2,0,[],The manifest + assets for a Hosted App on the Chrome WebStore,1,,https://github.com/engineyard/appcloud-for-chrome-webstore.git,Ruby
+989,ardm,14,8,14,2,[],Use Datamapper DSL on top of ActiveRecord,2,other,https://github.com/engineyard/ardm.git,Ruby
+990,ar_properties,1,0,1,0,[],Explicit properties for ActiveRecord,1,mit,https://github.com/engineyard/ar_properties.git,Ruby
+991,async,2,2,2,1,[],Yet another background processing abstraction layer,1,mit,https://github.com/engineyard/async.git,Ruby
+992,aws-s3,1,0,1,0,[],AWS-S3 is a Ruby implementation of Amazon's S3 REST API,11,other,https://github.com/engineyard/aws-s3.git,
+993,azure-sdk-for-python,0,0,0,0,[],Windows Azure SDK for Python,6,apache-2.0,https://github.com/engineyard/azure-sdk-for-python.git,VHDL
+994,backup,1,2,1,1,[],"Backup is a RubyGem, written for UNIX-like operating systems, that allows you to easily perform backup operations on both your remote, as well as your local environment. It provides you with an elegant DSL in Ruby for modeling (configuring) your backups. Backup has built-in support for various databases, storage protocols/services, syncers, compressors, encryptors and notifiers which you can mix and match. It was built with modularity, extensibility and simplicity in mind.",30,other,https://github.com/engineyard/backup.git,Ruby
+995,basic-chat,0,1,0,0,[],Basic Node.js chat app using Socket.IO,1,mit,https://github.com/engineyard/basic-chat.git,JavaScript
+996,bcrypt-ruby,1,0,1,0,[],"bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",11,other,https://github.com/engineyard/bcrypt-ruby.git,C
+997,bundler,1,0,1,0,[],Manage your application's gem dependencies with less pain,30,other,https://github.com/engineyard/bundler.git,Ruby
+998,capybara-screenshot,0,1,0,0,[],Automatically save screen shots when a Capybara scenario fails,30,mit,https://github.com/engineyard/capybara-screenshot.git,Ruby
+999,chat,17,32,17,1,[],Sample Node.js App for Engine Yard Cloud,4,mit,https://github.com/engineyard/chat.git,CSS
+1000,chef-deploy,12,1,12,0,[],Chef Resources and Providers for deploying ruby web apps without capistrano,4,apache-2.0,https://github.com/engineyard/chef-deploy.git,Ruby
+1001,chef-mongodb,0,0,0,0,[],MongoDB Chef cookbook,30,apache-2.0,https://github.com/engineyard/chef-mongodb.git,Ruby
+1002,chef-percona,1,0,1,0,[],Chef cookbook for Percona MySQL components,30,mit,https://github.com/engineyard/chef-percona.git,
+1003,chef-postgresql,0,0,0,0,[],Chef cookbook for PostgreSQL components ,24,mit,https://github.com/engineyard/chef-postgresql.git,
+1004,chef-vault,0,0,0,0,[],"Securely manage passwords, certs, and other secrets in Chef",11,apache-2.0,https://github.com/engineyard/chef-vault.git,Ruby
+1005,chronatog,4,5,4,0,[],third party api integration service example,5,,https://github.com/engineyard/chronatog.git,Ruby
+1006,cistern,2,0,2,0,[],API client framework extracted from Fog,7,mit,https://github.com/engineyard/cistern.git,Ruby
+1007,cliff,0,1,0,0,[],Command Line Interface Formulation Framework,8,apache-2.0,https://github.com/engineyard/cliff.git,Python
+1008,cloudex,1,0,1,0,[],Lookup for vm on TMK,1,,https://github.com/engineyard/cloudex.git,Ruby
+1009,container-services-examples,0,5,0,2,[],A few examples for Engine Yard Container Services,1,,https://github.com/engineyard/container-services-examples.git,Ruby
+1010,core-client-rb,5,16,5,15,[],Engine Yard Core API Ruby client,28,mit,https://github.com/engineyard/core-client-rb.git,Ruby
+1011,coveralls-ruby,0,0,0,0,[],Coveralls for Ruby,5,mit,https://github.com/engineyard/coveralls-ruby.git,Ruby
+1012,cucumber,1,1,1,0,[],BDD that talks to domain experts first and code second,30,mit,https://github.com/engineyard/cucumber.git,Ruby
+1013,database_cleaner,1,1,1,1,[],Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.,30,mit,https://github.com/engineyard/database_cleaner.git,
+1014,datafabric-example,2,0,2,0,[],,0,,https://github.com/engineyard/datafabric-example.git,Ruby
+1015,AdventOfCode2020,1,0,1,0,[],,1,,https://github.com/kevinclark/AdventOfCode2020.git,Rust
+1016,ale,1,0,1,0,[],"Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support",30,bsd-2-clause,https://github.com/kevinclark/ale.git,Vim script
+1017,aletheia,0,0,0,0,[],"A superior, open source suite of state-of-the-art steganalysis tools.",3,mit,https://github.com/kevinclark/aletheia.git,Python
+1018,aoc2019,0,0,0,0,[],AOC 2019 in Rust,1,,https://github.com/kevinclark/aoc2019.git,Rust
+1019,chordal,7,1,7,0,[],A library in Io for generating chords,1,,https://github.com/kevinclark/chordal.git,Io
+1020,climate-clock-kit,0,0,0,0,[],Make your own CLIMATECLOCK with off-the-shelf parts.,2,,https://github.com/kevinclark/climate-clock-kit.git,
+1021,docker-registry,1,1,1,0,[],Registry server for Docker (hosting/delivering of repositories and images),12,apache-2.0,https://github.com/kevinclark/docker-registry.git,Python
+1022,dotfiles,3,1,3,0,[],My configs,1,,https://github.com/kevinclark/dotfiles.git,Shell
+1023,dust,63,3,63,1,[],Lint for Ruby. Moved to http://wiki.github.com/kevinclark/nitpick/,1,mit,https://github.com/kevinclark/dust.git,Ruby
+1024,git-tutorial-8033,0,0,0,0,[],Just some code for a tutorial in person,1,,https://github.com/kevinclark/git-tutorial-8033.git,Java
+1025,glu.ttono.us,2,1,2,0,[],Blog archives and new engine,1,,https://github.com/kevinclark/glu.ttono.us.git,JavaScript
+1026,god,4,0,4,0,[],Ruby process monitor,4,,https://github.com/kevinclark/god.git,Ruby
+1027,gq-4x4,0,0,0,0,[],GQ-4x4 util for OS X,1,,https://github.com/kevinclark/gq-4x4.git,Rust
+1028,indexer,1,1,1,0,[],A simple search engine engine in Go,1,mit,https://github.com/kevinclark/indexer.git,Go
+1029,inmate-scraping,0,3,0,1,[],Collecting inmate names and addresses,2,,https://github.com/kevinclark/inmate-scraping.git,Python
+1030,iospec2,5,1,5,0,[],An rspec like tool for Io,2,,https://github.com/kevinclark/iospec2.git,Io
+1031,janus,2,1,2,0,[],A MacVim Distro,30,,https://github.com/kevinclark/janus.git,Ruby
+1032,kata,2,1,2,0,[],Code kata,1,,https://github.com/kevinclark/kata.git,C++
+1033,Lesson-Plans,16,12,16,1,[],,6,,https://github.com/kevinclark/Lesson-Plans.git,Python
+1034,metrics,2,1,2,0,[],Capturing JVM- and application-level metrics. So you know what's going on.,6,mit,https://github.com/kevinclark/metrics.git,Java
+1035,neovim,0,0,0,0,[],Vim-fork focused on extensibility and usability,30,other,https://github.com/kevinclark/neovim.git,
+1036,netty,0,0,0,0,[],Netty project - an event-driven asynchronous network application framework,30,apache-2.0,https://github.com/kevinclark/netty.git,
+1037,nitpick,53,3,53,3,[],A lint for Ruby 1.8. Defunct. Just for posterity.,1,mit,https://github.com/kevinclark/nitpick.git,Ruby
+1038,project_euler,3,1,3,0,[],Project Euler problems,1,,https://github.com/kevinclark/project_euler.git,Haskell
+1039,quicly,0,0,0,0,[],A modular QUIC stack designed primarily for H2O,16,mit,https://github.com/kevinclark/quicly.git,
+1040,redis-py,2,2,2,1,[],Redis Python Client,19,mit,https://github.com/kevinclark/redis-py.git,Python
+1041,reqwest,0,0,0,0,[],An easy and powerful Rust HTTP Client,30,other,https://github.com/kevinclark/reqwest.git,
+1042,robot-army,2,1,2,0,[],Deploy scripting with Thor using remote Ruby execution,1,other,https://github.com/kevinclark/robot-army.git,Ruby
+1043,rsearch,1,0,1,0,[],"Search, in rust. Personal education project.",1,,https://github.com/kevinclark/rsearch.git,Rust
+1044,ruby-kqueue,28,4,28,0,[],KQueue bindings for Ruby. Long defunct. Just for posterity.,1,,https://github.com/kevinclark/ruby-kqueue.git,Ruby
+1045,3rd-party,0,0,0,0,[],third party libs for TIC-80 project,1,,https://github.com/technomancy/3rd-party.git,C
+1046,atreus,634,115,634,5,[],column-staggered travel keyboard design,11,gpl-3.0,https://github.com/technomancy/atreus.git,Racket
+1047,atreus-firmware,89,62,89,0,[],Firmware for the Atreus keyboard,18,gpl-3.0,https://github.com/technomancy/atreus-firmware.git,Emacs Lisp
+1048,better-defaults,867,87,867,5,[],A small number of better defaults for Emacs,9,,https://github.com/technomancy/better-defaults.git,Emacs Lisp
+1049,bludgeon,38,2,38,0,[],Bludgeon is a tool which will tell you if a given library is so large that you could bludgeon someone to death with a printout of it.,2,,https://github.com/technomancy/bludgeon.git,Ruby
+1050,bus-scheme,34,5,34,0,[],"a Scheme written in Ruby, but implemented on the bus!",3,bsd-3-clause,https://github.com/technomancy/bus-scheme.git,Ruby
+1051,bussard,25,1,25,0,[],Spaceflight programming adventure (MOVED),1,gpl-3.0,https://github.com/technomancy/bussard.git,Lua
+1052,calandria,26,2,26,8,[],Unix in voxel-world,2,gpl-3.0,https://github.com/technomancy/calandria.git,Lua
+1053,chopstx,0,0,0,0,[],U2F firmware for Tomu board (+ chopstx port),5,gpl-3.0,https://github.com/technomancy/chopstx.git,C
+1054,chortles,12,4,12,1,[],Calculate the magnitude of a given laugh,2,,https://github.com/technomancy/chortles.git,Clojure
+1055,circleci.el,17,0,17,0,[],Show build output from CircleCI builds inside Emacs,1,,https://github.com/technomancy/circleci.el.git,Emacs Lisp
+1056,clojars-verify,1,0,1,0,[],Verify checksums of Clojars artifacts,1,,https://github.com/technomancy/clojars-verify.git,Clojure
+1057,clojars-web,5,1,5,0,[],A community repository for open-source Clojure libraries,30,epl-1.0,https://github.com/technomancy/clojars-web.git,Clojure
+1058,clojure,0,1,0,0,[],The Clojure programming language,30,,https://github.com/technomancy/clojure.git,Java
+1059,clojure-gem,33,0,33,0,[],Use Clojure's immutable data structures and Software Transactional Memory from Ruby. Don't be afraid of concurrency.,1,epl-1.0,https://github.com/technomancy/clojure-gem.git,Ruby
+1060,clojure-http-client,84,18,84,0,[],An HTTP client for Clojure (DEPRECATED),6,epl-1.0,https://github.com/technomancy/clojure-http-client.git,Clojure
+1061,clojurewest2012-slides,8,1,8,0,[],Slides from Clojure/West 2012,8,,https://github.com/technomancy/clojurewest2012-slides.git,
+1062,clucy,0,0,0,0,[],Clojure interface to Lucene,2,,https://github.com/technomancy/clucy.git,Clojure
+1063,commodore-night-vision,2,5,2,0,[],,1,,https://github.com/technomancy/commodore-night-vision.git,Emacs Lisp
+1064,concourse,10,0,10,0,[],A web app for coordinating gatherings. Written in Compojure.,1,,https://github.com/technomancy/concourse.git,Clojure
+1065,conspire,46,4,46,0,[],A real-time collaborative editing platform built on Git.,1,gpl-3.0,https://github.com/technomancy/conspire.git,Ruby
+1066,cooper,39,1,39,3,[],HyperCard-ish in Racket,1,gpl-3.0,https://github.com/technomancy/cooper.git,Racket
+1067,corkscrew,12,1,12,0,[],Proof-of-concept build system for Clojure.,1,,https://github.com/technomancy/corkscrew.git,Clojure
+1068,die-roboter,37,4,37,2,[],The Robots get your work done in an straightforward way.,2,,https://github.com/technomancy/die-roboter.git,Clojure
+1069,diginet,2,1,2,4,[],Minetest mod for higher-level communication between nodes,1,lgpl-2.1,https://github.com/technomancy/diginet.git,Lua
+1070,drainbot,2,0,2,0,[],Drain Heroku apps to IRC channels,1,epl-1.0,https://github.com/technomancy/drainbot.git,Clojure
+1071,durendal,69,6,69,0,[],A bucket of Emacs tricks for Clojure,4,,https://github.com/technomancy/durendal.git,Emacs Lisp
+1072,edgestow,5,1,5,0,[],"GitHub issues over FUSE, theoretically slash eventually",1,,https://github.com/technomancy/edgestow.git,OCaml
+1073,el-get,0,0,0,0,[],Manage the external elisp bits and pieces upon which you depend!,30,,https://github.com/technomancy/el-get.git,Emacs Lisp
+1074,emacs-starter-kit,2895,926,2895,23,[],Because the Emacs defaults are not so great sometimes.,27,gpl-3.0,https://github.com/technomancy/emacs-starter-kit.git,
+1075,active_presenter,0,1,0,0,[],The presenter library you already know.,5,mit,https://github.com/sevenwire/active_presenter.git,Ruby
+1076,alphadecimal,0,0,0,0,[],Base62 encoding and decoding to turn numbers into very compact strings,1,mit,https://github.com/sevenwire/alphadecimal.git,Ruby
+1077,best_in_place,0,0,0,0,[],A RESTful unobtrusive jQuery Inplace-Editor and a helper as a Rails Gem,30,,https://github.com/sevenwire/best_in_place.git,Ruby
+1078,bootstrapper,59,20,59,0,[],A Rails plugin to assist in bootstrapping and seeding your database.,1,mit,https://github.com/sevenwire/bootstrapper.git,Ruby
+1079,db_branch,16,3,16,0,[],Rails plugin to play nice with git branching and databases.,4,mit,https://github.com/sevenwire/db_branch.git,Ruby
+1080,ezcrypto,0,0,0,0,[],Easy Crypto for Ruby,1,mit,https://github.com/sevenwire/ezcrypto.git,Ruby
+1081,forgery,784,104,784,2,[],Easy and customizable generation of forged data.,30,mit,https://github.com/sevenwire/forgery.git,Ruby
+1082,gotogether.co,0,0,0,0,[],,0,,https://github.com/sevenwire/gotogether.co.git,HTML
+1083,in_place_editing,0,0,0,0,[],InPlaceEditing plugin,10,,https://github.com/sevenwire/in_place_editing.git,Ruby
+1084,multipass,0,0,0,0,[],Bare bones implementation of encoding and decoding MultiPass values for SSO.,6,mit,https://github.com/sevenwire/multipass.git,Ruby
+1085,sambal,0,0,0,0,[],Ruby Samba Client,14,mit,https://github.com/sevenwire/sambal.git,Ruby
+1086,sevenwire-rubocop,0,0,0,4,[],,3,mit,https://github.com/sevenwire/sevenwire-rubocop.git,Ruby
+1087,sevenwire.com,0,0,0,0,[],,1,,https://github.com/sevenwire/sevenwire.com.git,HTML
+1088,userstamp,0,0,0,0,[],This Rails plugin extends ActiveRecord::Base to add automatic updating of created_by and updated_by attributes of your models in much the same way that the ActiveRecord::Timestamp module updates created_(at/on) and updated_(at/on) attributes.,5,mit,https://github.com/sevenwire/userstamp.git,HTML
+1089,4tehlulz.biz,1,1,1,0,[],,1,,https://github.com/technicalpickles/4tehlulz.biz.git,Ruby
+1090,ack.vim,2,1,2,0,[],Vim plugin for the Perl module / CLI script 'ack',3,,https://github.com/technicalpickles/ack.vim.git,VimL
+1091,acnh,0,0,0,0,[],🌱Tracking progress + info in Animal Crossing: New Horizons!,1,,https://github.com/technicalpickles/acnh.git,
+1092,adopt-a-garden,4,1,4,0,[],"Adopt a Garden, in Savannah, GA",9,bsd-3-clause,https://github.com/technicalpickles/adopt-a-garden.git,Ruby
+1093,ale,1,0,1,0,[],Asynchronous linting/fixing for Vim and Language Server Protocol (LSP) integration,30,bsd-2-clause,https://github.com/technicalpickles/ale.git,Vim script
+1094,amazon_associate,3,1,3,0,[],Amazon Associates API Interface using hpricot,0,mit,https://github.com/technicalpickles/amazon_associate.git,Ruby
+1095,ambitious-sphinx,14,3,14,0,[],Ambition adapter for Sphinx,1,mit,https://github.com/technicalpickles/ambitious-sphinx.git,Ruby
+1096,appraisal,2,2,2,0,[],Find out what your Ruby gems are worth. ,8,mit,https://github.com/technicalpickles/appraisal.git,Ruby
+1097,authlogic_facebook_connect,0,1,0,0,[],Extension of the Authlogic library to add Facebook Connect support built upon the excellent facebooker gem,4,,https://github.com/technicalpickles/authlogic_facebook_connect.git,Ruby
+1098,autochronic,1,1,1,0,[],bringing da chronic to your rails models,1,mit,https://github.com/technicalpickles/autochronic.git,Ruby
+1099,BabyParse,0,0,0,0,[],"BabyParse is a fast, reliable CSV parser based on PapaParse (http://PapaParse.com)",7,mit,https://github.com/technicalpickles/BabyParse.git,JavaScript
+1100,bcb4-attendees,2,1,2,0,[],TODO,1,mit,https://github.com/technicalpickles/bcb4-attendees.git,Ruby
+1101,bento,0,0,0,0,[],Modularized Packer definitions for building Vagrant baseboxes,1,,https://github.com/technicalpickles/bento.git,Shell
+1102,blueprint-layout,2,1,2,0,[],Rails helpers to generate Blueprint CSS-based structures,1,mit,https://github.com/technicalpickles/blueprint-layout.git,Ruby
+1103,bootstrap-generators,2,1,2,0,[],Bootstrap-generators provides Twitter Bootstrap generators for Rails 3,2,,https://github.com/technicalpickles/bootstrap-generators.git,Ruby
+1104,bootstrapper,2,1,2,0,[],A Rails plugin to assist in bootstrapping and seeding your database.,1,mit,https://github.com/technicalpickles/bootstrapper.git,Ruby
+1105,bootswatch,0,0,0,0,[],Themes for Bootstrap,30,mit,https://github.com/technicalpickles/bootswatch.git,
+1106,bostonrb,3,1,3,0,[],Website for bostonrb.org,2,,https://github.com/technicalpickles/bostonrb.git,Ruby
+1107,botkit-helper-slack,0,0,0,0,[],:loudspeaker: Functions for helping your Slack bot get its point across. ,0,mit,https://github.com/technicalpickles/botkit-helper-slack.git,JavaScript
+1108,bridge_troll,0,0,0,0,[],Event management system for RailsBridge,30,,https://github.com/technicalpickles/bridge_troll.git,Ruby
+1109,brigade,0,0,0,0,[],Brigade Platform,29,bsd-3-clause,https://github.com/technicalpickles/brigade.git,Ruby
+1110,bringing-vim-to-the-people,2,1,2,0,[],"An lo, on the fourth day he did step down from the mountain, and with him VIM did follow . . . .",2,,https://github.com/technicalpickles/bringing-vim-to-the-people.git,VimL
+1111,bundler,2,1,2,0,[],Gemfiles are fun,21,mit,https://github.com/technicalpickles/bundler.git,Ruby
+1112,calais,3,1,3,0,[],A Ruby interface to the Open Calais API (http://opencalais.com),4,mit,https://github.com/technicalpickles/calais.git,Ruby
+1113,call_for_proposals_2013,0,0,0,0,[],2013 conference call for proposals,5,,https://github.com/technicalpickles/call_for_proposals_2013.git,
+1114,can_flag,3,1,3,0,[],flag content as inappropriate,3,mit,https://github.com/technicalpickles/can_flag.git,Ruby
+1115,capistrano,1,1,1,0,[],Remote multi-server automation tool,30,,https://github.com/technicalpickles/capistrano.git,Ruby
+1116,capistrano-benchmark,8,5,8,1,[],Benchmarking for capistrano tasks,4,mit,https://github.com/technicalpickles/capistrano-benchmark.git,Ruby
+1117,capistrano-campfire,20,6,20,1,[],A tiny shim for using campfire from capistrano,5,mit,https://github.com/technicalpickles/capistrano-campfire.git,Ruby
+1118,capistrano-gitflow,105,22,105,0,[],Capistrano recipe for a deployment workflow based on git tags,7,,https://github.com/technicalpickles/capistrano-gitflow.git,Ruby
+1119,.doom.d,0,0,0,0,[],My Doom Emacs configuration,1,,https://github.com/lazyatom/.doom.d.git,Emacs Lisp
+1120,a2_printer,18,17,18,1,[],A ruby gem for talking to a small thermal printer,2,,https://github.com/lazyatom/a2_printer.git,Ruby
+1121,activejob-lock,0,0,0,0,[],Adapt resque-lock with ActiveJob,2,mit,https://github.com/lazyatom/activejob-lock.git,Ruby
+1122,acts_as_hasselhoff,13,3,13,0,[],You know it. You love it. Now it's on github. As dumb as ever.,0,,https://github.com/lazyatom/acts_as_hasselhoff.git,Ruby
+1123,aemeredith.com,0,0,0,0,[],,0,other,https://github.com/lazyatom/aemeredith.com.git,CSS
+1124,backchat,27,1,27,0,[],Your own personal hoodwink'd. Add commenting to any site.,1,,https://github.com/lazyatom/backchat.git,Ruby
+1125,boomerang-rails,0,0,0,0,[],Redirection helpers for rails,1,,https://github.com/lazyatom/boomerang-rails.git,Ruby
+1126,cmmid.github.io,0,0,0,0,[],,23,,https://github.com/lazyatom/cmmid.github.io.git,HTML
+1127,contacts,2,1,2,0,[],"A universal interface to import email contacts from various providers including Yahoo, Gmail, Hotmail, and Plaxo.",3,bsd-3-clause,https://github.com/lazyatom/contacts.git,Ruby
+1128,docker-ruby-2.0,0,0,0,0,[],"A docker image prepared container Ruby 2.0, to be used as a base",1,mit,https://github.com/lazyatom/docker-ruby-2.0.git,Shell
+1129,docker-ruby-build,0,0,0,0,[],"A docker image prepared for building rubies, to be used as a base",1,mit,https://github.com/lazyatom/docker-ruby-build.git,Shell
+1130,docker-test-rails-app,0,0,0,0,[],A test application for handling Rails with Docker,1,mit,https://github.com/lazyatom/docker-test-rails-app.git,Ruby
+1131,docker-ubuntu,0,0,0,0,[],Basic ubuntu set up for installing other things sensibly,1,mit,https://github.com/lazyatom/docker-ubuntu.git,Shell
+1132,dockerfiles,0,0,0,0,[],Some docker stuff I'm exploring,1,mit,https://github.com/lazyatom/dockerfiles.git,
+1133,dokku,0,0,0,0,[],A docker-powered PaaS that helps you build and manage the lifecycle of applications,30,mit,https://github.com/lazyatom/dokku.git,Shell
+1134,dokku-buildpack-jekyll3-nginx,0,0,0,0,[],Jekyll 3 on Dokku,9,mit,https://github.com/lazyatom/dokku-buildpack-jekyll3-nginx.git,Shell
+1135,dokku-chrome,9,1,9,0,[],A headless chrome service for dokku,1,,https://github.com/lazyatom/dokku-chrome.git,Shell
+1136,doom-emacs,0,0,0,0,[],An Emacs framework for the stubborn martian hacker,30,mit,https://github.com/lazyatom/doom-emacs.git,
+1137,dotfiles,1,1,1,1,[],"My config files for git, zsh and more",2,,https://github.com/lazyatom/dotfiles.git,Emacs Lisp
+1138,engines,176,22,176,0,[],"The Rails Engines plugin, providing engines features to Rails up to 2.3. I recommend you upgrade to Rails 3.1 when it's available, and use the native engine features it provides!",12,mit,https://github.com/lazyatom/engines.git,Ruby
+1139,freeagent-widget,23,7,23,5,[],A widget for tracking time in FreeAgent,1,,https://github.com/lazyatom/freeagent-widget.git,JavaScript
+1140,gem-this,78,6,78,1,[],A super-simple tool to help turn existing code into a gem,8,,https://github.com/lazyatom/gem-this.git,Ruby
+1141,ghost-harmonia-theme,0,0,0,0,[],The theme running harmonia.io/blog,1,,https://github.com/lazyatom/ghost-harmonia-theme.git,CSS
+1142,gitnode,1,0,1,1,[],A trivial git browser. Nothing to see here.,1,,https://github.com/lazyatom/gitnode.git,Ruby
+1143,golf-scores,0,1,0,0,[],Tracking ruby golf scores,1,,https://github.com/lazyatom/golf-scores.git,Ruby
+1144,harmonia-graphs,0,0,0,0,[],Statsd graphs for harmonia,1,,https://github.com/lazyatom/harmonia-graphs.git,JavaScript
+1145,hashblue.app,2,0,2,0,[],An example API application using the hashblue API,2,,https://github.com/lazyatom/hashblue.app.git,Ruby
+1146,heroku-buildpack-apt,0,0,0,0,[],,11,,https://github.com/lazyatom/heroku-buildpack-apt.git,Shell
+1147,homebrew-cask,0,0,0,0,[],🍻 A CLI workflow for the administration of macOS applications distributed as binaries,30,bsd-2-clause,https://github.com/lazyatom/homebrew-cask.git,
+1148,hostess,35,4,35,3,[],Create apache virtual hosts simply and easily,3,,https://github.com/lazyatom/hostess.git,Ruby
+1149,Aware,139,23,139,0,['swift'],,4,,https://github.com/josh/Aware.git,Swift
+1150,brew,0,0,0,0,[],🍺 The missing package manager for macOS (or Linux),30,bsd-2-clause,https://github.com/josh/brew.git,
+1151,certbot-tickerd,0,0,0,0,[],,1,mit,https://github.com/josh/certbot-tickerd.git,Dockerfile
+1152,css-explain,1090,53,1090,0,[],SQL EXPLAIN for CSS selectors,3,mit,https://github.com/josh/css-explain.git,JavaScript
+1153,csv2json,6,0,6,0,[],"A humble CSV tool, friend of jq",1,mit,https://github.com/josh/csv2json.git,Swift
+1154,displayrcd,2,0,2,0,[],Run a script when your Mac changes displays,1,mit,https://github.com/josh/displayrcd.git,Swift
+1155,docker-ondemand,2,0,2,0,[],Lazily start and automatically stop Docker for Mac,1,mit,https://github.com/josh/docker-ondemand.git,Shell
+1156,dotfiles,60,3,60,0,"['shell', 'dotfiles', 'bash']",,1,,https://github.com/josh/dotfiles.git,Shell
+1157,emacs.d,23,6,23,0,[],My Emacs config,1,,https://github.com/josh/emacs.d.git,Emacs Lisp
+1158,google-domains-ddns,4,0,4,0,[],,1,mit,https://github.com/josh/google-domains-ddns.git,Dockerfile
+1159,hktwiliocallbox,0,0,0,0,[],,1,mit,https://github.com/josh/hktwiliocallbox.git,Go
+1160,homebrew-core,0,0,0,0,[],🍻 Default formulae for the missing package manager for macOS,30,bsd-2-clause,https://github.com/josh/homebrew-core.git,
+1161,homebrew-tap,0,0,0,0,[],Homebrew custom formulas for @josh repositories.,1,mit,https://github.com/josh/homebrew-tap.git,Ruby
+1162,icloud-backup-utils,4,1,4,0,[],Scripts creating backups of iCloud data.,1,mit,https://github.com/josh/icloud-backup-utils.git,Shell
+1163,imdb-trakt-sync,22,1,22,0,"['docker', 'trakt', 'imdb']",Sync IMDb to Trakt,2,mit,https://github.com/josh/imdb-trakt-sync.git,Shell
+1164,itunes-trakt,1,1,1,0,[],Sync iTunes Library data to Trakt.,1,mit,https://github.com/josh/itunes-trakt.git,Shell
+1165,josh,1,1,1,0,[],,1,,https://github.com/josh/josh.git,
+1166,jquery-selector-set,219,17,219,0,"['javascript', 'jquery']",,7,mit,https://github.com/josh/jquery-selector-set.git,JavaScript
+1167,launchdns,74,7,74,0,"['c', 'launchd', 'dns']",A launchd friendly development DNS server,4,mit,https://github.com/josh/launchdns.git,Shell
+1168,list-unsubscribe,59,5,59,0,[],"Magic ""Unsubscribe"" IMAP folder",3,mit,https://github.com/josh/list-unsubscribe.git,Ruby
+1169,nack,178,6,178,0,[],Node powered Rack server,2,mit,https://github.com/josh/nack.git,CoffeeScript
+1170,offlineimap-gmail,2,0,2,0,[],,1,mit,https://github.com/josh/offlineimap-gmail.git,Dockerfile
+1171,overcast-sonos,181,16,181,0,"['sonos', 'overcast', 'smapi']",Listen to your Overcast podcasts on Sonos.,3,mit,https://github.com/josh/overcast-sonos.git,PHP
+1172,pdftotext,8,4,8,0,"['aws', 'lambda', 'xpdf']",Service for extracting text from PDFs,3,mit,https://github.com/josh/pdftotext.git,Shell
+1173,python-tickerd,0,0,0,0,[],Run dumb python scripts in a loop,1,mit,https://github.com/josh/python-tickerd.git,Dockerfile
+1174,rack-openid,139,50,139,0,[],Provides a more HTTPish API around the ruby-openid library,9,mit,https://github.com/josh/rack-openid.git,Ruby
+1175,rails,33,6,33,0,[],Ruby on Rails,30,,https://github.com/josh/rails.git,Ruby
+1176,rails-behaviors,272,19,272,0,[],Rails UJS Behaviors for jQuery and Zepto,10,mit,https://github.com/josh/rails-behaviors.git,CoffeeScript
+1177,scroll-anchoring,47,2,47,0,[],Preserves the user's scroll position while DOM mutations change the page.,1,mit,https://github.com/josh/scroll-anchoring.git,HTML
+1178,selector-observer,180,18,180,3,[],Allows you to monitor DOM elements that match a CSS selector,4,mit,https://github.com/josh/selector-observer.git,JavaScript
+1179,artfully_ose,0,0,0,0,[],Open-source Rails engine that powers Artful.ly and Artfully Open Source Edition.,3,agpl-3.0,https://github.com/cdcarter/artfully_ose.git,Ruby
+1180,backpacking,58,6,58,0,[],An Io web framework of sorts,2,mit,https://github.com/cdcarter/backpacking.git,Io
+1181,bitstarter,0,0,0,0,[],,2,,https://github.com/cdcarter/bitstarter.git,JavaScript
+1182,bootstrap,1,0,1,0,[],"HTML, CSS, and JS toolkit from Twitter",30,apache-2.0,https://github.com/cdcarter/bootstrap.git,JavaScript
+1183,bootstrap-visualforce-101,0,0,0,0,[],,1,,https://github.com/cdcarter/bootstrap-visualforce-101.git,
+1184,cdcarter.github.com,1,0,1,0,[],,30,,https://github.com/cdcarter/cdcarter.github.com.git,HTML
+1185,chicago-atlas,0,0,0,0,[],View citywide information about health trends and take action near you to improve your own health.,2,,https://github.com/cdcarter/chicago-atlas.git,Ruby
+1186,chill,0,0,0,0,[],chill plugs ruby code in to CouchDB,1,bsd-3-clause,https://github.com/cdcarter/chill.git,HTML
+1187,commonjs-date-formatting,1,0,1,0,[],PHP style strftime date formatting for CommonJS apps.,2,,https://github.com/cdcarter/commonjs-date-formatting.git,JavaScript
+1188,cookiecutter-django,0,0,0,0,[],Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.,30,bsd-3-clause,https://github.com/cdcarter/cookiecutter-django.git,Python
+1189,cookiecutter-django-rest,0,0,0,0,[],Build best practiced apis fast with Python3,15,mit,https://github.com/cdcarter/cookiecutter-django-rest.git,Python
+1190,couchapp,1,0,1,0,[],Utilities to make standalone CouchDB application development simple,16,apache-2.0,https://github.com/cdcarter/couchapp.git,Python
+1191,crowdbuilder,0,0,0,0,[],,2,,https://github.com/cdcarter/crowdbuilder.git,Apex
+1192,CSV-GitHub-import-export,0,0,0,0,[],Import/export GitHub issues from/to CSV files,1,,https://github.com/cdcarter/CSV-GitHub-import-export.git,Ruby
+1193,Cumulus,0,0,0,0,[],The next version of the Salesforce.com Nonprofit Starter Pack,21,bsd-3-clause,https://github.com/cdcarter/Cumulus.git,Apex
+1194,CumulusCI,0,0,0,0,[],A reusable set of build and automation scripts to facilitate a best practices based development and release process for managed package development on the Salesforce1 Platform,15,bsd-3-clause,https://github.com/cdcarter/CumulusCI.git,Python
+1195,CumulusCI-OAuth-Tool,0,0,0,0,[],A basic Flask web app to make it easy to get a refresh token to a Salesforce org from your own Connected App,2,,https://github.com/cdcarter/CumulusCI-OAuth-Tool.git,Python
+1196,CumulusCI-Test,0,0,0,0,[],Dummy project used to test CumulusCI - CumulusCI will run this project through the whole CI flow to verify everything works,3,,https://github.com/cdcarter/CumulusCI-Test.git,Apex
+1197,declarative-autonaming,1,0,1,0,[],DLRS gone single object,1,other,https://github.com/cdcarter/declarative-autonaming.git,Apex
+1198,declarative-lookup-rollup-summaries,0,0,0,0,[],Declarative Rollup Summaries for Lookups,9,bsd-3-clause,https://github.com/cdcarter/declarative-lookup-rollup-summaries.git,Apex
+1199,design-system,0,0,0,0,[],Salesforce Lightning Design System,10,,https://github.com/cdcarter/design-system.git,JavaScript
+1200,design-system-starter-kit,0,0,0,0,[],Rapid prototyping environment using the Salesforce Lightning Design System,8,bsd-3-clause,https://github.com/cdcarter/design-system-starter-kit.git,HTML
+1201,dino,0,0,0,0,[],Dino is a ruby gem that helps you bootstrap prototyping with an Arduino,18,mit,https://github.com/cdcarter/dino.git,Ruby
+1202,dj-request-correlation,0,0,0,0,[],x-request-id helpers and more,1,mit,https://github.com/cdcarter/dj-request-correlation.git,Python
+1203,django-admin2,0,0,0,0,[],"Extendable, adaptable rewrite of django.contrib.admin",30,other,https://github.com/cdcarter/django-admin2.git,Python
+1204,django-allauth,0,0,0,0,[],"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",30,mit,https://github.com/cdcarter/django-allauth.git,Python
+1205,django-log-request-id,0,0,0,0,[],Django middleware and log filter to attach a unique ID to every log message generated as part of a request,7,bsd-2-clause,https://github.com/cdcarter/django-log-request-id.git,Python
+1206,django-object-actions,0,0,0,0,[],A Django app for adding object tools for models in the admin,12,apache-2.0,https://github.com/cdcarter/django-object-actions.git,Python
+1207,django-request-logging,0,0,0,0,[],Django middleware that logs http request body.,17,mit,https://github.com/cdcarter/django-request-logging.git,Python
+1208,django-rest-framework,0,0,0,0,[],Web APIs for Django.,30,other,https://github.com/cdcarter/django-rest-framework.git,Python
+1209,2021-usa-roadtrip,0,0,0,0,[],,1,,https://github.com/bs/2021-usa-roadtrip.git,
+1210,AlarmServer,0,0,0,0,[],Envisalink 2DS/3 Alarm Server (Proxy & HTTP/JSON),5,,https://github.com/bs/AlarmServer.git,JavaScript
+1211,alfred-github-workflow,0,0,0,0,[],GitHub Workflow for Alfred 3/4,11,mit,https://github.com/bs/alfred-github-workflow.git,
+1212,alfred-pinboard-rs,0,0,0,0,[],Alfred Workflow for Pinboard (Rust),4,other,https://github.com/bs/alfred-pinboard-rs.git,
+1213,awesome-go,0,0,0,0,[],"A curated list of awesome Go frameworks, libraries and software",30,mit,https://github.com/bs/awesome-go.git,
+1214,browser-laptop,1,1,1,0,[],"Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux",30,mpl-2.0,https://github.com/bs/browser-laptop.git,JavaScript
+1215,cocktail-party-problem,0,1,0,0,[],,2,,https://github.com/bs/cocktail-party-problem.git,Jupyter Notebook
+1216,dendron,0,0,0,0,[],The personal knowledge management (PKM) tool that grows as you do!,9,agpl-3.0,https://github.com/bs/dendron.git,TypeScript
+1217,dendron-template,0,0,0,0,[],Getting started with Dendron,14,mit,https://github.com/bs/dendron-template.git,JavaScript
+1218,dotfiles,0,0,0,0,[],.dotfiles :),1,,https://github.com/bs/dotfiles.git,CSS
+1219,forkmysite,0,0,0,0,[],Templates to forkmysite.com,2,,https://github.com/bs/forkmysite.git,HTML
+1220,from_zero_to_DSP,0,0,0,0,[],,3,,https://github.com/bs/from_zero_to_DSP.git,
+1221,Glass-Dome,0,0,0,0,[],An Alfred workflow to fight link rot in Markdown notes.,1,cc0-1.0,https://github.com/bs/Glass-Dome.git,
+1222,hello-github-actions,0,0,0,1,[],,2,mit,https://github.com/bs/hello-github-actions.git,
+1223,homebridge-nest,0,0,0,0,[],Nest plugin for HomeBridge,12,,https://github.com/bs/homebridge-nest.git,JavaScript
+1224,jekyll-compose,0,0,0,0,[],:memo: Streamline your writing in Jekyll with these commands.,22,mit,https://github.com/bs/jekyll-compose.git,
+1225,jschesstest,0,0,0,1,[],,0,,https://github.com/bs/jschesstest.git,JavaScript
+1226,machine-learning-for-software-engineers,0,1,0,0,[],A complete daily plan for studying to become a machine learning engineer.,16,cc-by-sa-4.0,https://github.com/bs/machine-learning-for-software-engineers.git,
+1227,markdown-portfolio,0,0,0,1,[],,2,mit,https://github.com/bs/markdown-portfolio.git,
+1228,my-mac-os,0,0,0,0,[],List of applications and tools that make my macOS experience even more amazing,4,mit,https://github.com/bs/my-mac-os.git,
+1229,oss-enterprise,0,0,0,1,[],,1,cc-by-4.0,https://github.com/bs/oss-enterprise.git,
+1230,p5.js-sound,0,0,0,0,[],p5.sound brings the Processing approach to Web Audio and p5.js. Demos:,30,mit,https://github.com/bs/p5.js-sound.git,
+1231,pleasejobme,2,0,2,1,[],A project to help people connect with Twitter Employees at SxSW.,1,,https://github.com/bs/pleasejobme.git,JavaScript
+1232,shields,0,0,0,0,[],"Concise, consistent, and legible badges in SVG and raster format",30,cc0-1.0,https://github.com/bs/shields.git,
+1233,signal-muon,0,0,0,0,[],Signal Desktop using https://github.com/brave/muon instead of Chrome. Not affiliated with WhisperSystems.,6,mpl-2.0,https://github.com/bs/signal-muon.git,JavaScript
+1234,SmartThingsPublic,0,0,0,0,[],,30,,https://github.com/bs/SmartThingsPublic.git,Groovy
+1235,starling,22,3,22,1,[],Starling Message Queue,0,mit,https://github.com/bs/starling.git,Ruby
+1236,TiddlyWiki5,0,0,0,0,[],"A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",30,other,https://github.com/bs/TiddlyWiki5.git,
+1237,vscode,0,0,0,0,[],Visual Studio Code,30,mit,https://github.com/bs/vscode.git,
+1238,wikish,2,1,2,0,[],A wiki-ish collection of thoughts and feelings,1,,https://github.com/bs/wikish.git,
+1239,actionview-fields_for_with_template,1,0,1,0,[],Adds fields_for_with_template method for use in views where JS is used to add/remove fields,3,mit,https://github.com/collectiveidea/actionview-fields_for_with_template.git,Ruby
+1240,action_mailer_optional_tls,129,26,129,0,[],Enables TLS on SMTP connections (for services like GMail),4,,https://github.com/collectiveidea/action_mailer_optional_tls.git,Ruby
+1241,active_merchant,4,0,4,0,[],"Active Merchant is a simple payment abstraction library used in and sponsored by Shopify. It is written by Tobias Luetke, Cody Fauser, and contributors. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.",10,mit,https://github.com/collectiveidea/active_merchant.git,Ruby
+1242,active_resource_throttle,1,1,1,0,[],A throttler for ActiveResource requests.,1,other,https://github.com/collectiveidea/active_resource_throttle.git,Ruby
+1243,acts-as-taggable-on,4,2,4,0,[],A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.,6,mit,https://github.com/collectiveidea/acts-as-taggable-on.git,Ruby
+1244,acts_as_audited,4,1,4,0,[],acts_as_audited is now… Audited.,1,,https://github.com/collectiveidea/acts_as_audited.git,
+1245,acts_as_geocodable,202,40,202,2,[],Simple geocoding for Active Record models,7,other,https://github.com/collectiveidea/acts_as_geocodable.git,Ruby
+1246,acts_as_money,44,15,44,0,[],an Active Record plugin that makes it easier to work with the money gem,2,,https://github.com/collectiveidea/acts_as_money.git,Ruby
+1247,adapter-simpledb,3,1,3,0,[],An adapter for Amazon's SimpleDB,1,,https://github.com/collectiveidea/adapter-simpledb.git,Ruby
+1248,address_book,0,0,0,0,[],A demo for teaching RSpec concepts,1,,https://github.com/collectiveidea/address_book.git,Ruby
+1249,apnotic,0,2,0,0,[],A Ruby APNs HTTP/2 gem able to provide instant feedback.,15,mit,https://github.com/collectiveidea/apnotic.git,
+1250,ARPlaneDetector,20,4,20,0,[],"Use ARKit to find, and visualize horizontal and vertical planes.",1,,https://github.com/collectiveidea/ARPlaneDetector.git,Swift
+1251,ARtistry,0,1,0,0,[],AR drawing demonstration app.,1,,https://github.com/collectiveidea/ARtistry.git,Swift
+1252,attribute_fu,3,0,3,0,[],rails multi-model forms made easy!,3,mit,https://github.com/collectiveidea/attribute_fu.git,Ruby
+1253,audit-demo,6,0,6,0,[],Demo application for acts_as_audited,1,,https://github.com/collectiveidea/audit-demo.git,
+1254,audited,2869,567,2869,150,[],Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.,30,mit,https://github.com/collectiveidea/audited.git,Ruby
+1255,awesome-backup,33,3,33,0,[],Rails plugin that provides Rake and Capistrano tasks for making database backups,2,,https://github.com/collectiveidea/awesome-backup.git,Ruby
+1256,awesomeness,46,3,46,0,[],Collective Idea's Awesomeness.  A collection of useful Rails bits and pieces.,4,,https://github.com/collectiveidea/awesomeness.git,Ruby
+1257,awesome_nested_set,2230,482,2230,4,[],An awesome replacement for acts_as_nested_set and better_nested_set.,30,mit,https://github.com/collectiveidea/awesome_nested_set.git,Ruby
+1258,bender,8,3,8,1,[],,8,mit,https://github.com/collectiveidea/bender.git,Ruby
+1259,BTExample,0,1,0,0,[],,1,,https://github.com/collectiveidea/BTExample.git,Swift
+1260,build-test,1,0,1,0,[],Stupid simple way to test a continuous integration build server.,2,,https://github.com/collectiveidea/build-test.git,Shell
+1261,buildlight,6,4,6,10,"['travis-ci', 'circle-ci', 'stoplight', 'heroku-ci']","Aggregating webhooks from multiple build services (Travis, Circle, Heroku) to power the stoplight in our office.",6,mit,https://github.com/collectiveidea/buildlight.git,Ruby
+1262,caldav,39,9,39,0,[],A Ruby CalDAV client,3,,https://github.com/collectiveidea/caldav.git,Ruby
+1263,calendar_builder,42,6,42,1,[],,2,,https://github.com/collectiveidea/calendar_builder.git,Ruby
+1264,capybara-ui,6,0,6,1,[],"Page objects for readable, resilient acceptance tests",2,mit,https://github.com/collectiveidea/capybara-ui.git,Ruby
+1265,chat,7,3,7,0,[],An example chat application,1,,https://github.com/collectiveidea/chat.git,Ruby
+1266,clear_empty_attributes,9,5,9,0,[],"When Active Record objects are saved from a form, empty fields are saved as empty strings instead of nil.  This kills most validations.",2,,https://github.com/collectiveidea/clear_empty_attributes.git,Ruby
+1267,cms,0,1,0,0,[],"Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",30,other,https://github.com/collectiveidea/cms.git,
+1268,coderay,0,0,0,0,[],"Fast and easy syntax highlighting for selected languages, written in Ruby.",12,other,https://github.com/collectiveidea/coderay.git,Ruby

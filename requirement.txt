@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+seaborn
+requests
+bs4
+nltk
+import_ipynb
+pickle
+joblib 
