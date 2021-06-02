@@ -61,6 +61,7 @@ header={'Accept':'application/vnd.github.mercy-preview+json',
 ```
 streamlit run app.py
 ```
+
 **Note: To paste the github token in the model.ipynb notebook and app.py file.**
 <hr>
 
