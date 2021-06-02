@@ -58,7 +58,7 @@ header={'Accept':'application/vnd.github.mercy-preview+json',
 ```
 streamlit run app.py
 ```
-**Note: Put the github token in the model.ipynb notebook and app.py also in order to make prediction.**
+**Note: Put the github token in the model.ipynb notebook and app.py to make prediction.**
 <hr>
 
 Click [here](https://repopopularity.herokuapp.com/) to try now..... 🤗
