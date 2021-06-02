@@ -1,6 +1,6 @@
 # Predicting-Repo-popularity
 
-<img src="media/sample.gif" width="900" height="500" />
+<img src="media/sample.gif" width="900" height="430" />
 
 Machine learning model that can predict the popularity of GitHub repository just by giving your repo URL in the input. Here, popularity means the number of stars ✨ it can get in the future. So, for data we use scripts to scrap data from github.
 
@@ -39,7 +39,7 @@ cd Predicting-Repo-popularity
 ```
 
 
-1. To extract the  github repo data using github api run data_extraction.ipynb notebook.<br>
+1. To extract the  github repo data using github api run [data_extraction.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/data_extraction.ipynb) notebook.<br>
 Github has the limits on the accessing the github api , so you need to use your github token inorder to extract data . One can generate their github token from [here](https://github.com/settings/tokens).
 
 Github api requires headers for authorization.<br>
@@ -51,9 +51,9 @@ header={'Accept':'application/vnd.github.mercy-preview+json',
 } 
 ```
 
-2. To visualize some insight of the dataset run analysis.ipynb
+2. To visualize some insight of the dataset run [analysis.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/analysis.ipynb)
 
-3. For training model to make prediction of repo popularity run model.ipynb , we have used multiple regressions model , but one with the best R2 score is used for making prediction.<br><br>
+3. For training model to make prediction of repo popularity run [model.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/model.ipynb) , we have used multiple regressions model , but one with the best R2 score is used for making prediction.<br><br>
 * Run streamlit inorder to make prediction using trained model:
 ```
 streamlit run app.py
