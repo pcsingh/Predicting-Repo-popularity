@@ -41,9 +41,8 @@ cd Predicting-Repo-popularity
 
 1. To extract the  github repo data using github api run [data_extraction.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/data_extraction.ipynb) notebook.
 <br>
-Github has the limits on the number of requests using github api, so you need to use your github token in order to extract data.One can generate their github token from [here](https://github.com/settings/tokens).
+Github has the limits on the number of requests using github api, so you need to use your github token in order to extract data.One can generate their github token from [here](https://github.com/settings/tokens) .
 
-Replace the `PASTE_YOUR_GITHUB_TOKEN_HERE` with your github token.
 
 GitHub api requires headers for authorization.<br>
 
@@ -53,6 +52,7 @@ header={'Accept':'application/vnd.github.mercy-preview+json',
 "Authorization": "token PASTE_YOUR_GITHUB_TOKEN_HERE"
 } 
 ```
+Replace the `PASTE_YOUR_GITHUB_TOKEN_HERE` with your github token.
 
 2. To visualize some insight of the dataset run [analysis.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/analysis.ipynb)
 
