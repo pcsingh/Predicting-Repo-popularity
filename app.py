@@ -32,7 +32,7 @@ with open('pretrained_model/train_model.pkl','rb') as f:
 
 # print(vocabulary)
 def perc(tags):
-    """This function returns the percentage of the total of tags in repository
+    """This function returns the ratio of the total of tags in repository
 
     Args:
         tags (List): Tags that are in the repository

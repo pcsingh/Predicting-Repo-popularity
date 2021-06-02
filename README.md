@@ -4,9 +4,9 @@
 
 Machine learning model that can predict the popularity of GitHub repository just by giving your repo URL in the input. Here, popularity means the number of stars ✨ it can get in the future. So, for data we use scripts to scrap data from github.
 
-Folder `Notebooks` contains data files and script to extract data. We have used github api and kaggle github dataset and the file `kaggle_data.csv` and `github_api.csv`  contains all the combine data of repositories which has columns `repo_name`, `star`, `fork`, `watch`, `issue`, `tags`, `most_used_lang`, `discription`, `contributors`, `license`, and `repo_url`.
+Folder `Notebooks` contains data and script to extract data, analysis of data or the model creation code. We have used github api and Kaggle to collect the github data stored in the  file `github_api.csv` and `kaggle_data.csv` respectively which has columns `repo_name`, `star`, `fork`, `watch`, `issue`, `tags`, `most_used_lang`, `discription`, `contributors`, `license`, and `repo_url`.
 
-data_extraction.ipynb file contains script to extract repositories data, analysis.ipynb file contains cleaning and visualization operations on the dataset. model.ipynb building a machine learning model that can predict which repositories will gain how much `stars` in the future. 😃
+`data_extraction.ipynb` file contains script to extract the information from repositories, `analysis.ipynb` file contains cleaning and visualization operations on the dataset. `model.ipynb` building a machine learning model that can predict which repositories will gain how much `stars` in the future. 😃
 
 ## Run on Local System
 
@@ -14,7 +14,7 @@ data_extraction.ipynb file contains script to extract repositories data, analysi
 ```
 python -m venv "evironment_name"
 ```
-For more details follow [this](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
+For more details follow [this link](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
 
 * Activate the Environment:
   - For Windows:
@@ -24,25 +24,28 @@ For more details follow [this](https://packaging.python.org/guides/installing-us
     > source "evironment_name"/bin/activate
 
 
-* Install all the dependencies using : 
+* Install the required dependencies: 
 ```
 pip install -r requirement.txt
 ```
 
-*  Clone this repository:
+*  Clone the repository:
 ```
 git clone https://github.com/pcsingh/Predicting-Repo-popularity.git
 ```
-* Open the project directory:
+* Enter into the directory:
 ```
 cd Predicting-Repo-popularity
 ```
 
 
-1. To extract the  github repo data using github api run [data_extraction.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/data_extraction.ipynb) notebook.<br>
-Github has the limits on the accessing the github api , so you need to use your github token inorder to extract data . One can generate their github token from [here](https://github.com/settings/tokens).
+1. To extract the  github repo data using github api run [data_extraction.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/data_extraction.ipynb) notebook.
+<br>
+Github has the limits on the number of requests using github api, so you need to use your github token in order to extract data. One can generate their github token from [here](https://github.com/settings/tokens).
+<br>
+Replace the `PASTE_YOUR_GITHUB_TOKEN_HERE` with your github token.
 
-Github api requires headers for authorization.<br>
+GitHub api requires headers for authorization.<br>
 
 ```
 header={'Accept':'application/vnd.github.mercy-preview+json',
@@ -53,12 +56,12 @@ header={'Accept':'application/vnd.github.mercy-preview+json',
 
 2. To visualize some insight of the dataset run [analysis.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/analysis.ipynb)
 
-3. For training model to make prediction of repo popularity run [model.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/model.ipynb) , we have used multiple regressions model , but one with the best R2 score is used for making prediction.<br><br>
-* Run streamlit inorder to make prediction using trained model:
+3. For training the model run [model.ipynb](https://github.com/pcsingh/Predicting-Repo-popularity/blob/master/Notebooks/model.ipynb) file, we have used multiple regressions model, but one with the best R2 score is used for making prediction.<br><br>
+* Run streamlit in order to make prediction using trained model:
 ```
 streamlit run app.py
 ```
-**Note: Put the github token in the model.ipynb notebook and app.py also in order to make prediction.**
+**Note: To paste the github token in the model.ipynb notebook and app.py file.**
 <hr>
 
 Click [here](https://repopopularity.herokuapp.com/) to try now..... 🤗
