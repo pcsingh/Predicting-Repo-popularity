@@ -16,13 +16,13 @@ print('\nstopwords downloading completed! Application is running.')
 
 header={'Accept':'application/vnd.github.mercy-preview+json',
 'visibility':'PUBLIC',
-"Authorization": "token PASTE_YOUR_GITHUB_TOKEN"
+"Authorization": "token PASTE_YOUR_GITHUB_TOKEN_HERE"
 }
 
 st.markdown(f'''<h1 style="text-align:center;color:#929aab;font-family:Bitter;font-size:54px;margin-bottom:20px">
                 Github Repo Popularity <br>Prediction</h1>''', unsafe_allow_html=True)
 
-st.image('original.gif')
+st.image('media/original.gif')
 
 # loading the vocabulary and the train pickle file
 with open('pretrained_model/objs.pkl','rb') as f:  
@@ -96,7 +96,6 @@ if submit_button:
         dataf.append(license)
         df=pd.DataFrame([dataf],columns=['fork','watch','issue','tags','description','most_used_lang','contributers','license'])
         
-        
         df['most_used_lang']=df['most_used_lang'].str.lower()
         df['description']=df['description'].str.lower()
         df['tag_ratio']=df['tags'].apply(perc).astype(float)
@@ -123,8 +122,8 @@ if submit_button:
             st.markdown(f"<h1 style=' color: #BAE8E8;'>{number1}</h1>", unsafe_allow_html=True)
         
         with second_kpi:
-            st.markdown("**Watchers**")
-            number2 = data['watchers']
+            st.markdown("**Most Used Language**")
+            number2 = data['language']
             st.markdown(f"<h1 style=' color: #BAE8E8;'>{number2}</h1>", unsafe_allow_html=True)
         
         with third_kpi:
